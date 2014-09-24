@@ -10,3 +10,5 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 permalink: pretty
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
