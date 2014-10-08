@@ -1,0 +1,7 @@
+{
+  "name": "Jekyll on Heroku",
+  "description": "Jekyll on Heroku",
+  "repository": "https://github.com/jamesward/jekyll-heroku",
+  "website": "http://www.jamesward.com/2014/09/24/jekyll-on-heroku",
+  "keywords": ["jekyll", "static"]
+}
