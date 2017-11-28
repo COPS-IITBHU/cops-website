@@ -9,6 +9,7 @@ Run locally:
 
 - Install rbenv
 - `rbenv install`
+- `eval "$(rbenv init -)"`
 - `gem install bundler`
 - `bundle install`
 - `bundle exec jekyll serve --watch`
