@@ -12,10 +12,10 @@
             {% if forloop.last == forloop.first %}
         <div class="col-sm-4 col-sm-offset-4 wow zoomIn">
                 {% else %}
-        <div class="col-sm-4 wow {% if loopindex != 0 %} col-sm-offset-4 fadeInRight {% else %} zoomIn {% endif %}">
+        <div class="col-sm-4 wow zoomIn ">
             {% endif %}
         {% else %}
-        <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% else if loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
+        <div class="col-sm-4 wow zoomIn ">
         {% endif %}
         <div class="team-member">
             <h4><span class="navy">{{ link.last_name }}</span> {{ link.first_name }}</h4>
