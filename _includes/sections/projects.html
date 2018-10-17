@@ -17,7 +17,7 @@
             {% else %}
             <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% endif %}
-              <div class="team-member">
+              <div class="team-member" style="padding: 5%">
                   <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
                   <h4>
                   {% if project.url %}
