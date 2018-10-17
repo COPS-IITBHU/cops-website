@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: SNTC Streamify
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  gh_user: COPS-IITBHU
+  repo: SnTC-Streamify
+  url: https://play.google.com/store/apps/details?id=in.shriyansh.streamify
+  img: /static/assets/img/landing/sntc-streamify.png
+  desc: An Andoid application for Science and Technology Council, IIT BHU. Features include news feed, event registration and details, stream filter etc. 
 
-- name: Python
+- name: IIT BHU Study Portal
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  url: https://play.google.com/store/apps/details?id=com.shoom.iitbhuapp
+  img: /static/assets/img/landing/studyportal.png
+  desc: IIT BHU Study Portal aims to act as knowledge hub of IIT BHU, where anyone can share files, study materials, question papers and many more.
 
-- name: Google
+- name: Problem of the Week
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  url: https://docs.google.com/document/d/1J2c5zkhvZQ8U2S5PNxZoTQce0MO2JCdPOrnfViZ2Lv8/edit?usp=sharing
+  img: /static/assets/img/landing/potw.png
+  desc: POTW, Problem of the Week was developed to help the competitive programmers of the institute excell in the field. Prepared by the top coders of the institute, these consists of amazing study materials, selected problems to practice and covers almost all the major Algorithms and Data Structures used in competitive programming. With over 2000 clicks already, these are a very helpful resource for internships and placement preparation as well.

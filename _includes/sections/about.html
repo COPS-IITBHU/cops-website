@@ -2,7 +2,7 @@
     <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
-            <h1><span data-i18n="about_me.about_me">About Me</span></h1>
+            <h1><span data-i18n="about_me.about_me">About Us</span></h1>
             <!-- <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p> -->
         </div>
     </div>
@@ -24,21 +24,27 @@
                 <h4><span class="navy">{{ site.author.first_name }}</span> {{ site.author.last_name }}</h4>
                 <ul class="list-inline social-icon">
                     {% if site.author.github_username %}
-                    <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a></li>
-                    {% endif %}
-                    {% if site.author.linkedin_id %}
-                    <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a title="Github" href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a></li>
                     {% endif %}
                     {% if site.author.facebook_username %}
-                    <li><a href="https://www.facebook.com/{{ site.author.facebook_username }}" target="blank"><i class="fa fa-facebook"></i></a></li>
+                    <li><a title="Facebook" href="https://www.facebook.com/{{ site.author.facebook_username }}" target="blank"><i class="fa fa-facebook"></i></a></li>
+                    {% endif %}
+                    {% if site.author.linkedin_id %}
+                    <li><a title="Linkedin" href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
+                    {% endif %}
+                    {% if site.author.slack_username %}
+                    <li><a title="Slack" href="https://cops-iitbhu.slack.com/" target="blank"><i class="fa fa-slack"></i></a></li>
+                    {% endif %}
+                    {% if site.author.googlegroup_username %}
+                    <li><a title="Google Group" href="https://groups.google.com/forum/#!forum/copsiitbhu" target="blank"><i class="fa fa-google"></i></a></li>
                     {% endif %}
                     {% if site.author.twitter_username %}
-                    <li><a href="https://twitter.com/{{ site.author.twitter_username }}" target="blank"><i class="fa fa-twitter"></i></a></li>
+                    <li><a title="Twitter" href="https://twitter.com/{{ site.author.twitter_username }}" target="blank"><i class="fa fa-twitter"></i></a></li>
                     {% endif %}
                     {% if site.author.email %}
-                    <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
+                    <li><a Title="Mail" href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
                     {% endif %}
-                    <li><a href="{{ site.baseurl }}/feed.xml" target="blank"><i class="fa fa-rss"></i></a></li>
+                    <li><a Title="RSS Feed" href="{{ site.baseurl }}/feed.xml" target="blank"><i class="fa fa-rss"></i></a></li>
                     {% if site.author.cv %}
                     <li><a href="{{ site.author.cv }}" target="blank"><i class="fa fa-file-pdf-o"></i></a></li>
                     {% endif %}
@@ -58,7 +64,9 @@
     </div>
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg wow zoomIn">
-            <p><span data-i18n="about_me.des">{{ site.author.desc }}</span></p>
+            <p><span data-i18n="about_me.des">In this age of increasing automation, programming is not only limited to computer science and related fields. Every competent engineer needs to know how to program. This makes Club of Programmers one of the most important clubs in the institute.</span></p>
+            <p>Club of Programmers (or better known as COPS) understands this responsibility and plays a crucial part in maintaining the coding culture in the institute. Introductory workshops are held for freshers to introduce them to the various facets of programming. Regular competitions are held for the general student body to test and sharpen their programming skills. COPS also has an essential role in the successful conduction of Technex, the institute’s techno-management festival. ICM(International Coding Marathon) event organised by COPS in Technex, the technical fest of IIT(BHU), attracts the maximum participation in the fest.</p>
+            <p>Although the club has been functioning quite well as compared to other clubs, still a lot needs to be done. Some great initiatives were taken by the current secretaries, including the formation of smaller groups focussed on specific areas (competitive programming group, development group and machine learning group) and the fresher’s mentorship program. Still there are lot of things that the club can improve upon. We hope that we are able to take this momentum forward.</p>
         </div>
     </div>
 </div>
