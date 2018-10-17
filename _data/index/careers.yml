@@ -4,7 +4,7 @@
     detail: Google Summer of Code 2018
     i18n: company_a
   desc:
-    detail: Seven Students from the club got selected for one of the most prestigious open-source software development programs - Google Summer of Code.
+    detail: Seven students from the club got selected for one of the most prestigious open-source software development programs - Google Summer of Code.
     i18n: company_a_desc
   date:
     detail: Summer. 2018
@@ -18,7 +18,7 @@
     detail: <a href="https://www.facebook.com/cops.iitbhu/posts/806683719537536?__tn__=-R" target="_blank">COPS Summer Camp 2018</a>
     i18n: company_a
   desc:
-    detail: COPS organized a two months long Summer Camp online. More than 500 students across the country participated in the camp. The camp covered all the three major domains of Computer Science namely Algorithms and Data Structures (Competitive Programming), Machine Learning and Development (Android and Web).
+    detail: COPS organized a two months long Summer Camp online. More than 500 students across the country participated in the camp. The camp covered all the three major domains of Computer Science, namely Algorithms and Data Structures (Competitive Programming), Machine Learning and Development (Android and Web).
     i18n: company_a_desc
   date:
     detail: Summer. 2018
@@ -60,7 +60,7 @@
     detail: Bronze at Inter-IIT
     i18n: company_a
   desc:
-    detail: A team of two members Suyash Shukla and Abhinav Patel won Bronze Medal in an Inter IIT Event.
+    detail: A team of two members, Suyash Shukla and Abhinav Patel, won Bronze Medal in an Inter IIT Event.
     i18n: company_a_desc
   date:
     detail: Dec. 2017
@@ -74,7 +74,7 @@
     detail: Won GS Quantify 2017
     i18n: company_b
   desc:
-    detail:  A team of three senior members Bharat Khanna, Ishank Arora and Ayush Kedia won the GS Quantify contest held by Goldman Sachs. Also 6 teams from the institute were selected as Significant Contributors. 
+    detail:  A team of three senior members, Bharat Khanna, Ishank Arora and Ayush Kedia, won the GS Quantify contest held by Goldman Sachs. Also, 6 teams from the institute were selected as Significant Contributors. 
     i18n: company_b_desc
   date:
     detail: Oct. 2017
@@ -88,7 +88,7 @@
     detail: Problem of the Week
     i18n: company_b
   desc:
-    detail: COPS made an amazing study material to start and excel competitve programming. These include resources to study on each topic and some good problems to practice. 
+    detail: COPS made an amazing study material to start and excel competitve programming. This includes resources to study on each topic and some good problems to practice. 
     i18n: company_b_desc
   date:
     detail: Summer. 2017
@@ -102,7 +102,7 @@
     detail: Club of Programmers
     i18n: company_b
   desc:
-    detail:  Club of Programmers, IIT BHU, Varanasi is born. 
+    detail:  Club of Programmers, IIT (BHU), Varanasi is born. 
     i18n: company_b_desc
   date:
     detail: April. 2015
