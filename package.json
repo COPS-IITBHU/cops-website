@@ -1,7 +1,7 @@
 {
-  "name": "Jalpc",
+  "name": "COPS-IITBHU",
   "version": "1.1.1",
-  "description": "npm config file for Jalpc",
+  "description": "npm config file for COPS-IITBHU",
   "main": "",
   "scripts": {
     "build": "node build/build.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jarrekk/Jalpc.git"
+    "url": "git+https://github.com/govinda18/COPS-website-final.git"
   },
   "author": "Kun Jia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jarrekk/Jalpc/issues"
+    "url": "https://github.com/govinda18/COPS-website-final/issues"
   },
-  "homepage": "https://github.com/jarrekk/Jalpc#readme",
+  "homepage": "https://github.com/govinda18/COPS-website-final#readme",
   "dependencies": {
     "animate.css": "^3.5.2",
     "bootstrap": "^3.3.6",
