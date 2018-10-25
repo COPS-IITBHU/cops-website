@@ -1,3 +1,3 @@
 ## COPS-IITBHU
 
-Official Website
+Official Website of Club of Programmers.
