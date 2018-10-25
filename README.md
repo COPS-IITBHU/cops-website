@@ -1,3 +1,3 @@
 ## COPS-IITBHU
 
-Official Website
+Welcome to the Official Website
