@@ -7,7 +7,7 @@
   repo: SnTC-Streamify
   url: https://play.google.com/store/apps/details?id=in.shriyansh.streamify
   img: /static/assets/img/landing/sntc-streamify.png
-  desc: An Andoid application for Science and Technology Council, IIT BHU. Features include news feed, event registration and details, stream filter etc. 
+  desc: An Andoid application for Science and Technology Council, IIT BHU. Features include news feed, event registration, stream filter etc. 
 
 - name: IIT BHU Study Portal
   i18n: cpython
@@ -20,3 +20,9 @@
   url: https://docs.google.com/document/d/1J2c5zkhvZQ8U2S5PNxZoTQce0MO2JCdPOrnfViZ2Lv8/edit?usp=sharing
   img: /static/assets/img/landing/potw.png
   desc: POTW, Problem of the Week, was developed to help the competitive programmers of the institute to excel in the field. Prepared by the top coders of the institute, these consists of amazing study materials, selected problems to practice and covers almost all the major Algorithms and Data Structures used in competitive programming. With over 2000 clicks already. This is a very helpful resource for internship and placement preparation as well.
+
+- name: Internship Portal
+  i18n: google
+  url: https://cops-intern-portal.herokuapp.com/
+  img: /static/assets/img/landing/internportal.png
+  desc: Intern Portal is a django-web application that helps the students of IIT BHU to land an internship in upcoming startups.
