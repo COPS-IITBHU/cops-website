@@ -1,5 +1,6 @@
 COPS-IITBHU
 ===========
+Official website of Club of Programmers, IIT (BHU) Varanasi.
 
 Blogs
 -----
