@@ -4,6 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1; minimum-scale=1; user-scalable=no;">
 
   <meta content="{{ site.description }}" name="description">
+  <meta name="google-site-verification" content="iW_N7TEFOpYFR10FbtzU5bDjA5sEUA_7YjE3PwJ_wdA" />
   <meta name="keywords" content="{{ site.keywords }}">
   <meta name="author" content="{{ site.author.name }}">
   <title>{{ site.title }}</title>
@@ -23,12 +24,16 @@
   <script src="{{"/static/assets/i18-20180125.min.js"| prepend: site.baseurl }}"></script>
   {% endif %}
 
-  <!-- Google AdSense -->
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128283984-1"></script>
   <script>
-    (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-6196184668650108",
-      enable_page_level_ads: true
-    });
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-128283984-1');
   </script>
+
+
+  {% seo %}
 </head>
