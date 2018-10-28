@@ -70,7 +70,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# SEO
-plugins:
-    - jekyll-seo-tag
-
