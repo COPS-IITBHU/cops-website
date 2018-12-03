@@ -248,4 +248,5 @@ The client now has the ability to create a plethora of lambda expressions based 
 ```
 ## Summary :octocat:
 
-In this post, we learned about the biggest change Java has ever seen. Lambdas will certainly steer the direction of Java and make it more appealing to varied sections of the programmer community. :sparkles:
+In this post, we learned about the biggest change Java has ever seen. Lambdas will certainly steer the direction of Java and make it more appealing to varied sections of the programmer community.
+:sparkles:
