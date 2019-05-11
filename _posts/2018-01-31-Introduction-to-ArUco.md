@@ -4,12 +4,11 @@ title:  "Introduction to ArUco"
 date:   2018-01-31
 desc: "Building an AR Marker Detection program using ArUco Library"
 keywords: "Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
-tags: [beginner,opencv,aruco,ar]
+tags: [ArUco,AR,OpenCV]
+categories: Blog
 icon: fa-camera
 ---
-description= 
-
+Building an AR Marker Detection program using ArUco Library
 ---
 
 ![Marker detection and object rendering using opencv](https://cdn-images-1.medium.com/max/800/1*8hvVNfI8geQxe0QKVZQovw.png)

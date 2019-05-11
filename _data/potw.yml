@@ -1,0 +1,311 @@
+# sections of potw
+
+- name: Moving from C to C++
+  data:
+    - title: Header files
+      text:
+        - >
+          In C, you generally use the header files stdio.h, string.h, math.h
+          whereas in C++ we use headers files iostream, cmath, cstring, etc.
+        - >
+          In C++, unlike C, one can include only one header file bits/stdc++.h 
+          which will include most of the header files.
+        - >
+          Caution':' Using bits/stdc++.h may slow down compilation. 
+
+    - title: Input Output Functions
+      text:
+        - >
+          In C, the basic input/output functions are scanf, printf, gets, puts
+          whereas in C++, you use cin, cout.
+        - >
+          For a new line, in C we use ‘\n’ in printf statement while we can use 
+          endl in cout statement in c++. Caution':' endl slows down output, so 
+          better use ‘\n’.
+        - >
+          To input a line i.e. to input a string with spaces we use gets in c 
+          while getline in C++.
+        - >
+          All the functions like cin, cout etc. are defined in a standard 
+          namespace. So, instead of directly using it we usually add a 
+          namespace to avoid writing std everytime. You do not need to 
+          understand much about namespace. Just remember to add a statement
+          `using namespace std;` (without quotes) at the top in all c++ codes.
+
+    - title: Notes
+      text:
+        - >
+          Another very important thing that need to be mentioned is the fact 
+          that cin cout are very slow as compared to scanf printf. Therefore, 
+          you should never synchronize C++ streams to standard C streams. \n
+          ios_base::sync_with_stdio(false); \n
+          cin.tie(0); \n
+          cout.tie(0); \n
+          This makes cin, cout work comparatively faster. It is advised to add 
+          this statement at the top of your main function in all your codes. 
+          Although this is still slower as compared to scanf, printf. Therefore, 
+          some times you will be forced to use scanf, printf in place of cin, 
+          cout when input or output is quite large. Infact, at some occasions 
+          even scanf won’t help. So you will have to use fast I/O. Although in 
+          most problems unsynchronized cin cout will work fine. You can read about
+          them [here](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/).
+
+        - >
+          Do note the use of two gets in cpp code (line 11) and ‘\n’ in scanf statement 
+          in C code (line 10). This is because when use press enter after taking a, b, 
+          c as input ‘\n’ gets stored in d. So, we need to input d again. In C code, 
+          we already take \n as input in scanf statement. So we don't need to use gets. 
+          If we do not use \n in scanf, then we will have to use two gets. This might 
+          be a little bit confusing but you shall understand it as you practice.
+
+- name: Standard Template Library
+  tutorial:
+    - title: Standard Template Library - Part 1
+      links:
+        - label: Topcoder
+          url: https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/
+
+    - title: Standard Template Library - Part 2
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-2/
+
+    # - title: C++ Reference
+    #   link: http://www.cplusplus.com/reference/stl/
+    #   text: >
+    #     After completing the tutorials, once go through all the built-in 
+    #     functions for all containers.
+
+    # - text: >
+    #     Do note the time and space complexity of each and every function. 
+    #     You don’t need to remember the syntax and arguments of each and 
+    #     every function as you can always google them.
+  problems:
+    - title: Code Monk - STL
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/challenge/competitive/code-monk-c-stl/problems
+
+    - title: Andryusha and Socks
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/782/A
+        - label: Editorial
+          url: https://goo.gl/RnxLmr
+
+    - title: Second Order Statistics
+      link: http://codeforces.com/problemset/problem/22/A
+      editorial: http://codeforces.com/blog/entry/507
+
+    - title: Thor
+      link: http://codeforces.com/problemset/problem/704/A
+      editorial: https://goo.gl/ijOv65
+
+    - title: Registration system
+      link: http://codeforces.com/problemset/problem/4/C
+      editorial: https://goo.gl/q4XtzA
+
+    - title: Soldier and Cards
+      link: http://codeforces.com/problemset/problem/546/C
+      editorial: https://goo.gl/yIBZsr
+
+    - title: T-shirt buying
+      link: http://codeforces.com/problemset/problem/799/B
+      editorial: https://goo.gl/TAzhBU
+
+    - title: Kostya the Sculptor
+      link: http://codeforces.com/contest/733/problem/D
+      editorial: https://goo.gl/MMVDFb
+
+- name: Basic Math and Recursion
+  tutorial:
+    - title: Recursion - Part 1
+      link: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
+
+    - title: Recursion - Part 2
+      link: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/
+
+    - title: Number Theory - Part 1
+      link: https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/
+
+    - title: Number Theory - Part 2
+      link: https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/tutorial/
+  problems:
+    - title: Code Monk - Number Theory
+      link: https://www.hackerearth.com/challenge/competitive/code-monk-number-theory-i/problems/
+
+    - title: Practice problems - Recursion
+      link: https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/
+
+    - title: Cutting Carrot
+      link: http://codeforces.com/problemset/problem/794/B
+      editorial: https://goo.gl/wWt3cO
+
+    - title: Recursive digit sum
+      link: https://www.hackerrank.com/challenges/recursive-digit-sum
+      editorial: https://goo.gl/KjO8Yw
+
+    - title: Sherlock and his girlfriend
+      link: http://codeforces.com/contest/776/problem/B
+      editorial: https://goo.gl/EwCA8j
+
+    - title: Sherlock and GCD
+      link: https://www.hackerrank.com/challenges/sherlock-and-gcd
+      editorial: https://goo.gl/qgjZcY
+
+    - title: Simplified Chess Engine
+      link: https://www.hackerrank.com/challenges/simplified-chess-engine
+      editorial: https://www.hackerrank.com/challenges/simplified-chess-engine/editorial
+
+    - title: Code Monk - Number Theory
+      link: http://www.geeksforgeeks.org/print-sums-subsets-given-set/
+
+- name: Binary Search and Basic Math
+  tutorial:
+    - title: Binary Search
+      link: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
+
+    - title: Ternary Search
+      link: https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/
+
+    - title: Prime numbers, factorization and euler function
+      link: https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/
+
+    - title: Basics of combinatorics
+      link: https://www.topcoder.com/community/data-science/data-science-tutorials/basics-of-combinatorics/
+  problems:
+    - title: AGGRCOW - Aggressive cows
+      link: https://www.spoj.com/problems/AGGRCOW/
+      editorial: https://goo.gl/MLOsRw
+    - title: String Game
+      link: http://codeforces.com/contest/779/problem/D
+      editorial: https://goo.gl/8hOvif
+    - title: Ciel and Flowers
+      link: http://codeforces.com/problemset/problem/322/B
+      editorial: https://goo.gl/GZeIOX
+    - title: The exam
+      link: https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/the-exam/description/
+      editorial: https://goo.gl/8DbBpB
+    - title: PRIME1 - Prime Generator
+      link: http://www.spoj.com/problems/PRIME1/
+      editorial: https://goo.gl/TSuOuP
+    - title: Sherlock and Pairs
+      link: https://www.hackerrank.com/challenges/sherlock-and-pairs/problem
+      editorial: https://goo.gl/tkQdFq
+    - title: Balanced Array
+      link: https://www.codechef.com/problems/COOK82B
+      editorial: https://goo.gl/PUmi3f
+    - title: Shaass and Lights
+      link: http://codeforces.com/problemset/problem/294/C
+      editorial: https://goo.gl/8PP2qw
+    - title: Chef and Divisor Tree
+      link: https://www.codechef.com/problems/CHEFDIV
+      editorial: https://goo.gl/nnzoM2
+    - title: Vasily the Bear and Beautiful Strings
+      link: http://codeforces.com/contest/336/problem/D
+      editorial: https://goo.gl/BvMSOT
+    - title: Primitive Problem
+      link: https://www.hackerrank.com/contests/infinitum17/challenges/primitive-problem
+      editorial: https://goo.gl/10z87D
+
+- name: Greedy Algorithm
+  tutorial:
+    - title: Greedy Algorithm - Topcoder Tutorial
+      link: https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/
+
+    - title: Greedy Algorithm - Hackerearth Tutorial
+      link: https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
+  problems:
+    - title: Code Monk 1- Greedy Technique
+      link: https://www.hackerearth.com/challenge/competitive/code-monk-greedy-technique/problems/
+    - title: Code Monk 2- Greedy Technique
+      link: https://www.hackerearth.com/challenge/competitive/codemonk-greedy-technique/problems/
+    - title: Duff and Meat
+      link: http://codeforces.com/problemset/problem/588/A
+      editorial: https://docs.google.com/document/d/1VM3wBynGSB-CPOai2QkgeSrJBi5hM4YXfbIQJTVO0PU/edit?usp=sharing
+    - title: Sherlock and The Beast
+      link: https://www.hackerrank.com/challenges/sherlock-and-the-beast
+      editorial: https://www.hackerrank.com/challenges/sherlock-and-the-beast/editorial
+    - title: Flip Game
+      link: https://csacademy.com/contest/round-9/task/flip-game/
+      editorial: https://csacademy.com/contest/round-9/task/flip-game/solution/
+    - title: 3N Numbers
+      link: https://arc074.contest.atcoder.jp/tasks/arc074_b
+      editorial: https://docs.google.com/a/itbhu.ac.in/document/d/1tRb2a15JQXKAX9QvF5L9bXPuNz72E1Jnc_cCHKLPnnk/edit?usp=sharing
+    - title: Protecting The Poison
+      link: https://www.codechef.com/SNCKPA17/problems/PROTEPOI
+      editorial: https://discuss.codechef.com/questions/99495/protepoi-editorial
+    - title: Naming Company
+      link: http://codeforces.com/problemset/problem/794/C
+      editorial: https://docs.google.com/document/d/13vcZ-3w_bQBanitWLZ_YcaffHnoBYFckJtojLBD0QIk/edit?usp=sharing
+    - title: Maxim and Array
+      link: http://codeforces.com/contest/721/problem/D
+      editorial: https://docs.google.com/a/itbhu.ac.in/document/d/1kITJHl0h-iMFY2jexi_UN4kUBLf5eAatOKfYFLbScxo/edit?usp=sharing
+    - title: Innokenty and a Football League
+      link: http://codeforces.com/problemset/problem/780/D
+      editorial: https://docs.google.com/document/d/1Q1TABld52S5AN_TedLcv9h0wIAZgMLrzlVGW2ohEw8E/edit?usp=sharing
+
+- name: Segment tree / BIT
+  tutorial:
+    - title: Segment Tree
+      link: https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
+    - title: Binary Index Tree
+      link: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
+    - title: Persistent Segment Tree
+      link: https://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/
+    - title: Persistent data structures (MIT)
+      link: https://www.youtube.com/watch?v=T0yzrZL1py0&t=1s
+  problems:
+    - title: Code Monk  - Segment tree/Fenwick Tree
+      link: https://www.hackerearth.com/challenge/competitive/code-monk-segment-tree-and-lazy-propagation/problems/
+    - title:
+      link: http://www.spoj.com/problems/MULTQ3/
+      editorial:
+    - title:
+      link: http://www.spoj.com/problems/SEGSQRSS/
+      editorial:
+    - title:
+      link: http://www.spoj.com/problems/GSS1/
+      editorial:
+    - title:
+      link: http://www.codechef.com/problems/SORTING
+      editorial:
+    - title:
+      link: http://www.spoj.com/problems/GSS3/
+      editorial:
+    - title:
+      link: http://codeforces.com/problemset/problem/6/E
+      editorial:
+    - title:
+      link: https://www.codechef.com/JUNE17/problems/CLONEME
+      editorial:
+    - title:
+      link: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/comrades-iii/description/
+      editorial:
+    - title:
+      link: https://www.hackerrank.com/contests/w23/challenges/gravity-1/problem
+      editorial:
+    - title:
+      link: https://www.codechef.com/problems/QRECT
+      editorial:
+    - title:
+      link: http://codeforces.com/contest/817/problem/F
+      editorial:
+
+- name: Dynamic Programming I
+
+- name: Graph Theory I
+
+- name: Lowest Common Ancestor, Binary Lifting and HLD
+
+- name: Graph Theory II
+
+- name: Game Theory
+
+- name: Dynamic Programming II
+
+- name: String Algorithms
+
+- name: Advanced Maths
+
+- name: Dynamic Programming III

@@ -15,19 +15,20 @@ permalink: /blog/
         <div class="wrapper wrapper-content animated fadeInRight">
 
             <!-- latest 10 blog -->
-			{% for post in site.posts limit:10 %}
+            {% for post in site.posts limit:10 %}
             <div class="vote-item">
                 <div class="row">
                     <div class="col-md-10">
                         <div class="vote-actions">
                         </div>
-                        <a href="{{ post.url | prepend: site.baseurl }}" class="vote-title">
+                        <a href="{{ post.url | absolute_url }}" class="vote-title">
                             {{ post.title }}
                         </a>
                         <div class="vote-info">
-                        {% if site.disqus %}
-                            <i class="fa fa-comments-o"> </i> <a>Comments (<span class="disqus-comment-count" data-disqus-url="{{ site.url }}{{ post.url }}">0</span>)</a>
-                        {% endif %}
+                            {% if site.disqus %}
+                            <i class="fa fa-comments-o"> </i> <a>Comments (<span class="disqus-comment-count"
+                                    data-disqus-url="{{ site.url }}{{ post.url }}">0</span>)</a>
+                            {% endif %}
                             <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
                             <i class="fa fa-user"></i> <a>{{ site.author.name }}</a>
                         </div>
@@ -44,11 +45,3 @@ permalink: /blog/
     </div>
 
 </div>
-<script type="text/javascript" defer="defer">
-particlesJS.load('particles-js', 'particles.json', function() {
-  console.log('callback - particles.js config loaded');
-});
-</script>
-<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-
-

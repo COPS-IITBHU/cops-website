@@ -4,9 +4,9 @@ title:  "Setting Up ArUco on your PC"
 date:   2018-01-31
 desc: "Setting up opencv's ArUco library for marker detection"
 keywords: "Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
-tags: [cmake,opencv,aruco,installation]
-icon: fa-facebook
+tags: [ArUCo,OpenCV]
+categories: Blog
+icon: 
 ---
 
 # Setting up ArUco Library on your PC

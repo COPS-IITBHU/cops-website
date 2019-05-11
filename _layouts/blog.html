@@ -1,4 +1,19 @@
 ---
 layout: default
 ---
-    {{ content }}
+<div class="search-tool"
+    style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px; opacity: 0.95; background-color: #111111; z-index: 9999; display: none;">
+    <input type="text" class="form-control search-content" id="search-content" style="position: fixed; top: 60px"
+        placeholder="Search Blog">
+
+    <div style="position: fixed; top: 16px; right: 16px; z-index: 9999;">
+        <img src="{{ "/static/assets/img/search/cb-close.png" | prepend: site.baseurl }}" id="close-btn" />
+    </div>
+</div>
+
+<div style="position: fixed; right: 16px; bottom: 20px; z-index: 9999;">
+    <img src="{{ "/static/assets/img/search/cb-search.png" | prepend : site.baseurl }}" id="search-btn"
+        title="Double click Ctrl" />
+</div>
+
+{{ content }}
