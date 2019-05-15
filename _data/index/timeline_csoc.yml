@@ -1,0 +1,29 @@
+# timeline_csoc section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: test event 1
+    i18n: test_event_1
+  desc:
+    detail: Nill
+    i18n: nill
+  date:
+    detail: nill
+    i18n: nill
+  job:
+    detail: nill
+    i18n: nill
+  icon: fa-trophy
+
+- name:
+    detail: test event 2
+    i18n: test_event_2
+  desc:
+    detail: Nill
+    i18n: nill
+  date:
+    detail: nill
+    i18n: nill
+  job:
+    detail: nill
+    i18n: nill
+  icon: fa-calendar-check-o
