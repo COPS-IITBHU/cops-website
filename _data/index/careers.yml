@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Google Summer of Code 2019
+    i18n: company_a
+  desc:
+    detail: Nine students from the club got selected for one of the most prestigious open-source software development programs - Google Summer of Code.
+    i18n: company_a_desc
+  date:
+    detail: Summer. 2019
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+
+- name:
     detail: Google Summer of Code 2018
     i18n: company_a
   desc:
@@ -74,7 +88,7 @@
     detail: Won GS Quantify 2017
     i18n: company_b
   desc:
-    detail:  A team of three senior members, Bharat Khanna, Ishank Arora and Ayush Kedia, won the GS Quantify contest held by Goldman Sachs. Also, 6 teams from the institute were selected as Significant Contributors. 
+    detail: A team of three senior members, Bharat Khanna, Ishank Arora and Ayush Kedia, won the GS Quantify contest held by Goldman Sachs. Also, 6 teams from the institute were selected as Significant Contributors.
     i18n: company_b_desc
   date:
     detail: Oct. 2017
@@ -88,13 +102,13 @@
     detail: Problem of the Week
     i18n: company_b
   desc:
-    detail: COPS made an amazing study material to start and excel competitve programming. This includes resources to study on each topic and some good problems to practice. 
+    detail: COPS made an amazing study material to start and excel competitve programming. This includes resources to study on each topic and some good problems to practice.
     i18n: company_b_desc
   date:
     detail: Summer. 2017
     i18n: company_b_date
   job:
-    detail: <a target="_blank" href="https://docs.google.com/document/d/1J2c5zkhvZQ8U2S5PNxZoTQce0MO2JCdPOrnfViZ2Lv8/edit?usp=sharing"><h1><b>POTW</b></h1></a> 
+    detail: <a target="_blank" href="https://docs.google.com/document/d/1J2c5zkhvZQ8U2S5PNxZoTQce0MO2JCdPOrnfViZ2Lv8/edit?usp=sharing"><h1><b>POTW</b></h1></a>
     i18n: company_b_job
   icon: fa-code-fork
 
@@ -102,7 +116,7 @@
     detail: Club of Programmers
     i18n: company_b
   desc:
-    detail:  Club of Programmers, IIT (BHU), Varanasi is born. 
+    detail: Club of Programmers, IIT (BHU), Varanasi is born.
     i18n: company_b_desc
   date:
     detail: April. 2015
