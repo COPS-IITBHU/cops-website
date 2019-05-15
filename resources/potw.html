@@ -1,0 +1,38 @@
+---
+layout: resource
+title: POTW
+permalink: /resources/potw
+---
+
+<div class="row" style="margin-top: 3%;">
+    <div class="col-lg-12 text-center">
+        <h1>POTW (Problems Of The Week)</h1>
+    </div>
+</div>
+
+<div class="panel-group" id="accordion">
+    {% for topic in site.data.potw %}
+    {%- assign title = topic.name -%}
+    {%- assign probs = topic.problems -%}
+    {%- assign tuts = topic.tutorial -%}
+    {%- assign id = title | slugify -%}
+
+    <div class="potw-topic panel panel-default">
+        <div class="panel-heading">
+            <a data-toggle="collapse" data-parent="#accordion" href="#{{ id }}">
+                <h4 class="panel-title potw-title">{{ title }}</h4>
+            </a>
+        </div>
+        <div id="{{ id }}" class="panel-collapse collapse">
+            <div class="panel-body">
+                {%- for tut in tuts -%}
+                {%- include labelled_link.html label='Tutorial' name=tut.title links=tut.links -%}
+                {%- endfor -%}
+                {%- for prob in probs -%}
+                {%- include labelled_link.html label='Problem' name=prob.title links=prob.links -%}
+                {%- endfor -%}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

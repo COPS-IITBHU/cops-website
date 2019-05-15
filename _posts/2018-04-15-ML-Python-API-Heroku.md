@@ -4,12 +4,9 @@ title:  "Creating an ML based Python API hosted on heroku"
 date:   2018-04-15
 desc: "Building an AR Marker Detection program using ArUco Library"
 keywords: "Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
-tags: [heroku,flask,sklearn,API]
-icon: icon-html
----
-description= 
-
+tags: [PyTorch,Flask,Heroku]
+categories: Blog
+icon: 
 ---
 
 # Creating an ML based Python API hosted on Heroku

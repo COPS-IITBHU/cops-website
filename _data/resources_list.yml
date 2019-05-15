@@ -1,0 +1,4 @@
+# list of resources to be displayed
+
+- name: POTW(Problem Of The Week)
+  page: /potw/

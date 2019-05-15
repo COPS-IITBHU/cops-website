@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "What’s new in Java 8: Lambdas"
+date:   2018-12-03
+desc: "A hands-on introduction to Java 8's most exciting new feature :sparkles:"
+keywords: "Jekyll,gh-pages,website,blog,easy"
+categories: Blog
+tags: [Java,New feature]
+icon: 
+---
+
 # What’s new in Java 8: Lambdas :octocat:
 ## A hands-on introduction to Java 8's most exciting new feature :sparkles:
 

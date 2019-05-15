@@ -1,0 +1,1303 @@
+# sections of potw
+
+- name: Standard Template Library
+  tutorial:
+    - title: Standard Template Library - Part 1
+      links:
+        - label: Topcoder
+          url: https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/
+
+    - title: Standard Template Library - Part 2
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-2/
+
+  problems:
+    - title: Code Monk - STL
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/challenge/competitive/code-monk-c-stl/problems
+
+    - title: Andryusha and Socks
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/782/A
+        - label: Editorial
+          url: https://goo.gl/RnxLmr
+
+    - title: Second Order Statistics
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/22/A
+        - label: Editorial
+          url: http://codeforces.com/blog/entry/507
+
+    - title: Thor
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/704/A
+        - label: Editorial
+          url: https://goo.gl/ijOv65
+
+    - title: Registration system
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/4/C
+        - label: Editorial
+          url: https://goo.gl/q4XtzA
+
+    - title: Soldier and Cards
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/546/C
+        - label: Editorial
+          url: https://goo.gl/yIBZsr
+
+    - title: T-shirt buying
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/799/B
+        - label: Editorial
+          url: https://goo.gl/TAzhBU
+
+    - title: Kostya the Sculptor
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/733/problem/D
+        - label: Editorial
+          url: https://goo.gl/MMVDFb
+
+- name: Basic Math and Recursion
+  tutorial:
+    - title: Recursion - Part 1
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
+
+    - title: Recursion - Part 2
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/
+
+    - title: Number Theory - Part 1
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/
+
+    - title: Number Theory - Part 2
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/tutorial/
+  problems:
+    - title: Code Monk - Number Theory
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/challenge/competitive/code-monk-number-theory-i/problems/
+
+    - title: Practice problems - Recursion
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/
+
+    - title: Cutting Carrot
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/794/B
+        - label: Editorial
+          url: https://goo.gl/wWt3cO
+
+    - title: Recursive digit sum
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/recursive-digit-sum
+        - label: Editorial
+          url: https://goo.gl/KjO8Yw
+
+    - title: Sherlock and his girlfriend
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/776/problem/B
+        - label: Editorial
+          url: https://goo.gl/EwCA8j
+
+    - title: Sherlock and GCD
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/sherlock-and-gcd
+        - label: Editorial
+          url: https://goo.gl/qgjZcY
+
+    - title: Simplified Chess Engine
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/simplified-chess-engine
+        - label: Editorial
+          url: https://www.hackerrank.com/challenges/simplified-chess-engine/editorial
+
+- name: Binary Search and Basic Math
+  tutorial:
+    - title: Binary Search
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
+
+    - title: Ternary Search
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/
+
+    - title: Prime numbers, factorization and euler function
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/
+
+    - title: Basics of combinatorics
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/basics-of-combinatorics/
+  problems:
+    - title: AGGRCOW - Aggressive cows
+      links:
+        - label: Problem
+          url: https://www.spoj.com/problems/AGGRCOW/
+        - label: Editorial
+          url: https://goo.gl/MLOsRw
+    - title: String Game
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/779/problem/D
+        - label: Editorial
+          url: https://goo.gl/8hOvif
+    - title: Ciel and Flowers
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/322/B
+        - label: Editorial
+          url: https://goo.gl/GZeIOX
+    - title: The exam
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/practice/algorithms/searching/ternary-search/practice-problems/algorithm/the-exam/description/
+        - label: Editorial
+          url: https://goo.gl/8DbBpB
+    - title: PRIME1 - Prime Generator
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/PRIME1/
+        - label: Editorial
+          url: https://goo.gl/TSuOuP
+    - title: Sherlock and Pairs
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/sherlock-and-pairs/problem
+        - label: Editorial
+          url: https://goo.gl/tkQdFq
+    - title: Balanced Array
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/COOK82B
+        - label: Editorial
+          url: https://goo.gl/PUmi3f
+    - title: Shaass and Lights
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/294/C
+        - label: Editorial
+          url: https://goo.gl/8PP2qw
+    - title: Chef and Divisor Tree
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/CHEFDIV
+        - label: Editorial
+          url: https://goo.gl/nnzoM2
+    - title: Vasily the Bear and Beautiful Strings
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/336/problem/D
+        - label: Editorial
+          url: https://goo.gl/BvMSOT
+    - title: Primitive Problem
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/contests/infinitum17/challenges/primitive-problem
+        - label: Editorial
+          url: https://goo.gl/10z87D
+
+- name: Greedy Algorithm
+  tutorial:
+    - title: Greedy Algorithm - Topcoder Tutorial
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/
+
+    - title: Greedy Algorithm - Hackerearth Tutorial
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
+  problems:
+    - title: Code Monk 1- Greedy Technique
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/challenge/competitive/code-monk-greedy-technique/problems/
+    - title: Code Monk 2- Greedy Technique
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/challenge/competitive/codemonk-greedy-technique/problems/
+    - title: Duff and Meat
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/588/A
+        - label: Editorial
+          url: https://docs.google.com/document/d/1VM3wBynGSB-CPOai2QkgeSrJBi5hM4YXfbIQJTVO0PU/edit?usp=sharing
+    - title: Sherlock and The Beast
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/sherlock-and-the-beast
+        - label: Editorial
+          url: https://www.hackerrank.com/challenges/sherlock-and-the-beast/editorial
+    - title: Flip Game
+      links:
+        - label: Problem
+          url: https://csacademy.com/contest/round-9/task/flip-game/
+        - label: Editorial
+          url: https://csacademy.com/contest/round-9/task/flip-game/solution/
+    - title: 3N Numbers
+      links:
+        - label: Problem
+          url: https://arc074.contest.atcoder.jp/tasks/arc074_b
+        - label: Editorial
+          url: https://docs.google.com/a/itbhu.ac.in/document/d/1tRb2a15JQXKAX9QvF5L9bXPuNz72E1Jnc_cCHKLPnnk/edit?usp=sharing
+    - title: Protecting The Poison
+      links:
+        - label: Problem
+          url: https://www.codechef.com/SNCKPA17/problems/PROTEPOI
+        - label: Editorial
+          url: https://discuss.codechef.com/questions/99495/protepoi-editorial
+    - title: Naming Company
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/794/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/13vcZ-3w_bQBanitWLZ_YcaffHnoBYFckJtojLBD0QIk/edit?usp=sharing
+    - title: Maxim and Array
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/721/problem/D
+        - label: Editorial
+          url: https://docs.google.com/a/itbhu.ac.in/document/d/1kITJHl0h-iMFY2jexi_UN4kUBLf5eAatOKfYFLbScxo/edit?usp=sharing
+    - title: Innokenty and a Football League
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/780/D
+        - label: Editorial
+          url: https://docs.google.com/document/d/1Q1TABld52S5AN_TedLcv9h0wIAZgMLrzlVGW2ohEw8E/edit?usp=sharing
+
+- name: Segment tree / BIT
+  tutorial:
+    - title: Segment Tree
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
+    - title: Binary Index Tree
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
+    - title: Persistent Segment Tree
+      links:
+        - label: Blog
+          url: https://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/
+    - title: Persistent data structures (MIT)
+      links:
+        - label: YouTube
+          url: https://www.youtube.com/watch?v=T0yzrZL1py0&t=1s
+  problems:
+    - title: Code Monk  - Segment tree/Fenwick Tree
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/challenge/competitive/code-monk-segment-tree-and-lazy-propagation/problems/
+    - title: Multiples of 3
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/MULTQ3/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1HQm21fJulJlplkyScwPPpJQT2j1ieOv8A4aGoeApVj8/edit
+    - title: Sum of Squares with Segment Tree
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/SEGSQRSS/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1KHjgvMr6d2nM4iATsQoxECyplAH8DCsFqk95LG2Z6Qc/edit?usp=sharing
+    - title: Can u answer these queries I and III
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/GSS1/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1A69OXgIfdfSNynuUgt-q-QQ1KMBQkrnTZHiKp15-xLI/edit
+    - title: Sorting
+      links:
+        - label: Problem
+          url: http://www.codechef.com/problems/SORTING
+        - label: Editorial
+          url: http://discuss.codechef.com/problems/SORTING
+    - title: Can u answer these Queries I and III
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/GSS3/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1A69OXgIfdfSNynuUgt-q-QQ1KMBQkrnTZHiKp15-xLI/edit
+    - title: Exposition
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/6/E
+        - label: Editorial
+          url: https://docs.google.com/document/d/1UkZk9g4RDNBbxtfvfna2oweldJ_9IJfjXKxKnSFFq3c/edit?usp=sharing
+    - title: Cloning
+      links:
+        - label: Problem
+          url: https://www.codechef.com/JUNE17/problems/CLONEME
+        - label: Editorial
+          url: https://docs.google.com/document/d/1rJr82ZbsB2A7rSvlyH0nmKGpo1cwY7he9vQeJI6_7T0/edit?usp=sharing
+    - title: Comrades - III
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/comrades-iii/description/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1-nrEjq4oKMFNmSTimuzKjOc2Y2i1qF1FjzFO7IvxKJM/edit
+    - title: Gravity Tree
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/contests/w23/challenges/gravity-1/problem
+        - label: Editorial
+          url: https://www.hackerrank.com/contests/w23/challenges/gravity-1/editorial
+    - title: Rectangle Query
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/QRECT
+        - label: Editorial
+          url: https://www.codechef.com/problems/QRECT
+    - title: Mex Queries
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/817/problem/F
+        - label: Editorial
+          url: https://docs.google.com/document/d/18fyvcsODiyKPAUAMcRfp2j8hhkCUIZ6qvXdxhju8W3c/edit?usp=sharing
+
+- name: Dynamic Programming I
+  tutorial:
+    - title: Dynamic Programming - Topcoder Tutorial
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/
+    - title: Lecture 1 - Dynamic Programming
+      links:
+        - label: YouTube
+          url: https://www.youtube.com/watch?v=OQ5jsbhAv_M&index=1&list=PLfMspJ0TLR5HRFu2kLh3U4mvStMO8QURm
+    - title: Lecture 2 - Dynamic Programming
+      links:
+        - label: YouTube
+          url: https://www.youtube.com/watch?v=ENyox7kNKeY&index=2&list=PLfMspJ0TLR5HRFu2kLh3U4mvStMO8QURm
+    - title: Lecture 3 - Dynamic Programming
+      links:
+        - label: YouTube
+          url: https://www.youtube.com/watch?v=ocZMDMZwhCY
+    - title: Lecture 4 - Dynamic Programming
+      links:
+        - label: YouTube
+          url: https://www.youtube.com/watch?v=tp4_UXaVyx8&list=PLfMspJ0TLR5HRFu2kLh3U4mvStMO8QURm&index=4
+    - title: Fibonacci Number
+      links:
+        - label: GFG
+          url: http://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+    - title: Longest Common Subsequence
+      links:
+        - label: GFG
+          url: http://www.geeksforgeeks.org/dynamic-programming-set-4-longest-common-subsequence/
+    - title: Largest Sum Contiguous Subarray
+      links:
+        - label: GFG
+          url: http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+    - title: Longest Increasing Subsequence
+      links:
+        - label: GFG
+          url: http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/
+    - title: Text Justification
+      links:
+        - label: GFG
+          url: http://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/
+    - title: Edit Distance
+      links:
+        - label: GFG
+          url: http://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/
+    - title: Cutting Rod
+      links:
+        - label: GFG
+          url: http://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/
+    - title: 0-1 Knapsack
+      links:
+        - label: GFG
+          url: http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/
+    - title: Guitar Strings
+      links:
+        - label: GFG
+          url: https://www.geeksforgeeks.org/find-if-a-string-is-interleaved-of-two-other-strings-dp-33/
+  problems:
+    - title: Code Monk - Dynamic Programming
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/challenge/competitive/codemonk-dynamic-programming-part-i/problems/
+    - title: Tetrahedron
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/166/E
+        - label: Editorial
+          url: https://docs.google.com/document/d/1aiYO0D8nA5NDXs8k5LRHI45-YYYWmfVxA_ztGlzFBes/edit?usp=sharing
+    - title: Sweet and sour rock
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/ROCK/
+        - label: Editorial
+          url: https://docs.google.com/document/d/15La8C7B2QZBfskMxbRaYzyc-7tsB0FYntYT94NXnJz0/edit?usp=sharing
+    - title: Magic Grid
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/AMR11A/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1pVbP2bV5CptgZIIRqutycX4j2gVijgvgYh0UD73BjpQ/edit?usp=sharing
+    - title: Add or Multiply
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/PLUSMUL/
+        - label: Editorial
+          url: https://discuss.codechef.com/questions/100802/how-to-solve-the-question-plusmul-from-snackdown-elimination-round/100806
+    - title: Sherlock And Cost
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/sherlock-and-cost
+        - label: Editorial
+          url: https://docs.google.com/document/d/1b9hxNgLFGQtCQYjGkMvtJqs1Y7KWGGwG-ScXKSLXX40/edit?usp=sharing
+    - title: Piggy Bank
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/PIGBANK/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1w80caMxjCyMMB_k5bWjIjun7f83dCtsHZ3GZV52PpBI/edit?usp=sharing
+    - title: Sagheer, the Hausmeister
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/812/problem/B
+        - label: Editorial
+          url: https://docs.google.com/a/itbhu.ac.in/document/d/1Fp4mY_4lilrbD0jOW5DCox02G9eMY431tlVrbBikAKs/edit?usp=sharing
+    - title: Jump on the Buildings
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/AMJMP
+        - label: Editorial
+          url: https://unacademy.com/lesson/jump-on-buildings/ZJE3E7OT?source=Course
+    - title: The least round way
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/2/problem/B
+        - label: Editorial
+          url: https://docs.google.com/a/itbhu.ac.in/document/d/1nb5G605RaipYucC8TkAoeqn03MMWf4iJY6Ymbl63PHM/edit?usp=sharing
+
+- name: Graph Theory I
+  tutorial:
+    - title: Graph Theory - Tutorial
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/notes/graph-theory-part-i/
+    - title: Disjoint Set Union - Tutorial
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/
+    - title: Visual Algo - For better understanding
+      links:
+        - label: Visual Algo
+          url: https://visualgo.net/en/dfsbfs
+    - title: How to tackle problems based on Graph Theory?
+      links:
+        - label: Quora
+          url: https://www.quora.com/How-can-I-be-good-at-Graph-Theory-based-programming-problems-in-Competitive-Programming/answer/Pushkar-Mishra?srid=uW2Yh
+    - title: Shortest Path ( BFS )
+      links:
+        - label: Docs
+          url: https://docs.google.com/document/d/1CZXw5xr45na7QuXq6bgnVk9IOFotNoCxEvTEKOuQZ10/edit?usp=sharing
+    - title: Bipartite Graph ( BFS )
+      links:
+        - label: GFG
+          url: http://www.geeksforgeeks.org/bipartite-graph/
+  problems:
+    - title: Code Monk I - Graph Theory
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/challenge/competitive/codemonk-graph-theory-part-i/problems/
+    - title: Code Monk II - Graph Theory
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/challenge/competitive/code-monk-graph-theory-i/problems/
+    - title: Code Monk III - DSU
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/challenge/competitive/code-monk-disjoint-set-union-union-find/problems/
+    - title: Kefa and Park
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/580/problem/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/119xNNm9Y2XhWqsjqrTdCT8tvX90Yi5rTQMBu0XDx7hg/edit?usp=sharing
+    - title: PolandBall and Forest
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/755/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/1CI50aSD9I5LhN-ao3-H7fmbO09DSN1W50mKFgITMtY8/edit?usp=sharing
+    - title: Roads and Libraries
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/torque-and-development
+        - label: Editorial
+          url: https://docs.google.com/document/d/1qEwit0TvJv0rnxY5MfOOMxqIECfHcFfQWIFuJbBqZiQ/edit?usp=sharing
+    - title: Elevator Trouble
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/ELEVTRBL/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1EmjHDS5HXiBaZm7DrfaTHEaM3P_7sOx1S957hJkrRaA/edit?usp=sharing
+    - title: A Bug’s Life
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/BUGLIFE/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1AT3ooxtw_ijRW0j-mNJSdyoStUl4R_FlqhyzOAI9-HA/edit
+    - title: The Dirty Path
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/ANUTDP
+        - label: Editorial
+          url: https://discuss.codechef.com/questions/53526/anutdp-editorial
+    - title: Valera and Elections
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/369/problem/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/1IhA3hiOkttj0WG0wOmCZcu1ERa4tVZ15k_9CkCkdTt0/edit
+    - title: The Door Problem
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/776/problem/D
+        - label: Editorial
+          url: https://docs.google.com/document/d/1EYUMHztuh4jIac0dP9at-F-tDWVHlnYWi7FjMm2pyVg/edit?usp=sharing
+    - title: Polycarp and Hay
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/659/F
+        - label: Editorial
+          url: https://docs.google.com/document/d/1ns4TWsmx-x0T1t2gbGfFPLRM8MQw3zU_0KqQvPMDU2g/edit?usp=sharing
+    - title: Updating Edges on Trees
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/UPDTREE
+        - label: Editorial
+          url: https://docs.google.com/document/d/1QXauqUewJDA9o8KffDlXAX5Um8BXaooHy2_Q6TPTqqs/edit?usp=sharing
+
+- name: Lowest Common Ancestor, Binary Lifting and HLD
+  tutorial:
+    - title: LCA and RMQ and its inter relation
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
+    - title: Binary Lifting and its usage in path queries
+      links:
+        - label: Codeforces
+          url: http://codeforces.com/blog/entry/22325
+    - title: Heavy Light Decomposition
+      links:
+        - label: Blog
+          url: https://blog.anudeep2011.com/heavy-light-decomposition/
+  problems:
+    - title: Q1-Easy
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/191/problem/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/1Ap7OulHyu3MPd9rma8Po1N2gDplfz72arG98lRSowZw/edit?usp=sharing
+    - title: Q2-Easy
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/609/problem/E
+        - label: Editorial
+          url: https://docs.google.com/document/d/1XLZXJ54nFkETxohl2LYahU_BKO1JhUc0I5F0qIxetww/edit?usp=sharing
+    - title: Q3-Medium
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/208/problem/E
+        - label: Editorial
+          url: https://docs.google.com/document/d/1Cwi6kFJf-umyJlv1mpJbJnT3VysRDVUn8jYq0ahad54/edit?usp=sharing
+    - title: Q4-Medium
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/466/problem/E
+        - label: Editorial
+          url: https://docs.google.com/document/d/1H0msYxVyvF0MQqURQ3y-diKx05p9-nxlT63wgD9830g/edit?usp=sharing
+    - title: Q5-Medium/Hard
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/587/problem/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/1m33ZZRQbsXl3_BAzGCNp2M43v80RxmgY6iFZnKGVOdY/edit?usp=sharing
+    - title: 06-Hard
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/372/problem/D
+        - label: Editorial
+          url: https://docs.google.com/document/d/1MYSF59IgKXOIGPAeqpkgK9GZGlNLzVK3dUlNBC9jTTI/edit
+    - title: Q7-Very Hard
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/subtrees-and-paths/problem
+        - label: Editorial
+          url: https://docs.google.com/document/d/1N1Sk0BfWdw-4F2pb8-pCvo0pMq4pix0tk8HvSuBIe_s/edit?usp=sharing
+    - title: Q8-Very Hard
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/OAK
+        - label: Editorial
+          url: https://docs.google.com/document/d/1v1vzyvLS5BlerwkI-qk0SG6NmVBB10jRRXrAtpdAFVc/edit?usp=sharing
+
+- name: Graph Theory II
+  tutorial:
+    - title: Minimum Spanning Tree
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
+    - title: Shortest Paths
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/
+    - title: Strongly Connected Components
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/tutorial/
+    - title: Articulation Points
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/tutorial/
+    - title: Biconnected Components
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/algorithms/graphs/biconnected-components/tutorial/
+    - title: Max Flow 1
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-1/
+    - title: Max Flow 2
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-2/
+    - title: Visual Algo - MST
+      links:
+        - label: Visual Algo
+          url: https://visualgo.net/en/mst
+    - title: Visual Algo - Shortest Paths
+      links:
+        - label: Visual Algo
+          url: https://visualgo.net/en/sssp
+    - title: Visual Algo - Network Flow
+      links:
+        - label: Visual Algo
+          url: https://visualgo.net/en/maxflow
+  problems:
+    - title: Code Monk  - Graph Theory II
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/challenge/competitive/code-monk-graph-theory-ii/problems/
+    - title: Code Monk - MST
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/challenge/competitive/code-monk-minimum-spanning-tree/problems/
+    - title: Dijkstra?
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/20/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/1KHjgvMr6d2nM4iATsQoxECyplAH8DCsFqk95LG2Z6Qc/edit?usp=sharing
+    - title: Capital City
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/CAPCITY/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1pzYo93A4czEREVmgjq1rp1QYYqDm2mmVMpfKfhW-VRI/edit?usp=sharing
+    - title: Kingdom Unity
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/KINGCON
+        - label: Editorial
+          url: https://docs.google.com/document/d/1z1hstkdV3OAY7LDS_pFxnxY9-L8KIjnNgxikNz5TAzo/edit
+    - title: Coconuts
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/COCONUTS/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1I6OpUWDQoPmLW9CrfUq4Tec0g_yGi8wD2Koxty1-xuA/edit
+    - title: Bear and Clique Distances
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/CLIQUED
+        - label: Editorial
+          url: https://docs.google.com/document/d/1Wigd0kvluzBEZCcc0VvmsgFzA2rWRURvkn3jopz_zaY/edit?usp=sharing
+    - title: Checkposts
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/427/problem/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/1MQdu8PLG3zUn2FZ6F8HRwn1wJzfJxdLzeKx8COqUuIo/edit?usp=sharing
+    - title: Two Paths
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/two-paths/description/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1o_TDycb6v1XwOnm1ewqm4nbgKnlhbTU04YzB74Unqlk/edit
+    - title: Crab Graphs
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/crab-graphs/problem
+        - label: Editorial
+          url: https://docs.google.com/document/d/1QerikVSBXRfGqbmhZ9DpftArnRPq7WU-cgNw-SXutX4/edit
+    - title: Obake and City
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/821/problem/D
+        - label: Editorial
+          url: https://docs.google.com/document/d/1wRS-m8Abmr9IC6aYC5-wtg6jAA6SkiA-xYB24vs80-E/edit?usp=sharing
+    - title: Raymond And Network
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/INSQ16E
+        - label: Editorial
+          url: https://docs.google.com/document/d/1EFmZwNjW0Eg-ocl_gGhHJa9uELKNH6jE3Yqy8NUFg9Q/edit?usp=sharing
+    - title: Angels and Devils
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/ANGELS/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1avx0BZztrExjyD6L9zbyr-fqwJ--GZHngyD3lKweQ9I/edit
+    - title: Real Estate Broker
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/real-estate-broker/problem
+        - label: Editorial
+          url: https://docs.google.com/document/d/1ISVJpSetiT_H-NIZ7DeCFRM1cB4APHFoUk4EAniUax0/edit
+    - title: Valera and Fools
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/369/D
+        - label: Editorial
+          url: https://docs.google.com/document/d/1aK0demlEsuFVwp2a5Jql5vBVYUjhGLBx_5X2Exc2OSo/edit?usp=sharing
+    - title: Mr. Kitayuta's Technology
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/505/D
+        - label: Editorial
+          url: https://docs.google.com/document/d/1v_5vJzSL2_AxsRh59BbE-04AJYcAmc1MWTJLbPI_4qo/edit?usp=sharing
+    - title: Game of Numbers
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/GNUM
+        - label: Editorial
+          url: http://discuss.codechef.com/problems/GNUM
+    - title: Robots in a DAG
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/ROBOTDAG
+        - label: Editorial
+          url: https://docs.google.com/document/d/1_jkd9lm_gtZ2bzNz3sAD_3TzLssQXJnn6kFTY_7ZJ9o/edit?usp=sharing
+    - title: Card Game
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/808/problem/F
+        - label: Editorial
+          url: https://docs.google.com/document/d/1hVYfquySee0aYZATRW9rlJSwA4TAPM8DOqKJqw_jyus/edit?usp=sharing
+
+- name: Game Theory
+  tutorial:
+    - title: Tutorial-1
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/
+    - title: Tutorial-2
+      links:
+        - label: Let Us Kode
+          url: http://letuskode.blogspot.in/2014/08/grundy-numbers.html
+  problems:
+    - title: Chef and Coins Game
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/CHCOINSG
+        - label: Editorial
+          url: https://discuss.codechef.com/questions/82119/chcoinsg-editorial
+    - title: Poker Nim
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/poker-nim-1/problem
+        - label: Editorial
+          url: https://docs.google.com/document/d/1SPwSWAE9YJTRnHvL20gXQ5jTV3t1Bh79gqN2I2mdNW0/edit?usp=sharing
+    - title: Floor Division Game
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/FDIVGAME
+        - label: Editorial
+          url: https://discuss.codechef.com/questions/81734/fdivgame-editorial
+    - title: Bob vs ATM
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/AMR16J
+        - label: Editorial
+          url: https://docs.google.com/document/d/1zz0YbrNIXofYKY6l1bACoBWQu5vxvurWwPHI6pLNPcI/edit?usp=sharing
+    - title: Game on Tree
+      links:
+        - label: Problem
+          url: http://agc017.contest.atcoder.jp/tasks/agc017_d
+        - label: Editorial
+          url: https://docs.google.com/document/d/1dMc33OwdMXFU_cmPg8SOo9aST5dHA8pnNr_bXe6Rv9c/edit?usp=sharing
+    - title: Game of Stones
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/768/problem/E
+        - label: Editorial
+          url: https://docs.google.com/document/d/1UuVVPM0bX60-OROrmBEjb3GPVNvx4Yp4D5sO7jsC-5o/edit?usp=sharing
+    - title: Sereja and Game
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/SEAGM
+        - label: Editorial
+          url: http://discuss.codechef.com/problems/SEAGM
+    - title: Sagheer and Apple Tree
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/812/problem/E
+        - label: Editorial
+          url: https://docs.google.com/document/d/160m4Hz3fMTECTJPltXTNhIxSI-m8GRJjus8AttZkUwc/edit?usp=sharing
+    - title: A game on graph
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/HAMILG
+        - label: Editorial
+          url: http://discuss.codechef.com/problems/HAMILG
+
+- name: Dynamic Programming II
+  tutorial:
+    - title: DP with bitmask
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/
+    - title: DP on trees
+      links:
+        - label: Codeforces
+          url: http://codeforces.com/blog/entry/20935
+    - title: Digit DP
+      links:
+        - label: StackOverflow
+          url: https://stackoverflow.com/a/22394258
+    - title: State Space Reduction
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/algorithms/dynamic-programming/state-space-reduction/tutorial/
+  problems:
+    - title: Q1 - Easy
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/SHOPTRIP
+        - label: Editorial
+          url: https://docs.google.com/document/d/1i8tuMQbiKZ8k9uQYIAipky40dzS_nMVF0f15rarU6uo/edit?usp=sharing
+    - title: Q2 - Easy
+      links:
+        - label: Problem
+          url: http://www.codechef.com/problems/LEALCO
+        - label: Editorial
+          url: http://discuss.codechef.com/problems/LEALCO
+    - title: Q3 - Easy
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/CLEANRBT/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1sch3Mfa3brTqXiyDV7jtsfsCy-JSCJLB0AKgpcSuR6U/edit
+    - title: Q4 - Medium
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/FAVGAME
+        - label: Editorial
+          url: https://discuss.codechef.com/problems/FAVGAME
+    - title: Q5 - Medium
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/TWOCOINS
+        - label: Editorial
+          url: https://discuss.codechef.com/problems/TWOCOINS
+    - title: Q6 - Medium
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/WORKCHEF
+        - label: Editorial
+          url: http://discuss.codechef.com/problems/WORKCHEF
+    - title: Q7 - Medium
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/COURIER/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1HhxG0lo-JYBpyumZEhkSVK2HbKqFLk5NdZ_jZ-Hru5c/edit?usp=sharing
+    - title: Q8 - Medium
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/KNICOV
+        - label: Editorial
+          url: https://discuss.codechef.com/problems/KNICOV
+    - title: Q9 - Hard
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/440/D
+        - label: Editorial
+          url: https://docs.google.com/document/d/1u_xuu_k8iperr2grinas5YAkaLC3wF9ItNPyCNW5ugo/edit?usp=sharing
+    - title: Q10 - Hard
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/lucky-numbers/problem
+        - label: Editorial
+          url: https://www.hackerrank.com/challenges/lucky-numbers/editorial
+    - title: Q11 - Hard
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/BABY/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1BEfL9nQIlkBfqeyxn1HbPC9chZewZZNJ74K0-7McErc/edit?usp=sharing
+    - title: Q12 - Hard
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/HELPBOB/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1FxBkrmK2mPbERQLinJ4EPBcBCC8wsQtADYyDHppWYbM/edit?usp=sharing
+    - title: Q13 - Hard
+      links:
+        - label: Problem
+          url: http://www.codechef.com/problems/TRANDED
+        - label: Editorial
+          url: https://discuss.codechef.com/problems/TRANDED
+    - title: Q14 - Hard
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/HLD/
+        - label: Editorial
+          url: https://discuss.codechef.com/problems/HLD
+    - title: Q15 - Hard
+      links:
+        - label: Problem
+          url: https://csacademy.com/contest/round-31/task/uniform-trees/statement/
+        - label: Editorial
+          url: https://csacademy.com/contest/round-31/task/uniform-trees/solution/
+
+- name: String Algorithms
+  tutorial:
+    - title: String Hashing
+      links:
+        - label: Threads - IIITH
+          url: https://threads-iiith.quora.com/String-Hashing-for-competitive-programming
+    - title: String Searching Algorithms
+      links:
+        - label: TopCoder
+          url: https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/
+    - title: Trie
+      links:
+        - label: HackerEarth
+          url: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/
+    - title: Suffix Arrays - A good starter
+      links:
+        - label: Codechef
+          url: https://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays
+    - title: Suffix Arrays - Another good explanation
+      links:
+        - label: StackOverflow
+          url: https://stackoverflow.com/questions/17761704/suffix-array-algorithm
+  problems:
+    - title: Code Monk - Strings
+      links:
+        - label: Problem
+          url: https://www.hackerearth.com/challenge/competitive/code-monk-string-algorithms/problems/
+    - title: Q1 - Easy
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/NHAY/
+        - label: Editorial
+          url: http://ideone.com/m4HdUP
+    - title: Q2 - Easy
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/SARRAY/
+        - label: Editorial
+          url: https://github.com/marioyc/Online-Judge-Solutions/blob/master/SPOJ/Partial/6409%20-%20Suffix%20Array.cpp
+    - title: Q3 - Easy
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/ANKPAL
+        - label: Editorial
+          url: http://discuss.codechef.com/problems/ANKPAL
+    - title: Q4 - Easy
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/559/problem/B
+        - label: Editorial
+          url: https://docs.google.com/document/d/1xkQDvSPVejgBVLGQOU7TAkczET0zriK1vXzP9kVXh9I/edit
+    - title: Q5 - Medium
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/126/B
+        - label: Editorial
+          url: https://docs.google.com/document/d/1tTwYdn8906Bn-JpvmrGJwSFcH8_-e7leln_jSnc7ctk/edit?usp=sharing
+    - title: Q6 - Medium
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/morgan-and-a-string
+        - label: Editorial
+          url: https://www.hackerrank.com/challenges/morgan-and-a-string/editorial
+    - title: Q7 - Medium
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/128/B
+        - label: Editorial
+          url: https://docs.google.com/document/d/1m4W0l6s5TOnETt_6UBs3xPiiZyi9saM458pPrXtR510/edit?usp=sharing
+    - title: Q8 - Medium
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/INSQ16F
+        - label: Editorial
+          url: https://discuss.codechef.com/problems/INSQ16F
+    - title: Q9 - Medium
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/PERIOD/
+        - label: Editorial
+          url: https://docs.google.com/document/d/17QbvOGLv7gWSfEeNo1J1logM0wGUmiq2R90bics09P0/edit?usp=sharing
+    - title: Q10 - Hard
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/NUMOFPAL/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1DNcyOFS_PvbjBsNlnlMqgAsTKbdBZ3yrIl6FBdBYbos/edit?usp=sharing
+    - title: Q11 - Hard
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/MINXOR
+        - label: Editorial
+          url: http://discuss.codechef.com/problems/MINXOR
+    - title: Q12 - Hard
+      links:
+        - label: Problem
+          url: http://codeforces.com/gym/100923/problem/D
+    - title: Q13 - Hard
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/LCS2/
+    - title: Q14 - Hard
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/710/F
+        - label: Editorial
+          url: http://codeforces.com/blog/entry/46761
+
+- name: Advanced Maths
+  tutorial:
+    - title: Combinatorics
+      links:
+        - label: YouTube
+          url: https://www.youtube.com/watch?v=1U3loHkX5XE
+    - title: Fast Fourier Transform
+      links:
+        - label: Codeforces
+          url: http://codeforces.com/blog/entry/43499
+    - title: Chinese Reminder Theorem
+      links:
+        - label: YouTube
+          url: https://www.youtube.com/watch?v=7SVz415AXyw
+    - title: Gauss Elimination
+      links:
+        - label: E - Maxx
+          url: http://e-maxx-eng.appspot.com/linear_algebra/linear-system-gauss.html
+    - title: Diophantine Equation
+      links:
+        - label: E - Maxx
+          url: http://e-maxx-eng.appspot.com/algebra/linear-diophantine-equation.html
+    - title: Inclusion Exclusion Principle
+      links:
+        - label: TopCoder
+          url: https://apps.topcoder.com/forums/?module=Thread&threadID=685138&start=0
+    - title: Discrete Log
+      links:
+        - label: Math StackExchange
+          url: https://math.stackexchange.com/questions/52545/primitive-root-and-discrete-logarithm
+  problems:
+    - title: Q1 - Easy
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/VFMUL/
+        - label: Editorial
+          url: https://docs.google.com/document/d/1bGAXhaSM45b5FtNlbcYYT4EoSgA0xfopjwBust8Hisg/edit
+    - title: Q2 - Easy
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/COPR16G
+        - label: Editorial
+          url: https://docs.google.com/document/d/1wfRD-htCdmsZW3KdqkDrzDrf5-bCfyVCu4t-A_xsfvo/edit
+    - title: Q3 - Easy
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/106/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/1vH9KCuYaoR3YEfhNpfNdaYmrhyq0mqfj9Kh7TrJWbUo/edit
+    - title: Q4 - Medium
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/803/F
+        - label: Editorial
+          url: https://docs.google.com/document/d/12eBxtf1bwj6JInOoPnNPtzTJK9Eg2BrYqelXXard8zk/edit?ts=597c4d63#heading=h.2bzzfit0xx6h
+    - title: Q5 - Medium
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/111/D
+        - label: Editorial
+          url: https://docs.google.com/document/d/12eBxtf1bwj6JInOoPnNPtzTJK9Eg2BrYqelXXard8zk/edit?ts=597c4d63#heading=h.2bzzfit0xx6h
+    - title: Q6 - Medium
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/223/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/11SZXYBGMN-oUK0tqZ61U4C5PMco9Dm9suOCjhE8Ona4/edit?ts=597cb48a
+    - title: Q7 - Medium
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/251/problem/D
+        - label: Editorial
+          url: https://docs.google.com/document/d/1bcjRCKzZzK9Wsr5oyncNyEY99Pv75lkZ6_F8ncB18TY/edit
+    - title: Q8 - Medium
+      links:
+        - label: Problem
+          url: https://www.codechef.com/APRIL17/problems/DGTCNT
+        - label: Editorial
+          url: https://docs.google.com/document/d/1DOdsrwoRQXmHT-1l1SLP_-ozJFB7VVpeXyA4pHxcr60/edit
+    - title: Q9 - Hard
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/challenges/parity-party/problem
+        - label: Editorial
+          url: https://www.hackerrank.com/challenges/parity-party/editorial
+    - title: Q10 - Hard
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/444/B
+        - label: Editorial
+          url: https://docs.google.com/document/d/1uIZppIpzN2JKzTw7rZDSrrnqLuaN0VppgwowOoRsDCI/edit?ts=597aed3b
+    - title: Q11 - Hard
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/827/E
+        - label: Editorial
+          url: https://docs.google.com/document/d/1kJNRPbN-w-idnhAkgRVGqBkz3cHAfKihDIZnP2og3xQ/edit
+    - title: Q12 - Hard
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/REALSET
+        - label: Editorial
+          url: https://discuss.codechef.com/questions/31836/realset-editorial
+    - title: Q13 - Hard
+      links:
+        - label: Problem
+          url: http://codeforces.com/problemset/problem/553/E
+        - label: Editorial
+          url: https://docs.google.com/document/d/1BHSTHSC_lrn9aYVJ3lES9k8xwQksf_O_zo8cM_v5w8U/edit
+
+- name: Dynamic Programming III
+  tutorial:
+    - title: Convex Hull Trick 1
+      links:
+        - label: WCI Peg
+          url: http://wcipeg.com/wiki/Convex_hull_trick
+    - title: Convex Hull Trick 2
+      links:
+        - label: TopCoder
+          url: https://apps.topcoder.com/forums/?module=Thread&threadID=608334&start=0&mc=14#1120736
+    - title: Divide and Conquer Optimization
+      links:
+        - label: Quora
+          url: https://www.quora.com/What-is-divide-and-conquer-optimization-in-dynamic-programming/answer/Michael-Levin
+    - title: Knuth Optimization
+      links:
+        - label: TopCoder
+          url: https://apps.topcoder.com/forums/?module=Thread&threadID=697369&start=0&mc=22#1327577
+    - title: Divide and Conquer Optimization - Summary
+      links:
+        - label: Codeforces
+          url: http://codeforces.com/blog/entry/8219
+  problems:
+    - title: Problem 1
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/833/problem/B
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
+    - title: Problem 2
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/NKLEAVES/
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
+    - title: Problem 3
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/CHEFAOR
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
+    - title: Problem 4
+      links:
+        - label: Problem
+          url: https://www.hackerrank.com/contests/w30/challenges/poles
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
+    - title: Problem 5
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/311/problem/B
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
+    - title: Problem 6
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/321/problem/E
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
+    - title: Problem 7
+      links:
+        - label: Problem
+          url: http://codeforces.com/contest/319/problem/C
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
+    - title: Problem 8
+      links:
+        - label: Problem
+          url: https://www.codechef.com/problems/CYCLRACE
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
+    - title: Problem 9
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/ACQUIRE/
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
+    - title: Problem 10
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/APIO10A/
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
+    - title: Problem 11
+      links:
+        - label: Problem
+          url: http://www.spoj.com/problems/BRKSTRNG/
+        - label: Editorial
+          url: https://docs.google.com/document/d/16jKP82d2sTzn7C8_gYhxy5vXeZW-goVdc9u2xIE_aMg/edit
