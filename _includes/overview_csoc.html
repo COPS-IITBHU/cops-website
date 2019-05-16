@@ -21,33 +21,8 @@
             <div class="team-member wow zoomIn">
                 <img src="{{ site.author.avatar | prepend: site.baseurl }}" height="110" width="110" class="img-responsive img-circle" alt="">
                 <h4><span class="navy">{{ site.author.first_name }}</span> {{ site.author.last_name }}</h4>
-                <ul class="list-inline social-icon">
-                    {% if site.author.github_username %}
-                    <li style="padding: 2%"><a title="Github" href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a></li>
-                    {% endif %}
-                    {% if site.author.facebook_username %}
-                    <li style="padding: 2%"><a title="Facebook" href="https://www.facebook.com/{{ site.author.facebook_username }}" target="blank"><i class="fa fa-facebook"></i></a></li>
-                    {% endif %}
-                    {% if site.author.linkedin_id %}
-                    <li style="padding: 2%"><a title="Linkedin" href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
-                    {% endif %}
-                    {% if site.author.slack_username %}
-                    <li style="padding: 2%"><a title="Slack" href="https://cops-iitbhu.slack.com/" target="blank"><i class="fa fa-slack"></i></a></li>
-                    {% endif %}
-                    {% if site.author.googlegroup_username %}
-                    <li style="padding: 2%"><a title="Google Group" href="https://groups.google.com/forum/#!forum/copsiitbhu" target="blank"><i class="fa fa-google"></i></a></li>
-                    {% endif %}
-                    {% if site.author.twitter_username %}
-                    <li style="padding: 2%"><a title="Twitter" href="https://twitter.com/{{ site.author.twitter_username }}" target="blank"><i class="fa fa-twitter"></i></a></li>
-                    {% endif %}
-                    {% if site.author.email %}
-                    <li style="padding: 2%"><a Title="Mail" href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
-                    {% endif %}
-                    <li><a Title="RSS Feed" href="{{ site.baseurl }}/feed.xml" target="blank"><i class="fa fa-rss"></i></a></li>
-                    {% if site.author.cv %}
-                    <li style="padding: 2%"><a href="{{ site.author.cv }}" target="blank"><i class="fa fa-file-pdf-o"></i></a></li>
-                    {% endif %}
-                </ul>
+                <h5> Powered by </h5>
+                <a href="https://github.com"><img src="https://i.ibb.co/PTnpWkP/Git-Hub-Logo.png" alt="Git-Hub-Logo" border="0" height="42" width="100"></a>
             </div>
         </div>
         <!-- second two icons -->

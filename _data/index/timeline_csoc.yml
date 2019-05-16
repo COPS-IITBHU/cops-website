@@ -1,29 +1,139 @@
 # timeline_csoc section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: test event 1
-    i18n: test_event_1
+    detail: Week 0
+    i18n: nill
   desc:
-    detail: Nill
+    detail: Resources related to Linux installation and basic shell,
+            basic maths, recursion, implementation, STL,
+            Numpy and python will be provided
+
     i18n: nill
   date:
-    detail: nill
+    detail:
     i18n: nill
   job:
-    detail: nill
+    detail:
     i18n: nill
   icon: fa-trophy
 
 - name:
-    detail: test event 2
-    i18n: test_event_2
+    detail: Week 1
+    i18n: nill
   desc:
-    detail: Nill
+    detail: Git, Github, PR and best practices of using Git will be discussed.
+            There will be a CP contest and assignments for topics dealt in Week0
+
     i18n: nill
   date:
-    detail: nill
+    detail:
     i18n: nill
   job:
-    detail: nill
+    detail:
     i18n: nill
   icon: fa-calendar-check-o
+
+- name:
+    detail: Week 2
+    i18n: nill
+  desc:
+    detail: Resources of HTML, CSS and JS,DFS, BFS, DSU will be shared
+            There will assignments for week 1 and materials on Data Science will be shared.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-code-fork
+
+- name:
+    detail: Week 3
+    i18n: nill
+  desc:
+    detail: Resources related to Django will be provided. There will be a Cp contest
+            On DFS,BFS and DSU.More materials and Assignments on backend
+            and data science will be provided.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-flag
+
+- name:
+    detail: Week 4
+    i18n: nill
+  desc:
+    detail: Students will be taught about choosing open source projects to work on.
+            Material on Computer Vision and dynamic programming will be shared.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-trophy
+
+- name:
+    detail: Week 5
+    i18n: nill
+  desc:
+    detail: There will be a contest on the topic of Dynamic programming and assignments on
+            the topic of computer vision. Mentoring will be provided to students
+             in regards to choosing and working on open source projects.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-calendar-check-o
+
+- name:
+    detail: Week 6
+    i18n: nill
+  desc:
+    detail: Material on segment tree, binary indexed tree and Natural language Processing will be provided.
+            Students will be guided to solving issues by making PRs.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-code-fork
+
+- name:
+    detail: Week 7
+    i18n: nill
+  desc:
+    detail: Assignments on Natural Language processing and contest on topics of Week 6.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-flag
+
+- name:
+    detail: Week 8
+    i18n: nill
+  desc:
+    detail: Final grading and evaluation and release of leader board.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-trophy
