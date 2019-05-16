@@ -1,15 +1,14 @@
 ---
 layout: resource
 title: CSOC
-permalink: /resources/csoc
+permalink: /resources/csoc/
 ---
 
 {% for section in site.data.nav %}
 {% if section.id == 'resources_csoc' %}
 {%- for item in section.childs -%}
 {% assign loopindex = forloop.index | modulo: 2 %}
-<section id="{{ item.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ item.css }}"
-  style="margin-top: 5%; margin-bottom: 5%">
+<section id="{{ item.id }}" class="features {{ item.css }}" style="margin-top: 5%; margin-bottom: 5%">
   {% include {{item.tpl}} %}
 </section>
 {%- endfor -%}
