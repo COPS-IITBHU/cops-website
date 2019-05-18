@@ -46,7 +46,7 @@
   i18n: nav.resources
   name: CSOC
   tpl: csoc.html
-  page: resources/csoc/
+  page: resources/csoc2019/
   childs:
     - id: overview-csoc
       i18n: nav.overview_csoc
