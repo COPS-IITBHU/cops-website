@@ -41,3 +41,21 @@
   name: POTW
   tpl: potw.html
   page: resources/potw/
+
+- id: resources_csoc
+  i18n: nav.resources
+  name: CSOC
+  tpl: csoc.html
+  page: resources/csoc2019/
+  childs:
+    - id: overview-csoc
+      i18n: nav.overview_csoc
+      name: Overview
+      tpl: overview_csoc.html
+      css:
+
+    - id: timeline_csoc
+      i18n: nav.timeline_csoc
+      name: Timeline
+      tpl: timeline_csoc.html
+      css: timeline

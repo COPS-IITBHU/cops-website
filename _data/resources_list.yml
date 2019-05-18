@@ -2,3 +2,6 @@
 
 - name: POTW(Problem Of The Week)
   page: /potw/
+
+- name: CSOC
+  page: /csoc/

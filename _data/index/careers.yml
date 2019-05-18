@@ -15,6 +15,20 @@
   icon: fa-trophy
 
 - name:
+    detail: 7th Inter IIT Tech Meet 2018, IIT Bombay
+    i18n: company_a
+  desc:
+    detail: 2 teams, of 4 members each, participated and both won bronze models on their respective events of Coding Hackathon and Star Cluster Identifier against the participating 23 IITs.
+    i18n: company_a_desc
+  date:
+    detail: December, 2018
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+
+- name:
     detail: Google Summer of Code 2018
     i18n: company_a
   desc:
