@@ -14,6 +14,7 @@ Hello and welcome to the week 2 of CSOC ML. Hope you have gone through and pract
 
 ## pandas
 ![pandas](https://pandas.pydata.org/_static/pandas_logo.png)
+
 Machine Learning deals with data, loads and loads of them. Understanding, analysing and manuplating this data is essential before applying Machine Learning algorithms. Pandas is a powerful data science library with provides you powerful functions to manipulate and analyze the data. Hence it is very essential to have a strong grasp over some basic functions in this library. Here are some of the good tutorial which you can refer.
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 + [Tutorial series by sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
