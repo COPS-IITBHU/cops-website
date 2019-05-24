@@ -1,4 +1,4 @@
-COPS-IITBHU
+COPS-IITBHU [![Netlify Status](https://api.netlify.com/api/v1/badges/ddbd9c06-116c-4974-a1aa-6631f2186bf3/deploy-status)](https://app.netlify.com/sites/cops-iitbhu/deploys)
 ===========
 Official website of Club of Programmers, IIT (BHU) Varanasi.
 
