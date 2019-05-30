@@ -12,7 +12,7 @@ icon: fa-camera
 ---
 
 Hello and welcome to the week 3 of CSOC ML. Hope all of you are going through the resources given last week and have submitted the
-first assignment. The next two weeks we will be learning about Data Science. The topic is too huge to cover in two weeks but we will try to give you a very good idea about the field. Also the [second assignment]() on matplotlib and pandas has been released and the solution to first assignment will soon be released. You have time till next Wesdnesday midnight to submit the assignment. Do not forget to fill the google form after completing the assignment. Now coming to the resources of this week.
+first assignment. The next two weeks we will be learning about Data Science. The topic is too huge to cover in two weeks but we will try to give you a very good idea about the field. Also the [second assignment](https://github.com/COPS-IITBHU/csoc-ml2k19-assignment-1b) on matplotlib and pandas has been released and the solution to first assignment will soon be released. You have time till next Wesdnesday midnight to submit the assignment. Do not forget to fill the google form after completing the assignment. Now coming to the resources of this week.
 
 # What is Data Science?
 ![data science](https://cdn-images-1.medium.com/max/1129/0*rNapZQnyP5EBLYli.png)
