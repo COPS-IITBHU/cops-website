@@ -26,3 +26,10 @@
   url: https://cops-intern-portal.herokuapp.com/
   img: /static/assets/img/landing/internportal.png
   desc: Intern Portal is a django-web application that helps the students of IIT BHU to land an internship in upcoming startups.
+  
+  
+- name: Yearbook
+  i18n: google
+  url: https://github.com/COPS-IITBHU/Yearbook
+  img: /static/assets/img/landing/yearbook.png
+  desc: Yearbook is a django-web application that generates a pdf based on responses of fourth yearites in the yearbook portal.
