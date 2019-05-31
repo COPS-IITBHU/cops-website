@@ -33,9 +33,9 @@ Simplest site to learn basics of web dev is no doubt w3schools. So, get started 
 For CSS, don't get lost there. Just learn syntax, how to use it and then keep the following references handy:
 - [HTML references](https://htmlreference.io/)
 - [CSS references](https://cssreference.io/)
-- When you don't understand something in CSS, remember to search here: https://css-tricks.com/
-- https://stackoverflow.com/ :D
+- When you don't understand something in CSS, remember to search here: [CSS tricks](https://css-tricks.com/)
+- [God of answers :D](https://stackoverflow.com/)
 
-For JS, it's very, very vast. Start with this crash course first: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+For JS, it's very, very vast. Start with this crash course first: [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-And to practice using with your HTML page, read DOM Manipulation: https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/
+And to practice using with your HTML page, read DOM Manipulation: [https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
