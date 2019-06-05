@@ -23,7 +23,7 @@
 
 - name: Internship Portal
   i18n: google
-  url: https://cops-intern-portal.herokuapp.com/
+  url: https://iit-intern-portal.herokuapp.com/
   img: /static/assets/img/landing/internportal.png
   desc: Intern Portal is a django-web application that helps the students of IIT BHU to land an internship in upcoming startups.
   
