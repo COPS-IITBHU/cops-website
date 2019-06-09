@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CSOC ML Week4"
-date:   2019-05-9
+date:   2019-06-9
 desc: "4th blog of CSOC ML which contains links to many resources"
 keywords: "Data Science"
 categories: [Blog]
