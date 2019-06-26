@@ -122,7 +122,7 @@
     detail: Summer. 2017
     i18n: company_b_date
   job:
-    detail: <a target="_blank" href="https://docs.google.com/document/d/1J2c5zkhvZQ8U2S5PNxZoTQce0MO2JCdPOrnfViZ2Lv8/edit?usp=sharing"><h1><b>POTW</b></h1></a>
+    detail: <a target="_blank" href="https://copsiitbhu.co.in/resources/potw/"><h1><b>POTW</b></h1></a>
     i18n: company_b_job
   icon: fa-code-fork
 
