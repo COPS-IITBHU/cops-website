@@ -7,6 +7,7 @@
     <div class="row">
         {% for project in site.data.index.projects %}
             {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if loopindex == 1 %} </div> <div class="row"> {% endif %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
             <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
