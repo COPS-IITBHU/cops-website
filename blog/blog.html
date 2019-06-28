@@ -18,7 +18,7 @@ permalink: /blog/
             {% for post in site.posts limit:10 %}
             <div class="vote-item">
                 <div class="row">
-                    <div class="col-md-10">
+                    <div class="col-xs-10">
                         <div class="vote-actions">
                         </div>
                         <a href="{{ post.url | absolute_url }}" class="vote-title">
@@ -33,7 +33,7 @@ permalink: /blog/
                             <i class="fa fa-user"></i> <a>{{ site.author.name }}</a>
                         </div>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 ">
                         <div class="vote-icon">
                             {% if post.icon %}<i class="fa {{ post.icon }}"> </i>{% endif %}
                         </div>
