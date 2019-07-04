@@ -2360,6 +2360,10 @@ body {
   }
 }
 
+.respon{
+  display: none;
+}
+
 .potw-topic {
   margin-top: 16px;
 }
@@ -2419,6 +2423,19 @@ body {
   color: #fff;
 }
 
+@media screen and (max-width: 655px) {
+  .respon{
+    display: block;
+  }
+  .potw-link{
+    float: left;
+    margin-top: 1px;
+    margin-bottom: 5px;
+  }
+  .potw-row{
+    font-size: 14px;
+  }
+}
 
 .landing-page {
   span.navy {
