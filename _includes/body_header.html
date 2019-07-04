@@ -1,3 +1,10 @@
+<style>
+    @media screen and (min-width:759px) and (max-width:981px){
+        .sameline{
+            font-size: 13px;
+        }
+    }
+</style>
 <div class="navbar-wrapper">
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
@@ -12,7 +19,7 @@
                 <a class="navbar-brand" href="{{ "/" | absolute_url }}">{{ site.title }}</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
-                <ul class="nav navbar-nav navbar-right">
+                <ul class="nav navbar-nav navbar-right sameline">
                     <li><a class="page-scroll" href="{{ "blog/" | prepend: site.baseurl }}">{{ site.index.home }}</a>
                     </li>
                     {% for tag in site.data.nav %}
