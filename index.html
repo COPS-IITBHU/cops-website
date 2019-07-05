@@ -25,21 +25,21 @@ permalink: /
           {% for item in section.childs %}
           <li>
             <a class="page-scroll" href="{{ item.id | prepend: '#'}} ">
-              <span data-i18n="{{ item.i18n }}">{{ item.name }}</span>
+              <span data-i18n="{{ item.i18n }}" class="adjSize">{{ item.name }}</span>
             </a>
           </li>
           {% endfor %}
           {%- else -%}
           <li>
             <a class="page-scroll" href="{{ section.page }} ">
-              <span data-i18n="{{ section.i18n }}">{{ section.name }}</span>
+              <span data-i18n="{{ section.i18n }}" class="adjSize">{{ section.name }}</span>
             </a>
           </li>
           {% endif %}
           {% endfor %}
           <li>
             <a class="page-scroll" href="https://iit-intern-portal.herokuapp.com">
-              <span data-i18n="internships">Internships</span>
+              <span data-i18n="internships" class="adjSize">Internships</span>
             </a>
           </li>
           {% for language in site.data.index.language %}
@@ -85,7 +85,7 @@ permalink: /
     transform-origin: top left;
   }
   @media screen and (min-width:759px) and (max-width:981px){
-    #i18_navbar{
+    .adjSize{
       font-size: 13px;
     }
   }
