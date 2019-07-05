@@ -16,7 +16,7 @@ permalink: /
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="#page-top" id="i18_title"><span
-            data-i18n="website.title">{{ site.title }}</span></a>
+            data-i18n="website.title" class="adjSize">{{ site.title }}</span></a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right" id="i18_navbar">
@@ -25,21 +25,21 @@ permalink: /
           {% for item in section.childs %}
           <li>
             <a class="page-scroll" href="{{ item.id | prepend: '#'}} ">
-              <span data-i18n="{{ item.i18n }}">{{ item.name }}</span>
+              <span data-i18n="{{ item.i18n }}" class="adjSize">{{ item.name }}</span>
             </a>
           </li>
           {% endfor %}
           {%- else -%}
           <li>
             <a class="page-scroll" href="{{ section.page }} ">
-              <span data-i18n="{{ section.i18n }}">{{ section.name }}</span>
+              <span data-i18n="{{ section.i18n }}" class="adjSize">{{ section.name }}</span>
             </a>
           </li>
           {% endif %}
           {% endfor %}
           <li>
             <a class="page-scroll" href="https://iit-intern-portal.herokuapp.com">
-              <span data-i18n="internships">Internships</span>
+              <span data-i18n="internships" class="adjSize">Internships</span>
             </a>
           </li>
           {% for language in site.data.index.language %}
@@ -84,9 +84,19 @@ permalink: /
     -ms-transform-origin: top left;
     transform-origin: top left;
   }
-  @media screen and (min-width:759px) and (max-width:981px){
-    #i18_navbar{
-      font-size: 13px;
+  @media screen and (min-width:759px) and (max-width:1000px){
+    .adjSize{
+      font-size: 12px;
+    }
+    #i18_title{
+      position: fixed;
+      margin-left: 15px;
+      left: 3px;
+    }
+    #i18_title{
+      position: fixed;
+      margin-left: 0px;
+      left: 0px;
     }
   }
 </style>
