@@ -67,7 +67,7 @@ permalink: /
 <section id="{{ item.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ item.css }}"
   style="margin-top: 5%; margin-bottom: 5%">
   {% include sections/{{item.tpl}} %}
-</section>
+</section>i
 {%- endfor -%}
 {% endif %}
 {% endfor %}
@@ -83,6 +83,11 @@ permalink: /
     -o-transform-origin: top left;
     -ms-transform-origin: top left;
     transform-origin: top left;
+  }
+  @media screen and (min-width:759px) and (max-width:981px){
+    #i18_navbar{
+      font-size: 13px;
+    }
   }
 </style>
 <script>
