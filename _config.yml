@@ -8,7 +8,7 @@ baseurl:  '' # if you have suburl as homepage like '/homepage', please change it
 url: http://copsiitbhu.co.in  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
-
+logo_path: /static/assets/img/logo.png
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Club of Programmers  # Be used at blog posts' author.

@@ -3,7 +3,28 @@ layout: default
 title: index
 permalink: /
 ---
+<style>
+    #i18_title {
+    
+    background: transparent;
 
+    
+  }
+   #i18_title:hover {
+    
+    background: white;
+
+    
+  }
+
+  
+  #logo {
+    height: 58px;
+    width: 300px;
+
+  }
+  
+</style>
 <div class="navbar-wrapper">
   <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
@@ -16,7 +37,7 @@ permalink: /
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="#page-top" id="i18_title"><span
-            data-i18n="website.title">{{ site.title }}</span></a>
+            data-i18n="website.title"><img id="logo" src="{{ site.logo_path }}"></span></a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right" id="i18_navbar">
