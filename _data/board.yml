@@ -1,0 +1,38 @@
+- name: CP
+  participants:
+    - name: Ronit
+      points: 100
+      url: https://github.com/arron-tij
+      institute: IIT BHU
+        
+ 
+    - name: Raj
+      points: 110
+      url: https://github.com/arron-tij
+      institute: IIT BHU
+   
+- name: ML
+  participants:
+    - name: Ronit
+      points: 100
+      url: https://github.com/arron-tij
+      institute: IIT BHU
+        
+ 
+    - name: Raj
+      points: 110
+      url: https://github.com/arron-tij
+      institute: IIT BHU
+   
+- name: Dev
+  participants:
+    - name: Ronit
+      points: 100
+      url: https://github.com/arron-tij
+      institute: IIT BHU
+        
+ 
+    - name: Raj
+      points: 110
+      url: https://github.com/arron-tij
+      institute: IIT BHU

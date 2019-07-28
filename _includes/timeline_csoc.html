@@ -25,3 +25,59 @@
         </div>
     </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row" style="margin-top: 3%;">
+    <div class="col-lg-12 text-center">
+        <h1>CSOC Leaderboard</h1>
+    </div>
+</div>
+
+<div class="panel-group" id="accordion">
+    {% for topic in site.data.board %}
+    {%- assign title = topic.name -%}
+    {%- assign participant = topic.participants -%}
+    {%- assign id = title | slugify -%}
+
+    <div class="potw-topic panel panel-default">
+        <div class="panel-heading">
+            <a data-toggle="collapse" data-parent="#accordion" href="#{{ id }}">
+                <h4 class="panel-title potw-title">{{ title }}</h4>
+            </a>
+        </div>
+        <div id="{{ id }}" class="panel-collapse collapse">
+            <div class="panel-body">
+                <table class="table table-striped">
+                    <thead>
+                      <tr>
+                        <th>Name</th>
+                        <th>Institute</th>
+                        <th>Points</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                        {%- for ptcpnt in participant -%}
+                        <tr>
+                            <td><a href="{{ptcpnt.url}}">{{ptcpnt.name}}</a></td>
+                            <td>{{ptcpnt.institute}}</td>
+                            <td>{{ptcpnt.points}}</td>
+                        </tr>
+                        {%- endfor -%}
+                    </tbody>
+                </table>                    
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
