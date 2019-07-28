@@ -1,7 +1,9 @@
 <div class="item potw-row">
     <span class="potw-label {{ include.class }}">{{ include.label }}</span>
     {{ include.name }}
+    <div class="respon"><br></div>
     {%- for link in include.links reversed -%}
     <a class="potw-link" href="{{ link.url }}" target="_blank">{{ link.label }}</a>
     {%- endfor -%}
+    <div class="respon"><br><br></div>
 </div>
