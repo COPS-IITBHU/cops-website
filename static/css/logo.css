@@ -1,0 +1,45 @@
+
+     @font-face{
+        font-family: agencyr;
+        src : url(agencyr.ttf);
+      }    
+      
+
+      
+
+       #lg {
+        font-family: 'agencyr',arial;
+        text-shadow: 4px 4px 4px black  ;
+        font-weight: bold;
+        font-size: 8vw;
+        color: white;
+        text-align: center;
+        margin-top: auto;
+        background-size: auto;
+      
+        
+         }
+
+      
+      #lgo {
+        font-family: 'agencyr',arial;
+        text-shadow: 4px 4px 4px black;
+        font-size: 2vw;
+        text-align: center;
+        color: white;
+        margin-bottom: auto;
+        line-height: 10px;
+        
+
+
+        
+
+      }
+
+     #pos {
+      position: relative;
+      bottom: 200px;
+
+
+  }
+  
