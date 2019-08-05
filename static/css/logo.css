@@ -1,0 +1,52 @@
+
+     @font-face{
+        font-family: agencyr;
+        src : url(agencyr.ttf);
+      }    
+      
+
+      div .container {
+        line-height: 1.6;
+      }
+
+       #lg {
+        font-family: 'agencyr',arial;
+        text-shadow: 4px 4px 4px black  ;
+        font-weight: bold;
+        font-size: 8vw;
+        color: white;
+        text-align: center;
+        margin-top: auto;
+        border-bottom: 2px;
+        background-size: auto;
+         }
+
+      #btn {
+        margin: auto;
+        display: block;
+        background-color: #142739;
+        width: 19vw;
+        height: 15vw;
+        border-color: #142739;
+        
+
+      }
+
+      #lgo {
+        font-family: 'agencyr',arial;
+        text-shadow: 4px 4px 4px black;
+        font-size: 2vw;
+        text-align: center;
+        color: white;
+        margin-bottom: auto;
+        line-height: 10px;
+
+        
+
+      }
+  
+
+  button {
+    font-size: 10vw;
+  }
+  
