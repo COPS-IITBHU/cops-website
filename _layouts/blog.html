@@ -6,14 +6,14 @@ layout: default
     <input type="text" class="form-control search-content" id="search-content" style="position: fixed; top: 60px"
         placeholder="Search Blog">
 
-    <div style="position: fixed; top: 16px; right: 16px; z-index: 9999;">
+    <div style="position: fixed; top: 16px; right: 16px; z-index: 9999; cursor: pointer;">
         <img src="{{ "/static/assets/img/search/cb-close.png" | prepend: site.baseurl }}" id="close-btn" />
     </div>
 </div>
 
-<div style="position: fixed; right: 16px; bottom: 20px; z-index: 9999;">
-    <img src="{{ "/static/assets/img/search/cb-search.png" | prepend : site.baseurl }}" id="search-btn"
-        title="Double click Ctrl" />
+<div style="position: fixed; right: 16px; bottom: 20px; z-index: 9999; background-color: #8c4d79; box-shadow: 2px 2px 2px grey; color: white; padding: 10px; border-radius: 50%; font: normal normal normal 23px/1 FontAwesome; font-weight: 1; cursor: pointer;">
+    <i class="fa fa-search" id="search-btn"
+        title="Double click Ctrl" ></i>
 </div>
 
 {{ content }}
