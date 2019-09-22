@@ -1,0 +1,49 @@
+<div class="container" id="i18_overview_extravaganza">
+    <div class="row m-b-lg">
+        <div class="col-lg-12 text-center">
+            <h1><span data-i18n="overview_extravaganza.overview_extravaganza">Overview</span></h1>
+            <!-- <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p> -->
+        </div>
+    </div>
+    <div class="row">
+        <!-- first two icons -->
+        {% for icon in site.author.skill_icon1 %}
+
+        <div class="col-xs-2 wow fadeInLeft">
+            <div class="team-member">
+                <div class="vote-icon" style="text-align: center">
+                    <i class="fa {{ icon.name }}"></i>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+        <!-- avatar -->
+        <div class="col-xs-4">
+            <div class="team-member wow zoomIn">
+                <img src="{{ site.author.avatar | prepend: site.baseurl }}" height="110" width="110" class="img-responsive img-circle" alt="">
+                <h4><span class="navy">{{ site.author.first_name }}</span> {{ site.author.last_name }}</h4>
+                <h5> Powered by </h5>
+                <a href="https://github.com"><img src="https://i.ibb.co/PTnpWkP/Git-Hub-Logo.png" alt="Git-Hub-Logo" border="0" height="42" width="100"></a>
+            </div>
+        </div>
+        <!-- second two icons -->
+        {% for icon in site.author.skill_icon2 %}
+        <div class="col-xs-2 wow fadeInRight">
+            <div class="team-member">
+                <div class="vote-icon" style="text-align: center">
+                    <i class="fa {{ icon.name }}"></i>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-justify m-t-lg m-b-lg wow zoomIn">
+            <p><span data-i18n="overview_extravaganza.des">
+Dev Extravaganza is a 2-day workshop series in association with MLH empowering all the budding developers with real-world knowledge and experience, bridging the gap between school and the industry. The series will focus on practical the side of Web development, Game development, and Deployment all having fun with some of the best technologies in the current industry and winning some exciting goodies from Github.
+<p>A brief timeline of the programme is as follows:</p>
+
+</span></p>
+        </div>
+    </div>
+</div>

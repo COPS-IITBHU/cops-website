@@ -59,3 +59,22 @@
       name: Timeline
       tpl: timeline_csoc.html
       css: timeline
+
+
+- id: resources_extravaganza
+  i18n: nav.resources
+  name: Dev Extravaganza
+  tpl: extravaganza.html
+  page: resources/extravaganza2019/
+  childs:
+    - id: overview-extravaganza
+      i18n: nav.overview_extravaganza
+      name: Overview
+      tpl: overview_extravaganza.html
+      css:
+
+    - id: timeline_csoc
+      i18n: nav.timeline_extravaganza
+      name: Timeline
+      tpl: timeline_extravaganza.html
+      css: timeline

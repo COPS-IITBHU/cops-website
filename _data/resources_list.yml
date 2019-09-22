@@ -5,3 +5,6 @@
 
 - name: CSOC
   page: /csoc/
+
+- name: Dev Extravaganza
+  page: /extravaganza/
