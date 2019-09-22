@@ -2,9 +2,7 @@
     detail: 1st November, 6pm
     i18n: nill
   desc:
-    detail: Clone a simple memes app and create a Twilio account. Text a number and receive back a random meme, gif, or any piece of content you want. Through this simple application, you'll get familiar with the Twilio SMS API, how to use the Twilio console and JavaScript programming.
-
-
+    detail: Twilio App
     i18n: nill
   date:
     detail:
@@ -12,14 +10,13 @@
   job:
     detail:
     i18n: nill
-  icon: fa-code-fork
+  icon: fa-calendar-check-o
 
 - name:
     detail: 2nd November, 10am
     i18n: nill
   desc:
-    detail: You will go through building an Event Suggestion Generator web application using the EventBrite API, setting up a Flask application, fetch data from Eventbrite’s API, configuring a database using AWS Elastic Beanstalk, and deploy to Amazon Web Services.
-
+    detail: Full-stack web-app with AWS
     i18n: nill
   date:
     detail:
@@ -33,7 +30,7 @@
     detail: 2nd November, 5pm
     i18n: nill
   desc:
-    detail: Interact with a 3D car racing game written in C# and developed using the Unity Game Engine. You will learn how to set up the Unity Engine on their computers, explore the project files, fix broken functions in the game, and publish your games for others to play!
+    detail: Unity Game Engine
     i18n: nill
   date:
     detail:
@@ -41,4 +38,4 @@
   job:
     detail:
     i18n: nill
-  icon: fa-code-fork
+  icon: fa-calendar-check-o

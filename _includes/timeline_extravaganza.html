@@ -1,30 +1,3 @@
-<!-- <div class="container" id="i18_timeline_extravaganza">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h1><span data-i18n="timeline_extravaganza.timeline_extravaganza">Timeline</span></h1>
-        </div>
-    </div>
-    <div class="row features-block">
-        <div class="col-lg-12">
-            <div id="vertical-timeline" class="vertical-container light-timeline center-orientation">
-            {% for event in site.data.index.timeline_extravaganza %}
-            {% assign loopindex = forloop.index | modulo: 2 %}
-                <div class="vertical-timelin e-block">
-                    <div class="vertical-timeline-icon navy-bg wow rotateIn">
-                        <i class="fa {{ event.icon }}"></i>
-                    </div>
-                    <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-                        <h2><span data-i18n="event.{{ event.name.i18n }}">{{ event.name.detail }}</span></h2>
-                        <p><span data-i18n="event.{{ event.desc.i18n }}">{{ event.desc.detail }} </span></p>
-                        <span class="vertical-date"><span data-i18n="event.{{ event.date.i18n }}"> {{ event.date.detail }} </span>
-                        <br/> <small><span data-i18n="event.{{ event.job.i18n }}">{{ event.job.detail }}</span></small> </span>
-                    </div>
-                </div>
-            {% endfor %}
-            </div>
-        </div>
-    </div>
-</div> -->
 <div class="container" id="i18_timeline_extravaganza">
     <div class="row">
         <div class="col-lg-12 text-center">
