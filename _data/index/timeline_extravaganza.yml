@@ -1,4 +1,18 @@
 - name:
+    detail: 30th October, 6pm
+    i18n: nill
+  desc:
+    detail: GitHub Workshop
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-calendar-check-o
+
+- name:
     detail: 1st November, 6pm
     i18n: nill
   desc:
