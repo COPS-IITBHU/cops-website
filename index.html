@@ -65,7 +65,7 @@ permalink: /
 {%- for item in section.childs -%}
 {% assign loopindex = forloop.index | modulo: 2 %}
 <section id="{{ item.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ item.css }}"
-  style="margin-top: 5%; margin-bottom: 5%">
+  style="margin-top: 5%;">
   {% include sections/{{item.tpl}} %}
 </section>
 {%- endfor -%}

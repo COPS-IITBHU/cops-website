@@ -2871,3 +2871,31 @@ body {
     }
   }
 }
+
+.page-footer {
+  background: #263238;
+  height: 150px;
+  @media (max-width: 390px) {
+    height: 200px;
+  }
+
+  .wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .logo {
+    margin: 25px;
+    box-shadow: whitesmoke 2px 0px 0px;
+    @media (max-width: 390px) {
+      box-shadow: whitesmoke 0px 2px 0px;
+    }
+  }
+
+  .links a {
+    color: white;
+  }
+}
