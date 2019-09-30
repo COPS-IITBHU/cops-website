@@ -1,5 +1,12 @@
 # sections of potw
 
+- name: Moving from C to C++
+  tutorial:
+    - title: Google Drive Link
+      links:
+        - label: C to Cpp
+          url: https://docs.google.com/document/d/1SSPtJEyM6Ze4DePE-EBhIHYqb2kumUvpYXehmzKK2xQ/
+
 - name: Standard Template Library
   tutorial:
     - title: Standard Template Library - Part 1
