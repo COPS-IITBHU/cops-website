@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 
 {% if page.title != 'index' %}
 {% include head.html %}
@@ -78,6 +78,7 @@ layout: compress
             }
         </style>
     </div>
+    <script src="{{'/static/assets/theme.js'| prepend: site.baseurl }}"></script>
 </body>
 
 </html>
