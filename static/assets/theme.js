@@ -6,12 +6,13 @@ function toBeExecutedOnFirstLoad(){
 		  // If time is after 6AM or before 7PM, apply day theme to ‘body’
 			document.documentElement.setAttribute('data-theme', 'light')
 			window.localStorage.setItem('data-theme', 'light');
-	    $('#switch').click();
 	  }
 		else{
 		  // Else use ‘night’ theme
 			document.documentElement.setAttribute('data-theme', 'dark')
 			window.localStorage.setItem('data-theme', 'dark');
+			$('#switch').click();
+
 			}
 	});
 }
