@@ -1,3 +1,7 @@
+$(document).on('click', '.sunandmoon', function(event) {
+    event.preventDefault();
+    $("#switch").click();
+});
 function toBeExecutedOnFirstLoad(){
 	$(document).ready(function(){
 		var d = new Date();
