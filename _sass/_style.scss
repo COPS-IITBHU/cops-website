@@ -3090,10 +3090,18 @@ label:active:after {
 
   .sun{
     zoom:0.01;
+    -ms-zoom: 0.01;
+    -webkit-zoom: 0.01;
+    -moz-transform:  scale(0.01, 0.01);
+    -moz-transform-origin: left center;
     fill: var(--sun);
   }
   .moon{
     zoom:0.01;
+    -ms-zoom: 0.01;
+    -webkit-zoom: 0.01;
+    -moz-transform:  scale(0.01, 0.01);
+    -moz-transform-origin: left center;
     fill: var(--moon);
   }
 .divide{
