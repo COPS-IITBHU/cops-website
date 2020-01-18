@@ -3108,6 +3108,10 @@ label:active:after {
   color: var(--divide);
 }
 
+.hide-toggle-button {
+  display: none !important;
+}
+
 html.transition,
 html.transition *,
 html.transition *:before,
