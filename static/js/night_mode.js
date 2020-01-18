@@ -7,7 +7,7 @@ $(document).ready(function() {
         var allToggleButtons = $(".toggle-container");
         var i = 0;
         while (i < allToggleButtons.length) {
-            allToggleButtons[i].classList.add("hide-toggle-button");
+            allToggleButtons[parseInt(i)].classList.add("hide-toggle-button");
             i++;
         }
     }
