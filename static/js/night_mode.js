@@ -5,10 +5,9 @@ $(document).ready(function() {
     var isChrome = !!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime);
     if(!isChrome) {
         var allToggleButtons = $(".toggle-container");
-        console.log($(".toggle-container").length);
         var i = 0;
         while (i < allToggleButtons.length) {
-            allToggleButtons[i].classList.add('hide-toggle-button');
+            allToggleButtons[i].classList.add("hide-toggle-button");
             i++;
         }
     }
