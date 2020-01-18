@@ -3069,13 +3069,6 @@ label:active:after {
   .laptop{
     display: none !important;
   }
-  // Display button only in webkit browsers
-  .phone {
-    display: none !important;
-  }
-  .phone:not(*:root){
-    display: block !important;
-  }
   .sunandmoon{
     right: 72px;
     top:5px;
@@ -3083,14 +3076,7 @@ label:active:after {
 }
 @media screen and (min-width:767px){
     .phone{
-      display: none !important;
-    }
-    // Display button only in webkit browsers
-    .laptop {
-      display: none !important;
-    }
-    .laptop:not(*:root){
-      display: block !important;
+      display: none;
     }
     #forswitch{
       margin-top: 25px;
