@@ -1,9 +1,8 @@
 // The night mode button doesn't appear correctly in firefox
-// So, as a temporary fix the button would be shown only in chrome
+// So, as a temporary fix the button should not be shown in firefox
 // This file can be deleted after fixing the actual issue
 $(document).ready(function() {
-    var isChrome = !!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime);
-    if(!isChrome) {
+    if(navigator.userAgent.indexOf("Firefox") != -1) {
         var allToggleButtons = $(".toggle-container");
         var i = 0;
         while (i < allToggleButtons.length) {
