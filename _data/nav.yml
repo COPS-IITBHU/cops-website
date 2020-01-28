@@ -4,12 +4,14 @@
   i18n: nav.index
   base: index.html
   name: Home
+  ref: index
   page: /
   childs:
     - id: about-me
       i18n: nav.about_me
       name: About
       tpl: about.html
+      ref: about
       css:
 
     - id: projects
@@ -34,19 +36,33 @@
   i18n: nav.blog
   name: Blog
   tpl: blog.html
-  page: blog/
+  ref: blog
+  page: /blog/
 
 - id: resources
   i18n: nav.resources
-  name: POTW
-  tpl: potw.html
-  page: resources/potw/
+  name: Resources
+  childs:
+    - id: resources.potw
+      i18n: resources.potw
+      name: POTW
+      ref: resources.potw
+      page: /resources/potw/
+      tpl: potw.html
+
+    - id: resources.dev
+      i18n: resources.dev
+      name: Dev
+      ref: resources.dev
+      page: /resources/dev/
+      tpl: dev.html
 
 - id: resources_csoc
   i18n: nav.resources
   name: CSOC
   tpl: csoc.html
-  page: resources/csoc2019/
+  ref: events.csoc
+  page: /resources/csoc2019/
   childs:
     - id: overview-csoc
       i18n: nav.overview_csoc
@@ -64,8 +80,9 @@
 - id: resources_extravaganza
   i18n: nav.resources
   name: Dev Extravaganza
+  ref: events.extravaganza
   tpl: extravaganza.html
-  page: resources/extravaganza2019/
+  page: /resources/extravaganza2019/
   childs:
     - id: overview-extravaganza
       i18n: nav.overview_extravaganza

@@ -5,7 +5,7 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en" data-theme="light">
 
-{% if page.title != 'index' %}
+{% if page.ref != 'index' %}
 {% include head.html %}
 {% else %}
 {% include index_head.html %}
@@ -13,13 +13,13 @@ layout: compress
 
 <body id="page-top" class="landing-page">
 
-    {% if page.title != 'index' %}
+    {% if page.ref != 'index' %}
     {% include body_header.html %}
     {% endif %}
 
     {{ content }}
 
-    {% if page.title != 'index' %}
+    {% if page.ref != 'index' %}
     {% include foot.html %}
     {% else %}
     {% include index_foot.html %}

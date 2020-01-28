@@ -23,25 +23,30 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a class="page-scroll" href="{{ "blog/" | prepend: site.baseurl }}">{{ site.index.home }}</a>
-                    </li>
                     {% for tag in site.data.nav %}
-                    <li class="{% if tag.childs %}dropdown{% endif %}{% if page.title == tag.name %} active{% endif %}">
+                    <li class="{% if tag.childs %}dropdown{% endif %}{% if page.ref == tag.ref %} active{% endif %}">
                         <a class="page-scroll{% if tag.childs %} dropdown-toggle{% endif %}" {% if tag.childs %}data-toggle="dropdown"{% endif %} href="{{ tag.page | absolute_url }}">
                             {{ tag.name }}
                         </a>
                     {% if tag.childs %}
                         <ul class="dropdown-menu">
                         {% for item in tag.childs %}
-                        <li>
-                            <a class="page-scroll" href="{{ item.id | prepend: '#'}} ">
+                        <li {% unless tag.page %} class="{% if page.ref == item.ref %}active{% endif %}" {% endunless %}>
+                            {% capture url %}
+                            {% if tag.page %}
+                            {{ item.id | prepend: '#' | prepend: tag.page }}
+                            {% else %}
+                            {{ item.page | absolute_url }}
+                            {% endif %}
+                            {% endcapture %}
+                            <a class="page-scroll" href="{{ url }}">
                             <span data-i18n="{{ item.i18n }}">{{ item.name }}</span>
                             </a>
                         </li>
                         {% endfor %}
                         </ul>
                     {% endif %}
-                    </li>
+                    </li{}>
                     {% endfor %}
                     <li class="toggle-container laptop">
                             <input type="checkbox" id="switch" name="theme"><label id="forswitch" for="switch">Toggle</label>
