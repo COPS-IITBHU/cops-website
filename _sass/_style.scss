@@ -17,6 +17,7 @@ html{
 --navborder2: #e7eaec;
 --navbg: #f3f3f4;
 --navli: #676a6c;
+--dropdownbg: #1872ab;
 --boxshadow: rgba(0, 0, 0, 0.15);
 --btnprimary: #0073B1;
 --btnsuccess: #1c84c6;
@@ -3118,4 +3119,23 @@ html.transition *:before,
 html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
+}
+
+
+.dropdown-menu {
+  background-color: inherit;
+
+  li a:focus, li a:hover {
+    background-color: var(--dropdownbg);
+  }
+}
+
+.navbar-scroll {
+  .dropdown-menu {
+    background-color: var(--white);
+
+    li a:focus, li a:hover, li.active a {
+      color: var(--white2) !important;
+    }
+  }
 }
