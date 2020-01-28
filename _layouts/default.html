@@ -80,6 +80,13 @@ layout: compress
     </div>
     <script src="{{'/static/assets/theme.js'| prepend: site.baseurl }}"></script>
     <script src="{{'/static/js/night_mode.js'| prepend: site.baseurl }}"></script>
+    <script src="{{'/static/js/jquery.bootstrap-dropdown-hover.min.js'| prepend: site.baseurl }}"></script>
+
+    <script>
+        $.fn.bootstrapDropdownHover({
+            clickBehavior: 'link'
+        });
+    </script>
 </body>
 
 </html>
