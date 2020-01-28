@@ -1,7 +1,18 @@
 <div class="item potw-row">
+    {% if include.label %}
     <span class="potw-label {{ include.class }}">{{ include.label }}</span>
-    {{ include.name }}
-    {%- for link in include.links reversed -%}
+    {% endif %}
+    <div class="potw-detail">
+        {{ include.name }}
+        {% if include.tags %}
+        <p>
+        {% for tag in include.tags %}
+        <a class="tag" href="#{{ tag }}">{{ tag }}</a>
+        {% endfor %}
+        </p>
+        {% endif %}
+    </div>
+    {%- for link in include.links -%}
     <a class="potw-link" href="{{ link.url }}" target="_blank">{{ link.label }}</a>
     {%- endfor -%}
 </div>
