@@ -1,0 +1,112 @@
+- name: Open Source
+  resources:
+    - title: Dev 055
+      tags:
+        - oss
+        - git
+        - hacktoberfest
+      links:
+        - label: Slide
+          url: https://drive.google.com/open?id=1P0JXEo_LkuhqtZ84LTA2x2xU56jttyCL
+    - title: GSoC 101
+      tags:
+        - gsoc
+        - oss
+      links:
+        - label: Slide
+          url: https://drive.google.com/open?id=1C5vi9NtL-o46UiYrIfM6iZhGRYEFzkf7-JhsaqQvyCE
+    - title: Hello GSoC & Outreachy!
+      tags:
+        - gsoc
+        - outreachy
+      links:
+        - label: Slide
+          url: https://drive.google.com/open?id=1zolLBrwAF4fecfy1aFMK46OpPFbl9g5YPsMJ1Y9nvPM
+
+- name: Dev Extravaganza
+  link:
+    label: Details
+    url: /events/extravaganza/
+  resources:
+    - title: Unity3D Game Dev
+      tags:
+        - game
+        - unity
+      links:
+        - label: Slide
+          url: https://drive.google.com/open?id=1oIwKxAuAGvRvu08JT5bfAH-tVQaTQsbYy9fxYTBvbb8
+    - title: Deployment with AWS
+      tags:
+        - cloud
+        - aws
+      links:
+        - label: Slide
+          url: https://drive.google.com/open?id=1ifZafQNhoa2YNi6dsr07wAvbGDRCQNvP
+    - title: Twilio WhatsApp API
+      tags:
+        - api
+        - twilio
+      links:
+        - label: Slide
+          url: https://drive.google.com/open?id=1vZ5yHQA3aPpp6K5qWD-vvQ3qZXqiWtbaFXjt8v6TRO8
+
+- name: Dev Talks
+  link:
+    label: Github Repo
+    url: https://github.com/COPS-IITBHU/DevTalks
+  resources:
+    - title: 3719 - Building MMORPG
+      tags:
+        - game
+        - websockets
+        - multiplayer
+      links:
+        - label: Slide
+          url: https://drive.google.com/open?id=1C1RU8RKeYmdotay6Wru-ohmunO11znRorcDkSAjGY4w
+
+        - label: Github
+          url: https://github.com/shivanshs9/MMORPG-TLO
+
+- name: CSOC Dev weeks
+  link:
+    label: Details
+    url: /events/csoc/
+  resources:
+    - title: Week 2
+      tags:
+        - html
+        - js
+        - frontend
+      links:
+        - label: Blog
+          url: /blog/2019/05/31/CSOC-Dev-Week-2.html
+    - title: Week 3
+      tags:
+        - python
+        - django
+        - backend
+        - api
+      links:
+        - label: Blog
+          url: /blog/2019/06/08/CSOC-Dev-Week-3.html
+  tasks:
+    - title: Week 2
+      tags:
+        - html
+        - frontend
+      links:
+        - label: Github
+          url: https://github.com/COPS-IITBHU/CSOC-dev-week2
+    - title: Week 3
+      tags:
+        - django
+        - backend
+      links:
+        - label: Github
+          url: https://github.com/COPS-IITBHU/csoc-dev-week3
+    - title: Week 4
+      tags:
+        - oss
+      links:
+        - label: Github
+          url: https://github.com/COPS-IITBHU/csoc-dev-week4
