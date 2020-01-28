@@ -83,9 +83,12 @@ layout: compress
     <script src="{{'/static/js/jquery.bootstrap-dropdown-hover.min.js'| prepend: site.baseurl }}"></script>
 
     <script>
-        $.fn.bootstrapDropdownHover({
+        $('[data-toggle="dropdown"]:not([href=""])').bootstrapDropdownHover({
             clickBehavior: 'link'
         });
+        $('[data-toggle="dropdown"][href=""]').bootstrapDropdownHover({
+            clickBehavior: 'disable'
+        })
     </script>
 </body>
 
