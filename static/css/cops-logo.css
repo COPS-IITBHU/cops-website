@@ -1,0 +1,37 @@
+.cops-logo-container {
+    color: white;
+    height: 300px;
+    width: 100%;
+    position: absolute;
+    top: 105px;
+    text-align: center;
+    pointer-events: none;
+}
+.cops-logo-container div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+.cops-logo-firstline {
+    font-size: 10rem;
+    word-spacing: -19px;
+    line-height: 80px;
+    font-family: "Agency FB Bd";
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
+}
+.cops-logo-secondline {
+    padding-left: 2px;
+    font-size: 2.2rem;
+    letter-spacing: 2px;
+    font-family: "Agency FB Reg";
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
+}
+@media (max-width: 768px){
+    .cops-logo-container {
+        top: 124px;
+    }
+}
