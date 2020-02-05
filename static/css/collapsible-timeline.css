@@ -5,6 +5,8 @@
     cursor: pointer;
     margin: 0;
 }
-#expand-vertical-timeline-block:hover, #collapse-vertical-timeline-block:hover {
-    transform: scale(1.1) translateY(-2px);
+@media (min-width: 1171px){
+    #expand-vertical-timeline-block:hover, #collapse-vertical-timeline-block:hover {
+        transform: scale(1.1) translateY(-2px);
+    }
 }
