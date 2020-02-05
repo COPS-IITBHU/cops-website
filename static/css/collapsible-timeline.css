@@ -1,0 +1,10 @@
+.vertical-timeline-block {
+    transition: all 0.2s;
+}
+#expand-vertical-timeline-block, #collapse-vertical-timeline-block {
+    cursor: pointer;
+    margin: 0;
+}
+#expand-vertical-timeline-block:hover, #collapse-vertical-timeline-block:hover {
+    transform: scale(1.1) translateY(-2px);
+}
