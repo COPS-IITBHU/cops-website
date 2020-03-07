@@ -1,3 +1,29 @@
+- name: COPS Workshop Series
+  resources:
+    - title: PROG 101
+      tags:
+        - cops
+        - coding
+      links:
+        - label: Slide
+          url: https://drive.google.com/file/d/19ea-8kma3XjM3YmkE4gDTon9P9JZp5Ug/view
+    - title: Linux Installation Fest
+      tags:
+        - linux
+      links:
+        - label: Slide
+          url: https://docs.google.com/presentation/d/1wML0NohWlSMDCWt2pUx0XChzXo_PtCpod5lFXp4YyuU/edit?usp=sharing
+    - title: Web Dev
+      tags:
+        - web
+        - api
+        - html
+        - css
+        - js
+      links:
+        - label: Slide
+          url: https://docs.google.com/presentation/d/1kMj_iaQVrtE7Df9xIcp2_K--cqlnbWFNP6o_LBFoNuw/edit?usp=sharing
+
 - name: Open Source
   resources:
     - title: Dev 055
@@ -37,6 +63,7 @@
           url: https://drive.google.com/open?id=1oIwKxAuAGvRvu08JT5bfAH-tVQaTQsbYy9fxYTBvbb8
     - title: Deployment with AWS
       tags:
+        - deploy
         - cloud
         - aws
       links:
@@ -72,6 +99,13 @@
     label: Details
     url: /events/csoc/
   resources:
+    - title: Week 1
+      tags:
+        - git
+        - github
+      links:
+        - label: FB Post
+          url: https://www.facebook.com/cops.iitbhu/posts/1052913788247860
     - title: Week 2
       tags:
         - html
@@ -110,3 +144,44 @@
       links:
         - label: Github
           url: https://github.com/COPS-IITBHU/csoc-dev-week4
+
+- name: Dev Winter Camp
+  link:
+    label: Site
+    url: http://wintercamp.copsiitbhu.co.in/
+  resources:
+    - title: JS course
+      tags:
+        - js
+        - frontend
+      links:
+        - label: Udacity
+          url: https://www.udacity.com/course/intro-to-javascript--ud803
+    - title: Github Pages
+      tags:
+        - deploy
+        - frontend
+        - github
+      links:
+        - label: YouTube
+          url: https://www.youtube.com/watch?v=2MsN8gpT6jY
+  tasks:
+    - title: Tic Tac Toe (2019)
+      tags:
+        - html
+        - frontend
+        - js
+        - game
+      links:
+        - label: Github
+          url: https://github.com/COPS-IITBHU/winter19-task1
+
+- name: Capture The Flag
+  resources:
+    - title: CTF 101
+      tags:
+        - ctf
+        - security
+      links:
+        - label: Slide
+          url: https://docs.google.com/presentation/d/1cfxornv3eJc8KwgvRz0bAVlJI3RDPFRHr5KbJUhqtLs/edit
