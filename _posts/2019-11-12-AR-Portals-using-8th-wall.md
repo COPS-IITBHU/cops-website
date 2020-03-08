@@ -16,7 +16,7 @@ icon: fa-camera
 
  Web AR for mobile devices!  
 
-![](http://www.upl.co/uploads/download-381573502754.jpg)   
+![](https://www.upl.co/uploads/download-381573502754.jpg)   
 Built entirely using standards-compliant JavaScript and WebGL, 8th Wall Web is a complete implementation of 8th Wall’s Simultaneous Localization and Mapping (SLAM) engine, hyper-optimized for real-time AR on mobile browsers. Features include 6-Degrees of Freedom Tracking, Surface Estimation, Lighting, World Points and Hit Tests.  
 
 ### Web AR Examples
@@ -52,11 +52,11 @@ Built entirely using standards-compliant JavaScript and WebGL, 8th Wall Web is a
 
 ## Steps to guide
 
-![](http://www.upl.co/uploads/11358889111573502164.png)   
+![](https://www.upl.co/uploads/11358889111573502164.png)   
 
-![](http://www.upl.co/uploads/19219253121573502164.png)  
+![](https://www.upl.co/uploads/19219253121573502164.png)  
 
-![](http://www.upl.co/uploads/12367632131573502164.png)  
+![](https://www.upl.co/uploads/12367632131573502164.png)  
 
 
 
@@ -126,4 +126,4 @@ Call Asset:
  // Add this code to line 173 and remove the unicorn.gltf and the platform over which it's placed.   
 ```
 **Thank YOU**   
-![](http://www.upl.co/uploads/download1573502754.png)
+![](https://www.upl.co/uploads/download1573502754.png)
