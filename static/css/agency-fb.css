@@ -1,0 +1,6 @@
+@font-face{
+    font-family:agency fb;
+    font-style:normal;
+    font-weight:400;
+    src:local('Agency FB'),local('AgencyFB-Regular'),url("../assets/fonts/agency-fb_0b9596562659a0772f5e24c22cae921b.woff") format('woff'),url("../assets/fonts/agency-fb_0b9596562659a0772f5e24c22cae921b.ttf") format('truetype')
+}
