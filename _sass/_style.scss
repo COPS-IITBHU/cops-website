@@ -2628,9 +2628,13 @@ body {
         }
       }
       li > a {
-        &:focus, &:hover {
-          color: var(--purple);
+        &:hover {
+          color: var(--purple) !important;
           background: inherit;
+        }
+        &:focus {
+          background: inherit;
+          color: var(--white);
         }
       }
       .active > a:focus {
