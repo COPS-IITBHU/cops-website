@@ -68,7 +68,7 @@
     detail: Week 4
     i18n: nill
   desc:
-    detail: Resources and assignment on creating a Virtual Web VR experience using A-Frame.
+    detail: Resources on building natively compiled applications using Flutter.
             Study Materials on Combinatorics, BIT Manipulation and String Algorithms.
             More assignment on Computer Vision and Convolutional Neural Networks.
     i18n: nill
@@ -84,7 +84,7 @@
     detail: Week 5
     i18n: nill
   desc:
-    detail: More resources on Web VR and Augmented Reality using 8th Wall will be provided.
+    detail: More resources and assignment will be provided for Flutter, and contribution to Open Source Projects.
             A week long CP practice contest for the materials posted in Week 4.
             Introduction to Natural Language Processing and Recurrent Neural Networks.
     i18n: nill
@@ -100,7 +100,7 @@
     detail: Week 6
     i18n: nill
   desc:
-    detail: Resources on building natively compiled applications using Flutter.
+    detail: Resources and assignment on creating a Virtual Web VR experience using A-Frame.
             Study Materials on Simple Range Query Techniques (e.g. prefix sum), Tree Algorithms (LCA, HLD, Centroid Decomposition), Advanced Mathematics (FFT, Gaussian Elimination).
             More assignment on Natural Language Processing and Recurrent Neural Networks.
     i18n: nill
@@ -116,7 +116,7 @@
     detail: Week 7
     i18n: nill
   desc:
-    detail: More resources and assignment will be provided for Flutter.
+    detail: More resources on Web VR and Augmented Reality using 8th Wall will be provided.
             A week long CP practice contest for the materials posted in Week 6.
             Resources and assignment on introduction to Reinforcement Learning and Deep Q Learning.
     i18n: nill
