@@ -4,10 +4,9 @@
     detail: Week 0
     i18n: nill
   desc:
-    detail: Resources related to Linux installation and basic shell,
-            basic maths, recursion, implementation, STL,
-            Numpy and python will be provided
-
+    detail: Resources related to Linux installation, basic shell commands, Git, GitHub and assignment on the basics of Frontend.
+            Study Materials for Implementation, STL, Number Theory and Dynamic Programming.
+            Anaconda installation and revision of Python, Numpy and basic Machine Learning algorithms.
     i18n: nill
   date:
     detail:
@@ -21,9 +20,9 @@
     detail: Week 1
     i18n: nill
   desc:
-    detail: Git, Github, PR and best practices of using Git will be discussed.
-            There will be a CP contest and assignments for topics dealt in Week 0
-
+    detail: Resources and assignments related to AJAX, DOM Manipulation using JS and usage of REST APIs.
+            A week long CP practice contest for the materials posted in Week 0.
+            Resources for Deep Learning, Multi Layer Perceptron and using Tensorflow and Keras.
     i18n: nill
   date:
     detail:
@@ -37,8 +36,9 @@
     detail: Week 2
     i18n: nill
   desc:
-    detail: Resources of HTML, CSS and JS,DFS, BFS, DSU will be shared
-            There will assignments for week 1 and materials on Data Science will be shared.
+    detail: Resources and assignments related to backend development using Django, a python web framework.
+            Study Materials for Greedy Algorithms, Binary Search, Graph Theory and Data Structures.
+            More Assignment on Deep Learning and using Tensorflow and Keras.
     i18n: nill
   date:
     detail:
@@ -52,9 +52,9 @@
     detail: Week 3
     i18n: nill
   desc:
-    detail: Resources related to Django will be provided. There will be a Cp contest
-            On DFS,BFS and DSU.More materials and Assignments on backend
-            and data science will be provided.
+    detail: Resources and assignment for making REST APIs using Django REST Framwork.
+            A week long CP practice contest for the materials posted in Week 2.
+            Introduction to Computer Vision and Convolutional Neural Networks.
     i18n: nill
   date:
     detail:
@@ -68,8 +68,9 @@
     detail: Week 4
     i18n: nill
   desc:
-    detail: Students will be taught about choosing open source projects to work on.
-            Material on Computer Vision and dynamic programming will be shared.
+    detail: Resources on building natively compiled applications using Flutter.
+            Study Materials on Combinatorics, BIT Manipulation and String Algorithms.
+            More assignment on Computer Vision and Convolutional Neural Networks.
     i18n: nill
   date:
     detail:
@@ -83,9 +84,9 @@
     detail: Week 5
     i18n: nill
   desc:
-    detail: There will be a contest on the topic of Dynamic programming and assignments on
-            the topic of computer vision. Mentoring will be provided to students
-             in regards to choosing and working on open source projects.
+    detail: More resources and assignment will be provided for Flutter, and contribution to Open Source Projects.
+            A week long CP practice contest for the materials posted in Week 4.
+            Introduction to Natural Language Processing and Recurrent Neural Networks.
     i18n: nill
   date:
     detail:
@@ -99,8 +100,9 @@
     detail: Week 6
     i18n: nill
   desc:
-    detail: Material on segment tree, binary indexed tree and Natural language Processing will be provided.
-            Students will be guided to solving issues by making PRs.
+    detail: Resources and assignment on creating a Virtual Web VR experience using A-Frame.
+            Study Materials on Simple Range Query Techniques (e.g. prefix sum), Tree Algorithms (LCA, HLD, Centroid Decomposition), Advanced Mathematics (FFT, Gaussian Elimination).
+            More assignment on Natural Language Processing and Recurrent Neural Networks.
     i18n: nill
   date:
     detail:
@@ -114,7 +116,9 @@
     detail: Week 7
     i18n: nill
   desc:
-    detail: Assignments on Natural Language processing and contest on topics of Week 6.
+    detail: More resources on Web VR and Augmented Reality using 8th Wall will be provided.
+            A week long CP practice contest for the materials posted in Week 6.
+            Resources and assignment on introduction to Reinforcement Learning and Deep Q Learning.
     i18n: nill
   date:
     detail:
@@ -128,7 +132,7 @@
     detail: Week 8
     i18n: nill
   desc:
-    detail: Final grading and evaluation and release of leader board.
+    detail: Final grading, evaluation and release of the leaderboard for Development, Competitive Programming and Machine Learning.
     i18n: nill
   date:
     detail:
