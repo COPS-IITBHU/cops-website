@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/yearbooks"
+  to = "https://drive.google.com/open?id=1QTpl4iB6VOnVzdMkpqgwdlvxpxAyH2Yg"
+  status = 200
+  force = false
