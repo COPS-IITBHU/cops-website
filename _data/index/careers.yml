@@ -14,6 +14,19 @@
     i18n: company_a_job
   icon: fa-trophy
 - name:
+    detail: ICPC 2019-2020
+    i18n: company_a
+  desc:
+    detail: One team from the club qualified for ICPC World Finals.
+    i18n: company_a_desc
+  date:
+    detail: December, 2019
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
     detail: Google Summer of Code 2019
     i18n: company_a
   desc:
