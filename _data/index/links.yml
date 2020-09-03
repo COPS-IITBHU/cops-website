@@ -1,18 +1,18 @@
 # links section data
-- last_name: Shivansh
-  first_name: Saini
+- last_name: Nishant
+  first_name: Kumar
   desc: Joint Secretary
-  website: https://shivanshs9.me/?utm_source=cops
-  email: shivansh.saini.cse17@iitbhu.ac.in
+  # website: #
+  email: nishantkr.ece18@itbhu.ac.in
 
-- last_name: Shravan
-  first_name: Nayak
+- last_name: Nishant
+  first_name: Mittal
   desc: Secretary
-  # website: #
-  email: shravan.nayak.ece17@itbhu.ac.in
+  website: https://www.nishantwrp.com
+  email: nishantmittal.cse18@itbhu.ac.in
 
-- last_name: Anshul
-  first_name: Asawa
+- last_name: Mihil
+  first_name: Gupta
   desc: Joint Secretary
   # website: #
-  email: anshul.asawa.cse17@itbhu.ac.in
+  email: mihil.gupta.cse17@iitbhu.ac.in
