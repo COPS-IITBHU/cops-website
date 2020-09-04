@@ -1,6 +1,32 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Google Summer of Code 2020
+    i18n: company_a
+  desc:
+    detail: Ten students from the club got selected for one of the most prestigious open-source software development programs - Google Summer of Code.
+    i18n: company_a_desc
+  date:
+    detail: Summer. 2020
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
+    detail: ICPC 2019-2020
+    i18n: company_a
+  desc:
+    detail: One team from the club qualified for ICPC World Finals.
+    i18n: company_a_desc
+  date:
+    detail: December, 2019
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
     detail: Google Summer of Code 2019
     i18n: company_a
   desc:
