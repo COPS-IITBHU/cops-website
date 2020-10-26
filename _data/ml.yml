@@ -1,0 +1,63 @@
+- name: Preprocess Data
+  resources:
+    - title: Feature Engineering
+      tags:
+        - feature
+        - scaling
+        - tools
+      links:
+        - label: Kaggle Blog
+          url: https://www.kaggle.com/general/71093
+        - label: Medium Blog
+          url: https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0
+        - label: Scaling
+          url: https://sebastianraschka.com/Articles/2014_about_feature_scaling.html
+        - label: Tools
+          url: https://medium.com/dataexplorations/tool-review-can-featuretools-simplify-the-process-of-feature-engineering-5d165100b0c3
+        - label: Subsampling
+          url: https://medium.com/dataexplorations/tool-review-can-featuretools-simplify-the-process-of-feature-engineering-5d165100b0c3
+    - title: Outliners
+      tags:
+        - models
+        - outliners
+      links:
+        - label: Detection
+          url: https://docs.google.com/presentation/d/1wML0NohWlSMDCWt2pUx0XChzXo_PtCpod5lFXp4YyuU/edit?usp=sharing
+        - label: Removal
+          url: https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
+    - title: Data Imbalance
+      tags:
+        - dataset
+        - imbalance
+      links:
+        - label: Resampling
+          url: https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets
+        - label: Classification
+          url: https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/
+        - label: Under & Over
+          url: https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation
+        - label: Neural Nets
+          url: https://medium.com/analytics-vidhya/machine-learning-for-unbalanced-datasets-using-neural-networks-b0fc28ef6261
+    - title: Principal Component Analysis
+      tags:
+        pca
+        ml
+        components
+      links:
+        - label: Blog
+          url: https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html
+    - title: Categorical Data
+      tags:
+        data
+        categorized
+      links:
+        - label: Medium Blog
+          url: https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159
+    - title: Decision Tree
+      tags:
+        algorithm
+        ml
+        trees
+      links:
+        - label: Medium Blog
+          url: https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1
