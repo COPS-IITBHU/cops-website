@@ -61,3 +61,15 @@
       links:
         - label: Medium Blog
           url: https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1
+- name: Ensemble Models
+  resources:
+    - title: Ensemble Models
+      tags:
+        - models
+        - ml
+        - dataset
+      links:
+        - label: Kaggle Blog
+          url: https://drive.google.com/open?id=1P0JXEo_LkuhqtZ84LTA2x2xU56jttyCL
+        - label: Analytics
+          url: https://www.kaggle.com/amrmahmoud123/1-guide-to-ensembling-methods
