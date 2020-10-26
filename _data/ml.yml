@@ -73,3 +73,36 @@
           url: https://drive.google.com/open?id=1P0JXEo_LkuhqtZ84LTA2x2xU56jttyCL
         - label: Analytics
           url: https://www.kaggle.com/amrmahmoud123/1-guide-to-ensembling-methods
+- name: Basics of NLP
+  resources:
+    - title: Basics of NLP
+    - tags:
+      - GPT2
+      - RNN
+      - Basics
+      - LSTM
+      links:
+        - label: Basics
+          url: https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66
+        - label: OpenAI GPT2
+          url: https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8
+    - title: Word Embedding
+    - tags:
+      - Word
+      - Embedding
+      links:
+        - label: Part 1
+          url: https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f
+        - label: Part 2
+          url: https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec
+        - label: Part 3
+          url: https://towardsdatascience.com/beyond-word-embeddings-part-3-four-common-flaws-in-state-of-the-art-neural-nlp-models-c1d35d3496d0?source=email-anon_f928ca0785d0-1562075234923-publication.newsletter
+        - label: Part 4
+          url: https://towardsdatascience.com/beyond-word-embeddings-part-4-introducing-semantic-structure-to-neural-nlp-96cf8a2723fb
+    - title: Projects for DS
+    - tags:
+      - Projects
+      - Data Science
+      links:
+        - label: Boost DS
+          url: https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
