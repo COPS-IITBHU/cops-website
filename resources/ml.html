@@ -1,0 +1,44 @@
+---
+layout: resource
+title: ML Resources
+ref: resources.ml
+permalink: /resources/ml/
+---
+
+<div class="row" style="margin-top: 3%;">
+  <div class="col-lg-12 text-center">
+    <h1>ML Resources</h1>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-8 col-lg-offset-2">
+    <div class="panel-group" id="accordion">
+      {% for topic in site.data.ml %}
+      {%- assign title = topic.name -%}
+      {%- assign tasks = topic.tasks -%}
+      {%- assign resources = topic.resources -%}
+      {%- assign id = title | slugify -%}
+      {%- assign link = topic.link %}
+      <div class="potw-topic panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title potw-title fill">{{ title }}</h4>
+          {% if link %}
+          <a class="panel-link" href="{{ link.url }}" target="_blank">{{ link.label }}</a>
+          {% endif %}
+        </div>
+        <div id="{{ id }}" class="panel-collapse">
+          <div class="panel-body">
+            {%- for resource in resources -%}
+            {%- include labelled_link.html name=resource.title tags=resource.tags links=resource.links -%}
+            {%- endfor -%}
+            {%- for task in tasks -%}
+            {%- include labelled_link.html label='Task' name=task.title links=task.links tags=task.tags -%}
+            {%- endfor -%}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

@@ -57,6 +57,13 @@
       page: /resources/dev/
       tpl: dev.html
 
+    - id: resources.ml
+      i18n: resources.ml
+      name: ML
+      ref: resources.ml
+      page: /resources/ml/
+      tpl: ml.html
+
 - id: resources_csoc
   i18n: nav.resources
   name: CSOC
