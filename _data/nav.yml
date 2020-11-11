@@ -60,7 +60,7 @@
     - id: resources.ml
       i18n: resources.ml
       name: ML
-      ref: resources.dev
+      ref: resources.ml
       page: /resources/ml/
       tpl: ml.html
 

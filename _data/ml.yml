@@ -106,3 +106,125 @@
       links:
         - label: Boost DS
           url: https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+- name: Time Series
+  resources:
+    - title: Arima Model
+      tags:
+        Arima
+        Tuning
+        Time
+      links:
+        - label: Case Study
+          url: https://machinelearningmastery.com/time-series-forecast-case-study-python-monthly-armed-robberies-boston/
+        - label: Tuning
+          url: https://machinelearningmastery.com/tune-arima-parameters-python/
+- name: NLP in Data Science
+  resources:
+    - title: Bag of Words
+      tags:
+        bag
+        words
+      links:
+        - label: Kaggle
+          url: https://www.kaggle.com/c/word2vec-nlp-tutorial
+    - title: RNN
+      tags:
+        recurrent
+        python
+        neural
+      links:
+        - label: Effectivness
+          url: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+        - label: Example
+          url: https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470
+    - title: Modules
+      tags:
+        Module
+        NLTK
+        Keras
+      links:
+        - label: NLTK
+          url: https://medium.com/datadriveninvestor/python-data-science-getting-started-tutorial-nltk-2d8842fedfdd
+        - label: Keras
+          url: https://keras.io/preprocessing/text/
+        - label: Reshaping Pandas
+          url: https://hackingandslacking.com/reshaping-pandas-dataframes-6aceb55c8c27?source=email-69b1486a509b-1559950862500-digest.reader------1-58------------------391e6b44_1b27_47b6_a72f_e91f29128775-1&sectionName=top
+    - title: HyperParameter
+      tags:
+        Tuning
+        Grid
+      links:
+        - label: Tuning
+          url: https://medium.com/dataexplorations/tool-review-can-featuretools-simplify-the-process-of-feature-engineering-5d165100b0c3?source=email-69b1486a509b-1566768547074-digest.reader------1-59------------------37d66064_b9b7_4ab3_a4b5_909dfc683d21-1-----
+        - label: Optimization
+          url: https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f
+    - title: Algoritms
+      tags:
+       Forest
+       Gradient
+       MulitClass
+      links:
+        - label: MulitClass
+          url: https://medium.com/free-code-camp/multi-class-classification-with-sci-kit-learn-xgboost-a-case-study-using-brainwave-data-363d7fca5f69
+        - label: Gradient Descent
+          url: https://towardsdatascience.com/an-overview-of-the-gradient-descent-algorithm-8645c9e4de1e
+        - label: Decide Algo
+          url: https://medium.com/gradientcrescent/the-right-tool-for-the-job-a-novice-guide-to-selecting-the-correct-machine-learning-algorithm-for-60613c7f7b0b
+    - title: Text and Embedding
+      tags:
+        Embedding
+        Classification
+        linguistics
+      links:
+        - label: Text Classification
+          url: https://towardsdatascience.com/text-classification-in-python-dd95d264c802?source=email-69b1486a509b-1561071839977-digest.reader------1-49------------------793d48c9_07e3_413e_b48e_adffe7516cf9-11&sectionName=topic
+        - label: Text Data
+          url: https://medium.com/@ODSC/linguistics-in-nlp-why-so-complex-4fd1fb9873a3
+        - label: Embedding
+          url: https://towardsdatascience.com/deep-learning-4-embedding-layers-f9a02d55ac12
+        - label: Imbalance Data
+          url: https://medium.com/ai-ml-at-symantec/ai-ml-security-pro-tips-class-imbalance-and-missing-labels-764fd18b7bf8
+    - title: Tensorflow
+      tags:
+        Keras
+        Tensorflow
+        Neural
+      links:
+        - label: MultiLayer
+          url: https://towardsdatascience.com/introduction-to-multilayer-neural-networks-with-tensorflows-keras-api-abf4f813959
+    - title: LSTMs
+      tags:
+        recurrent
+        networds
+        Neural
+      links:
+        - label: Core Idea
+          url: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+    - title: CNN
+      tags:
+        convolutional
+        networkds
+        eagerAPI
+      links:
+        - label: Training CNN
+          url: https://towardsdatascience.com/convolutional-neural-networks-an-introduction-tensorflow-eager-api-7e99614a2879
+    - title: Baysian Optimization
+      tags:
+        hyperopt
+        Baysian
+        Optimize
+      links:
+        - label: Example
+          url: https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0
+- name: Courses
+  resources:
+    - title: Stanford
+      tags:
+        CNN
+        Stanford
+        NLP
+      links:
+        - label: CS231N
+          url: http://cs231n.github.io
+        - label: CS224N
+          url: http://web.stanford.edu/class/cs224n/
