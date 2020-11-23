@@ -3176,13 +3176,17 @@ html.transition *:after {
   }
 }
 
+#trailer {
+  background-color: var(--white) !important;
+}
+
 .video-background {
   position: relative;
-  width: 100vw;
-  height: 100vh;
+  width: inherit;
+  height: inherit;
   padding-bottom: 56.25%;
   background-color: var(--white);
-  z-index: 3000;
+  box-shadow: 8px 8px 8px var(--bg);
 
   iframe {
     position: absolute;
