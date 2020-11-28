@@ -3031,9 +3031,14 @@ body {
 
   .logo {
     margin: 25px;
-    box-shadow: var(--whitesmoke) 2px 0px 0px;
+    box-shadow: var(--dim2) 2px 0px 0px;
     @media (max-width: 390px) {
-      box-shadow: var(--whitesmoke) 0px 2px 0px;
+      box-shadow: var(--dim2) 0px 2px 0px;
+    }
+
+    object {
+      width: 175px;
+      margin-right: 15px;
     }
   }
 
