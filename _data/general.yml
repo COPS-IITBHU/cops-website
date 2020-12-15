@@ -1,0 +1,15 @@
+- name: Events
+  resources:
+    - title: Fresher's Orientation
+      tags:
+        - cops
+        - coding
+        - dev
+        - ml
+        - cp
+        - infosec
+      links:
+        - label: Slides
+          url: https://drive.google.com/file/d/1C_QiPuSHR4TBl0FIees-7IAG4_oJqxxj/view
+        - label: Session
+          url: https://www.youtube.com/watch?v=N9eogu1OoxU
