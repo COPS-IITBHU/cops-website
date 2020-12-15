@@ -57,6 +57,13 @@
       page: /resources/potw/
       tpl: potw.html
 
+    - id: resources.general
+      i18n: resources.general
+      name: General
+      ref: resources.general
+      page: /resources/general/
+      tpl: general.html
+
     - id: resources.dev
       i18n: resources.dev
       name: Dev
