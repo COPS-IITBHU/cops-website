@@ -1,3 +1,21 @@
+- name: CSOC 2020
+  resources:
+    - title: DEV track
+      tags:
+        - cops
+        - csoc
+        - web
+        - django
+        - flutter
+        - rest
+        - api
+        - ar/vr
+      links:
+        - label: Resources
+          url: https://cops-iitbhu.github.io/csoc-2020-dev-resources/
+        - label: Leaderboard
+          url: https://csoc.copsiitbhu.co.in/
+
 - name: COPS Workshop Series
   resources:
     - title: PROG 101
