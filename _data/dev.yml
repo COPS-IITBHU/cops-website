@@ -1,3 +1,39 @@
+- name: Workshops
+  resources:
+    - title: GSoC 101
+      tags:
+        - cops
+        - gsoc
+        - opensource
+      links:
+        - label: Slides
+          url: https://docs.google.com/presentation/d/1pe1aiG_Cje2_zG8RshDnDqu3YNm3AVGvQfbt8s9Uq7o/edit
+        - label: Session
+          url: https://www.youtube.com/watch?v=kac2sPhohF8
+    - title: OSS Hacktoberfest
+      tags:
+        - cops
+        - opensource
+        - hacktoberfest
+        - git
+      links:
+        - label: Slides
+          url: https://docs.google.com/presentation/d/1SzC5AjfVY0J-szO-K5WiWbGxeroAs_GDX7_pwQMazkQ/edit
+        - label: Session
+          url: https://www.youtube.com/watch?v=AkitdjVYspo
+    - title: Basics of web development
+      tags:
+        - cops
+        - webdev
+        - html
+        - css
+        - js
+      links:
+        - label: Slides
+          url: https://docs.google.com/presentation/d/1fXokS_Dm7wkVIV9y911vP2as1AcX7MNH4FyONbz3mAg/edit
+        - label: Session
+          url: https://www.youtube.com/watch?v=4EvnVRVZ4os
+
 - name: CSOC 2020
   resources:
     - title: DEV track
