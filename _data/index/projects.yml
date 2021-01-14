@@ -7,7 +7,7 @@
   repo: SnTC-Streamify
   url: https://play.google.com/store/apps/details?id=in.shriyansh.streamify
   img: /static/assets/img/landing/sntc-streamify.png
-  desc: An Andoid application for Science and Technology Council, IIT BHU. Features include news feed, event registration, stream filter etc. 
+  desc: An Andoid application for Science and Technology Council, IIT BHU. Features include news feed, event registration, stream filter etc.
 
 - name: IIT BHU Study Portal
   i18n: cpython
@@ -26,10 +26,18 @@
   url: https://iit-intern-portal.herokuapp.com/
   img: /static/assets/img/landing/internportal.png
   desc: Intern Portal is a django-web application that helps the students of IIT BHU to land an internship in upcoming startups.
-  
-  
+
+
 - name: Yearbook
   i18n: google
   url: https://github.com/COPS-IITBHU/Yearbook
   img: /static/assets/img/landing/yearbook.png
   desc: Yearbook is a django-web application that generates a pdf based on responses of fourth yearites in the yearbook portal.
+
+- name: Lite hai
+  i18n: google
+  gh_user: IIT-BHU-InstiApp
+  repo: IIT-BHU-app
+  url: https://play.google.com/store/apps/details?id=com.iitbhu.litehai
+  img: /static/assets/img/landing/litehai.webp
+  desc: Lite Hai! is a mobile app that acts as a guide for all the gymkhana happenings at IIT BHU.

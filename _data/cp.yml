@@ -1,0 +1,12 @@
+- name: Events
+  resources:
+    - title: Intro to Competitive Programming
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Slides
+          url: https://docs.google.com/presentation/d/1VHb-kn7AaNfGpt4kerhwzzOFBcnrswIOMx-wJrdIUrE/edit
+        - label: Session
+          url: https://www.youtube.com/watch?v=Y5Fd7S-Q5ts

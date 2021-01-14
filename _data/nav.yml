@@ -50,19 +50,19 @@
   i18n: nav.resources
   name: Resources
   childs:
-    - id: resources.potw
-      i18n: resources.potw
-      name: POTW
-      ref: resources.potw
-      page: /resources/potw/
-      tpl: potw.html
-
     - id: resources.general
       i18n: resources.general
       name: General
       ref: resources.general
       page: /resources/general/
       tpl: general.html
+
+    - id: resources.cp
+      i18n: resources.cp
+      name: CP
+      ref: resources.cp
+      page: /resources/cp/
+      tpl: cp.html
 
     - id: resources.dev
       i18n: resources.dev
@@ -77,6 +77,13 @@
       ref: resources.ml
       page: /resources/ml/
       tpl: ml.html
+
+    - id: resources.infosec
+      i18n: resources.infosec
+      name: InfoSec
+      ref: resources.infosec
+      page: /resources/infosec/
+      tpl: infosec.html
 
 - id: resources_csoc
   i18n: nav.resources
