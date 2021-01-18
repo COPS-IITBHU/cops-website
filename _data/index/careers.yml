@@ -148,7 +148,7 @@
     detail: Summer. 2017
     i18n: company_b_date
   job:
-    detail: <a target="_blank" href="/resources/potw"><h1><b>POTW</b></h1></a>
+    detail: <a target="_blank" href="/resources/cp/potw"><h1><b>POTW</b></h1></a>
     i18n: company_b_job
   icon: fa-code-fork
 

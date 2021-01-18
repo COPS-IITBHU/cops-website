@@ -29,10 +29,10 @@
                     <li style="padding: 2%"><a title="Facebook" href="https://www.facebook.com/{{ site.author.facebook_username }}" target="blank"><i class="fa fa-facebook"></i></a></li>
                     {% endif %}
                     {% if site.author.linkedin_id %}
-                    <li style="padding: 2%"><a title="Linkedin" href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
+                    <li style="padding: 2%"><a title="Linkedin" href="https://www.linkedin.com/company/{{ site.author.linkedin_id }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
                     {% endif %}
                     {% if site.author.slack_username %}
-                    <li style="padding: 2%"><a title="Slack" href="https://cops-iitbhu.slack.com/" target="blank"><i class="fa fa-slack"></i></a></li>
+                    <li style="padding: 2%"><a title="Slack" href="https://{{ site.author.slack_username }}.slack.com/" target="blank"><i class="fa fa-slack"></i></a></li>
                     {% endif %}
                     {% if site.author.googlegroup_username %}
                     <li style="padding: 2%"><a title="Google Group" href="https://groups.google.com/forum/#!forum/copsiitbhu" target="blank"><i class="fa fa-google"></i></a></li>

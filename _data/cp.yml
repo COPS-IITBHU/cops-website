@@ -10,3 +10,15 @@
           url: https://docs.google.com/presentation/d/1VHb-kn7AaNfGpt4kerhwzzOFBcnrswIOMx-wJrdIUrE/edit
         - label: Session
           url: https://www.youtube.com/watch?v=Y5Fd7S-Q5ts
+
+- name: Other Resources
+  resources:
+    - title: POTW
+      tags:
+        - cops
+        - coding
+        - cp
+        - potw
+      links:
+        - label: Link
+          url: /resources/cp/potw

@@ -14,9 +14,9 @@ author:  # change following line to your infomation.
   last_name: IIT (BHU), Varanasi  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: COPS-IITBHU  # Leave blank if you don't have now
-  slack_username: cops-iitbhu
+  slack_username:
   googlegroup_username: copsiitbhu
-  linkedin_id:  # Leave blank if you don't have now
+  linkedin_id: cops-iitbhu # Leave blank if you don't have now
   facebook_username: cops.iitbhu  # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: contact@copsiitbhu.co.in  # Leave blank if you don't have now
