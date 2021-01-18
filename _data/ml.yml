@@ -1,3 +1,15 @@
+- name: Workshops
+  resources:
+    - title: Intro to Neural Networks
+      tags:
+        - cops
+        - coding
+        - ml
+      links:
+        - label: Slides
+          url: https://drive.google.com/file/d/1cnW6eVN1nzd3LSJ-fXIYkgW9uXyMrGkr/view
+        - label: Session
+          url: https://www.youtube.com/watch?v=JleaZrPfSck
 - name: Preprocess Data
   resources:
     - title: Feature Engineering
