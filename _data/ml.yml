@@ -1,3 +1,14 @@
+- name: Roadmaps
+  resources:
+    - title: AI Roadmap
+      tags:
+        - cops
+        - coding
+        - ml
+        - ai
+      links:
+        - label: Link
+          url: https://cops-iitbhu.github.io/AI-roadmap/
 - name: Workshops
   resources:
     - title: Intro to Neural Networks

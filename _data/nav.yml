@@ -104,22 +104,21 @@
       tpl: timeline_csoc.html
       css: timeline
 
-
-- id: resources_extravaganza
+- id: resources_copsweek
   i18n: nav.resources
-  name: Dev Extravaganza
-  ref: events.extravaganza
-  tpl: extravaganza.html
-  page: /resources/extravaganza2019/
+  name: COPS Week
+  ref: events.copsweek
+  tpl: copsweek.html
+  page: /events/copsweek/
   childs:
-    - id: overview-extravaganza
-      i18n: nav.overview_extravaganza
+    - id: overview-copsweek
+      i18n: nav.overview_copsweek
       name: Overview
-      tpl: overview_extravaganza.html
+      tpl: overview_copsweek.html
       css:
 
     - id: timeline_csoc
-      i18n: nav.timeline_extravaganza
+      i18n: nav.timeline_copsweek
       name: Timeline
-      tpl: timeline_extravaganza.html
+      tpl: timeline_copsweek.html
       css: timeline

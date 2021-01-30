@@ -1,0 +1,84 @@
+- name:
+    detail: 5th Feb
+    i18n: nill
+  desc:
+    detail: NP Compete and DebugIt start.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-calendar-check-o
+
+- name:
+    detail: 6th Feb
+    i18n: nill
+  desc:
+    detail: NP Compete ends.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-calendar-check-o
+
+- name:
+    detail: 7th Feb
+    i18n: nill
+  desc:
+    detail: Ctrl Shift Intelligence starts.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-calendar-check-o
+
+- name:
+    detail: 9th Feb
+    i18n: nill
+  desc:
+    detail: Ctrl Shift Intelligence ends.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-calendar-check-o
+
+- name:
+    detail: 11th Feb
+    i18n: nill
+  desc:
+    detail: WannaHack CTF is conducted.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-calendar-check-o
+
+- name:
+    detail: 12th Feb
+    i18n: nill
+  desc:
+    detail: DebugIt ends.
+    i18n: nill
+  date:
+    detail:
+    i18n: nill
+  job:
+    detail:
+    i18n: nill
+  icon: fa-calendar-check-o
+

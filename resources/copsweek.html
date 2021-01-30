@@ -1,0 +1,17 @@
+---
+layout: resource
+title: COPS Week
+ref: events.copsweek
+permalink: /events/copsweek/
+---
+
+{% for section in site.data.nav %}
+{% if section.id == 'resources_copsweek' %}
+{%- for item in section.childs -%}
+{% assign loopindex = forloop.index | modulo: 2 %}
+<section id="{{ item.id }}" class="features {{ item.css }}" style="margin-top: 5%; margin-bottom: 5%">
+  {% include {{item.tpl}} %}
+</section>
+{%- endfor -%}
+{% endif %}
+{% endfor %}
