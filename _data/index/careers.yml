@@ -1,10 +1,23 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: 9th Inter IIT Tech Meet
+    i18n: company_a
+  desc:
+    detail: 2 teams, of 5 and 7 members respectively, participated and won gold and bronze medals in their respective events of Network Security Hackathon and Automatic Headline And Sentiment Generator against the participating 23 IITs.
+    i18n: company_a_desc
+  date:
+    detail: March. 2021
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
     detail: Google Summer of Code 2020
     i18n: company_a
   desc:
-    detail: Ten students from the club got selected for one of the most prestigious open-source software development programs - Google Summer of Code.
+    detail: Ten students from the club successfully completed a project in one of the most prestigious open-source software development programs - Google Summer of Code.
     i18n: company_a_desc
   date:
     detail: Summer. 2020
@@ -44,7 +57,7 @@
     detail: 7th Inter IIT Tech Meet 2018, IIT Bombay
     i18n: company_a
   desc:
-    detail: 2 teams, of 4 members each, participated and both won bronze models on their respective events of Coding Hackathon and Star Cluster Identifier against the participating 23 IITs.
+    detail: 2 teams, of 4 members each, participated and both won bronze medals on their respective events of Coding Hackathon and Star Cluster Identifier against the participating 23 IITs.
     i18n: company_a_desc
   date:
     detail: December, 2018
