@@ -1,6 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Open Source Fellowships
+    i18n: company_a
+  desc:
+    detail: One student from the club got accepted in <a href="https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/" target="_blank">Microsoft Reinforcement Learning Open Source Fest</a>. Two students got accepted as mentees in <a href = "https://lfx.linuxfoundation.org/tools/mentorship/" target="_blank">LFX Mentorship</a>.
+    i18n: company_a_desc
+  date:
+    detail: April. 2021
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
     detail: 9th Inter IIT Tech Meet
     i18n: company_a
   desc:
