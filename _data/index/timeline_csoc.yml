@@ -1,12 +1,13 @@
 # timeline_csoc section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Week 0
+    detail: Week 1
     i18n: nill
   desc:
-    detail: Resources related to Linux installation, basic shell commands, Git, GitHub and assignment on the basics of Frontend.
-            Study Materials for Implementation, STL, Number Theory and Dynamic Programming.
-            Anaconda installation and revision of Python, Numpy and basic Machine Learning algorithms.
+    detail: STL and Implementation, Greedy and Binary Search.<br><br>
+            Basic Machine learning terminology and deep neural networks. Intro to Frameworks like Pytorch and Tensorflow.<br><br>
+            Introduction to CyberSecurity and Ethical Hacking and resources for Linux Bash Shell, basic to medium shell commands,and week long Bandit wargames aimed at absolute beginners.<br><br>
+            Resources and tasks related to Linux installation, Shell commands, collaborations using Git & GitHub.
     i18n: nill
   date:
     detail:
@@ -17,28 +18,13 @@
   icon: fa-trophy
 
 - name:
-    detail: Week 1
-    i18n: nill
-  desc:
-    detail: Resources and assignments related to AJAX, DOM Manipulation using JS and usage of REST APIs.
-            A week long CP practice contest for the materials posted in Week 0.
-            Resources for Deep Learning, Multi Layer Perceptron and using Tensorflow and Keras.
-    i18n: nill
-  date:
-    detail:
-    i18n: nill
-  job:
-    detail:
-    i18n: nill
-  icon: fa-calendar-check-o
-
-- name:
     detail: Week 2
     i18n: nill
   desc:
-    detail: Resources and assignments related to backend development using Django, a python web framework.
-            Study Materials for Greedy Algorithms, Binary Search, Graph Theory and Data Structures.
-            More Assignment on Deep Learning and using Tensorflow and Keras.
+    detail: Number Theory, DP (Basic). <br><br>
+            Introduction to Computer Vision - Convolutional Neural Networks <br><br>
+            Showing skillset of Steganography and Forensic tools to look into files and extract hidden information from them. Assingments and tasks to get familiar with Steganography and Forensics part of CTF. <br><br>
+            Learning about interactive UI and UX on Mobile and Web Apps through resources and by developing an interactive and simple game.
     i18n: nill
   date:
     detail:
@@ -52,9 +38,10 @@
     detail: Week 3
     i18n: nill
   desc:
-    detail: Resources and assignment for making REST APIs using Django REST Framwork.
-            A week long CP practice contest for the materials posted in Week 2.
-            Introduction to Computer Vision and Convolutional Neural Networks.
+    detail: Graph Theory 1 (DFS, BFS, shortest paths, tree basic), Counting Problems and Expected Value.<br><br>
+            Introduction to Computer Vision - Recurrent models and segmentation. <br><br>
+            Learning and understanding other miscellaneous techniques and concept required in Cyber Security along with basic python/bash scripting to write scripts for all sorts of purpose.  <br><br>
+            Resources for interacting with Web APIs through HTTP and learning about Local Storage architecture on Mobile Apps.
     i18n: nill
   date:
     detail:
@@ -68,9 +55,10 @@
     detail: Week 4
     i18n: nill
   desc:
-    detail: Resources on building natively compiled applications using Flutter.
-            Study Materials on Combinatorics, BIT Manipulation and String Algorithms.
-            More assignment on Computer Vision and Convolutional Neural Networks.
+    detail: Graph Theory2 (Directed Graph, DFS tree), Data Structure 1 (DSU, Stacks, Queues tricks). <br><br>
+            Introduction to Computer Vision - Generative Adversarial Networks. <br><br>
+            Resources for understanding basics of Web Exploitation, Understanding the TCP/IP model, learning basic web exploitation techniques like SQLi, XSS etc followed by a CTF event based on everything covered so far. <br><br>
+            Getting started with the state of the art frontend frameworks and interacting with Web APIs on Mobile Apps.
     i18n: nill
   date:
     detail:
@@ -84,9 +72,10 @@
     detail: Week 5
     i18n: nill
   desc:
-    detail: More resources and assignment will be provided for Flutter, and contribution to Open Source Projects.
-            A week long CP practice contest for the materials posted in Week 4.
-            Introduction to Natural Language Processing and Recurrent Neural Networks.
+    detail: String algorithms, DP(Advanced problems and techniques). <br><br>
+            Introduction to Natural Language Processing - NLTK toolkit and word embeddings. <br><br>
+            Understand the binary executable files like PE/ELF, learning to use various debuggers and decompilers for java , python, .NET. Resources for basics of assembly language and debugging executables over how to inspect them. Debugging using GDB and GHIDRA to manipulate control flow and solving some CrackMes and assignments. <br><br>
+            Resources and assignments related to backend development will be provided with tracks for several programming languages.
     i18n: nill
   date:
     detail:
@@ -100,9 +89,10 @@
     detail: Week 6
     i18n: nill
   desc:
-    detail: Resources and assignment on creating a Virtual Web VR experience using A-Frame.
-            Study Materials on Simple Range Query Techniques (e.g. prefix sum), Tree Algorithms (LCA, HLD, Centroid Decomposition), Advanced Mathematics (FFT, Gaussian Elimination).
-            More assignment on Natural Language Processing and Recurrent Neural Networks.
+    detail: Advanced Data Structures, Trees( Subtree problems with segment tree, LCA) <br><br>
+            Introduction to Natural Language Processing - Recurrent Networks and LSTMs. <br><br>
+            Resources and challenges related to linux binary exploitation,Pwn using techniques like buffer overflow, ROP and SIGROP. Study material on how a binary works ,what is a stack, how is memory mapped for a process. Assignment from CTF on this topic. <br><br>
+            Resources and task for developing REST APIs using various programming languages like Python, Node, etc., will be provided.
     i18n: nill
   date:
     detail:
@@ -116,9 +106,10 @@
     detail: Week 7
     i18n: nill
   desc:
-    detail: More resources on Web VR and Augmented Reality using 8th Wall will be provided.
-            A week long CP practice contest for the materials posted in Week 6.
-            Resources and assignment on introduction to Reinforcement Learning and Deep Q Learning.
+    detail: Advanced Data Structures, Trees( Subtree problems with segment tree, LCA) <br><br>
+            Introduction to Natural Language Processing - Transformers, Attention models and BERT. <br><br>
+            Introduction to cryptography,importance of cryptography in infosec, Understanding techniques like block ciphers, RSA,hashing etc followed by a CTF event with challenges covering RE, Pwn and Cryptography.  <br><br>
+            Assignments for dealing with drawbacks of REST through GraphQL APIs aligned with ongoing language tracks.
     i18n: nill
   date:
     detail:
@@ -132,7 +123,10 @@
     detail: Week 8
     i18n: nill
   desc:
-    detail: Final grading, evaluation and release of the leaderboard for Development, Competitive Programming and Machine Learning.
+    detail: Mashup Contest <br><br>
+            Introduction to Reinforcement Learning - A brief introduction. <br><br>
+            Final CTF consisting of challenges from all the categories of a CTF covered so far with varying level of difficulty and appending up points till now to the Leaderboard. <br><br>
+            Resources for getting started with open source contributions will be provided.
     i18n: nill
   date:
     detail:

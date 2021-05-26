@@ -6,79 +6,74 @@
         </div>
     </div>
     <div class="row">
-        <!-- first two icons -->
-        {% for icon in site.author.skill_icon1 %}
-        <div class="col-xs-2 wow fadeInLeft">
-            <div class="team-member">
-                <div class="vote-icon" style="text-align: center">
-                    <i class="fa {{ icon.name }}"></i>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
         <!-- avatar -->
-        <div class="col-xs-4">
+        <div class="col-xs-12">
             <div class="team-member wow zoomIn">
                 <img src="{{ site.author.avatar | prepend: site.baseurl }}" height="110" width="110" class="img-responsive img-circle" alt="">
-                <h4><span class="navy">Club Of Programmers</span> Summer of Code 2020</h4>
-                <h5> Powered by </h5>
-                <a href="https://github.com"><img class="github-theme" src="https://svgshare.com/i/G08.svg" alt="Git-Hub-Logo" border="0" height="42" width="100"></a>
+                <h4><span class="navy">Club Of Programmers</span> Summer of Code 2021</h4>
+                <!-- <h5> Powered by </h5>
+                <a href="https://github.com"><img class="github-theme" src="https://svgshare.com/i/G08.svg" alt="Git-Hub-Logo" border="0" height="42" width="100"></a> -->
             </div>
+            <div class="row" style="justify-content: center; text-align: center">
+                <img
+                  src="/static/assets/img/events/csoc/csoc.jpg"
+                  style="width: 60%; height: auto"
+                />
+              </div>
         </div>
-        <!-- second two icons -->
-        {% for icon in site.author.skill_icon2 %}
-        <div class="col-xs-2 wow fadeInRight">
-            <div class="team-member">
-                <div class="vote-icon" style="text-align: center">
-                    <i class="fa {{ icon.name }}"></i>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
+
+
     </div>
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-justify m-t-lg m-b-lg wow zoomIn">
             <p><span data-i18n="overview_csoc.des">
 CSoC is a platform where all the interested people get together to teach and learn the best of programming, to give direction to the future of the students as a potential source in the industry.
-<p>COPS Summer of Code 19 received a huge response, not only from the students of IIT (BHU), but also from the students of other colleges. There had been:</p>
-<ul>
-<li>More than 7k reach with more than 1000 likes and shares on Facebook pages.
-</li>
-<li>From the forks, a total of 110 students participated in Development and Machine Learning.
-</li>
-<li>Across all the assignments, 80 Pull Requests and a total of 197 forks of the repositories were made.
-</li>
-<li>More than 200 students took part in the CP Contest from IIT (BHU) as well as other colleges.
-</li>
-</ul>
-<p>There had been a similar response from the previous editions of CSoC. COPS Summer of Code 18 was able to gain a total reach of 6.9k with 834 likes and shares on Facebook posts. Out of more than 200 students participating, 93 solved CSoC assignments and were pleased with the knowledge they earned with the help of it.</p>
+
+<p>
+    Previous Editions of CSOC witnessed huge response, not only from the students of IIT (BHU) but also from the students of other colleges.
+Overwhelmed, with last year's phenomenal success this year we are even more excited and added a new track Infosec to our list.
 </p>
-<p>The main objective of CSoC is to help people explore various major as well as minor fields of Computer Science which they’ve heard about a lot, but don’t know where to start. Right from the very basic of each of these fields, we take the participants to the maximum possible level of the subject up to their potential to grasp knowledge. as CSoC carries no boundaries, the participants are free to explore and take help from us. Development, Machine Learning and Competitive programming will be the three main sectors that will be dealt with during the CSoC 2020 programme. Exciting resources, assignments and mentorship will be provided to all students during the programme.</p>
+
+<p>The main objective of CSoC is to help people explore various major as well as minor fields of Computer Science which they’ve heard about a lot, but don’t know where to start. Right from the very basic of each of these fields, we take the participants to the maximum possible level of the subject up to their potential to grasp knowledge. as CSoC carries no boundaries, the participants are free to explore and take help from us. Development, Machine Learning, Infosec and Competitive programming will be the four main sectors that will be dealt with during the CSoC 2021 programme. Exciting resources, assignments and mentorship will be provided to all students during the programme.</p>
 <ul>
-<li><b>Machine learning:</b>  The aim of the programme is to equip the participants with the necessary tools and techniques of Machine Learning and to give an idea regarding the various avenues and developments taking place in the field. The students will be taught about Data Science, encouraged to participate in competitive Machine Learning, and exposure will also be give to Computer Vision and Natural Language Processing, two of the hot topics in the research field.
+    <br>
+<li><b>Machine learning:</b>  The aim of the program is to equip the participants with the necessary tools and techniques of Machine Learning and computational intelligence. Students will be encouraged to explore topics like Computer Vision, Natural Language Processing and Reinforcement learning, some of the hot topics in artificial intelligence.
 </li>
-<li><b>Development:</b> The aim is to involve people in open source contributions and to get a taste of actual development in a collaborative effort. The resources for Backend, Frontend, Android Development as well as Web VR will be provided to the students on a weekly basis. By the end of the program, students should be comfortable with whatever development environment they've set up, basic technologies in web development and how to contribute to open source projects and to solve their issues.
+<br>
+<br>
+<li><b>Development:</b> We aim to connect people with the mainstream software development techniques, adding a little bit of open-source flavor for collaborative learning. The program has resources and weekly tasks that guide students through various tracks as listed below:
+    <br>1. Frontend Web development using the current state-of-the-art frameworks
+    <br>2. Native Mobile development
+    <br>3. Cross-platform mobile development using Flutter
+    <br>4. Backend development.
+    <br>In the end, students will be comfortable in one of the tracks along with the development environment setup, essential knowledge in app-dev, and contributing to open-source all by themselves.
 </li>
-<li><b>Competitive Programming:</b> The aim is to give exposure to students regarding the various concepts, tools and tricks in competitive programming. To encourage a good culture, there will be a 7 day long practice contest, with carefully picked interesting questions of various topics from beginner to expert level, which one can solve along with studying the materials. This will be carried on with a discussion on Telegram and Google Group, where one can clear their doubts. Tutorials and practice problems, along with their editorials will be released for every contest.
+<br>
+<br>
+<li><b>Competitive Programming:</b> The aim is to give exposure to students regarding the various concepts, tools, and tricks in competitive programming. To encourage a good culture, there will be a 7-day long practice contest, with carefully picked interesting questions of various topics from beginner to expert level, which one can solve along with studying the materials. This will be carried on with a discussion on Telegram and Google Group, where one can clear their doubts. Tutorials and practice problems, along with their editorials will be released for every contest.
+</li>
+<br>
+<br>
+<li><b>Infosec:</b> With a proper structure and aim to source the need of Cyber Security working up through workshops and CTFs, moreover with real time overview and analysis of attacks on big shots like WannaCry, DarkSide, US Colonial Pipe Attacks, Ransomware Attacks and many more. When others would teach you MakeTheCode, we will bring "How to break the code" / how to reverse Windows Software, Web Attack and Defense,Android APKs and much more. In the end you would be much more buffed up on in-depth Cryptography, Reverse Engineering, Binary Exploitation, Web Attacks and various ways to overcome the Cyber Security block.
 </li>
 </ul>
 <div class="row m-t-lg m-b-lg col-sm-offset-2">
     <div class="col-xs-3 col-xs-offset-2">
         <h5> Telegram </h5>
-        <a href="https://t.me/cops_csoc">
+        <a href="https://t.me/csoc2021">
             <img src="{{ '/static/assets/img/telegram.png' }}" alt="Telegram-Logo" border="0" height="60" width="60">
-            <h5> @cops_csoc </h5>
+            <h5> @csoc2021 </h5>
         </a>
     </div>
     <div class="col-xs-3 col-xs-offset-2">
         <h5> Google Group </h5>
-        <a href="https://groups.google.com/forum/#!forum/csoc-cops">
+        <a href="https://groups.google.com/g/copsiitbhu">
             <img src="{{ '/static/assets/img/google-group.png' }}" alt="Google-Group-Logo" border="0" height="60" width="60">
-            <h5> @csoc-cops </h5>
+            <h5> @copsiitbhu </h5>
         </a>
     </div>
 </div>
-<p>A brief timeline of the CSoC 2020 programme is as follows:</p>
+<p>A brief timeline of the CSoC 2021 programme is as follows:</p>
 
 
 </span></p>
