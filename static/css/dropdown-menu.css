@@ -1,4 +1,5 @@
 .dropdown-menu {
     background: black;
     border-radius: 10px;
+    left: -50px !important;
 }
