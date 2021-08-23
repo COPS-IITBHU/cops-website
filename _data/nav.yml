@@ -90,7 +90,7 @@
   name: CSOC
   tpl: csoc.html
   ref: events.csoc
-  page: /resources/csoc2020/
+  page: /events/csoc/
   childs:
     - id: overview-csoc
       i18n: nav.overview_csoc
