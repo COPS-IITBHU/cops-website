@@ -1,3 +1,24 @@
+- name: CSOC 2021
+  resources:
+    - title: Frontend Tasks
+      tags:
+        - cops
+        - csoc
+        - dev
+        - frontend
+      links:
+        - label: Resources
+          url: https://six-top-bb6.notion.site/CSOC-21-Dev-Frontend-014d55c642a74e6e885216e93c6e6f66
+    - title: Backend Tasks
+      tags:
+        - cops
+        - csoc
+        - dev
+        - backend
+      links:
+        - label: Resources
+          url: https://persistent-tent-e83.notion.site/CSoC-21-Dev-Backend-640126aa2ec2473ab98f6fd316a229c9
+
 - name: Workshops
   resources:
     - title: GSoC 101
@@ -229,13 +250,3 @@
       links:
         - label: Github
           url: https://github.com/COPS-IITBHU/winter19-task1
-
-- name: Capture The Flag
-  resources:
-    - title: CTF 101
-      tags:
-        - ctf
-        - security
-      links:
-        - label: Slide
-          url: https://docs.google.com/presentation/d/1cfxornv3eJc8KwgvRz0bAVlJI3RDPFRHr5KbJUhqtLs/edit

@@ -1,3 +1,14 @@
+- name: CSOC 2021
+  resources:
+    - title: Resources
+      tags:
+        - cops
+        - csoc
+        - infosec
+      links:
+        - label: Link
+          url: https://github.com/IIT-BHU-CyberSec/CSOC-Infosec
+
 - name: Events
   resources:
     - title: Introduction to InfoSec
@@ -10,3 +21,10 @@
           url: https://drive.google.com/file/d/1_5n9Q_F2ZHyU6_dB3FLhWL_LBjOQL_MQ/view
         - label: Session
           url: https://www.youtube.com/watch?v=-gepDs32u5A
+    - title: CTF 101
+      tags:
+        - ctf
+        - security
+      links:
+        - label: Slide
+          url: https://docs.google.com/presentation/d/1cfxornv3eJc8KwgvRz0bAVlJI3RDPFRHr5KbJUhqtLs/edit

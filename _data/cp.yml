@@ -1,3 +1,54 @@
+- name: CSOC 2021
+  resources:
+    - title: STL and Implementation, Greedy and Binary Search
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/t1mC3K67lU/blog/entry/7692
+    - title: Number Theory and Basic Dynamic Programming
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/t1mC3K67lU/blog/entry/7736
+    - title: Graph Theory (Basic)
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/t1mC3K67lU/blog/entry/7750
+    - title: Probability and Expected value
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/t1mC3K67lU/blog/entry/7784
+    - title: Hard Graph Theory
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/t1mC3K67lU/blog/entry/7817
+    - title: Advanced Data Structures
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/t1mC3K67lU/blog/entry/7879
+
 - name: Events
   resources:
     - title: Intro to Competitive Programming
@@ -22,3 +73,12 @@
       links:
         - label: Link
           url: /resources/cp/potw
+    - title: Codeforces Group
+      tags:
+        - cops
+        - coding
+        - cp
+        - codeforces
+      links:
+        - label: Link
+          url: https://codeforces.com/group/t1mC3K67lU

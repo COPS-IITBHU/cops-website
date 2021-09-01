@@ -1,3 +1,17 @@
+- name: Resources
+  resources:
+    - title: YouTube Channel
+      tags:
+        - cops
+        - coding
+        - dev
+        - ml
+        - cp
+        - infosec
+        - workshops
+      links:
+        - label: Link
+          url: https://www.youtube.com/channel/UC01TZlNfu29QgG4FmUqVsdg
 - name: Events
   resources:
     - title: Fresher's Orientation

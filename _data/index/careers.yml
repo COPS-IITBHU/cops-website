@@ -4,7 +4,8 @@
     detail: Google Summer of Code 2021
     i18n: company_a
   desc:
-    detail: 23 students from the club got accepted in one of the most prestigious open-source software development programs - Google Summer of Code.
+    detail: 23 students from the club got accepted in one of the most prestigious open-source software development programs - Google Summer of Code.<br><br>
+            IIT (BHU) is the institute with second highest GSoC selections in the world in 2021.
     i18n: company_a_desc
   date:
     detail: Summer. 2021

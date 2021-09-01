@@ -1,3 +1,38 @@
+- name: CSOC 2021
+  resources:
+    - title: Week 0
+      tags:
+        - cops
+        - csoc
+        - ml
+      links:
+        - label: Resources
+          url: https://www.notion.so/CSOC-ML-Week-0-3d6b6117d71b46b9aa32ba4e4cf72613
+    - title: Week 1
+      tags:
+        - cops
+        - csoc
+        - ml
+      links:
+        - label: Resources
+          url: https://www.notion.so/CSOC-ML-Week-1-ddb6b2f3411f4f24be5df5cfc3397a6a
+    - title: Week 2
+      tags:
+        - cops
+        - csoc
+        - ml
+      links:
+        - label: Resources
+          url: https://www.notion.so/CSOC-ML-Week-2-6866fc1a4e0b4a6983ea445c404b17bb
+    - title: Week 3
+      tags:
+        - cops
+        - csoc
+        - ml
+      links:
+        - label: Resources
+          url: https://www.notion.so/CSOC-ML-Week-3-d0de887f7448479c9695348f6ca369d5
+
 - name: Roadmaps
   resources:
     - title: AI Roadmap
