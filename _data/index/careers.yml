@@ -1,6 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: LFX Mentorship Program
+    i18n: company_a
+  desc:
+    detail: Two students from the club got accepted as mentees in <a href = "https://lfx.linuxfoundation.org/tools/mentorship/" target="_blank">LFX Mentorship</a>.
+    i18n: company_a_desc
+  date:
+    detail: Sept. 2021
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
     detail: Google Summer of Code 2021
     i18n: company_a
   desc:
