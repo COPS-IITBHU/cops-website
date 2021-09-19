@@ -14,6 +14,20 @@
     i18n: company_a_job
   icon: fa-trophy
 - name:
+    detail: ACM ICPC 2020
+    i18n: company_a
+  desc:
+    detail: Team rng(weed) (Jatin Garg, Anshu Garg, Yash Goyal) topped Kanpur-Mathura Regionals and have chance to Represent IIT BHU in World Finals. <br><br> 
+            23 Teams from the College qualified for ICPC Amritapuri Regionals. 
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2021
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
     detail: Google Summer of Code 2021
     i18n: company_a
   desc:
