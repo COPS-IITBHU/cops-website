@@ -1,6 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: CSAW 2021
+    i18n: company_a
+  desc:
+    detail: 2 teams from IIT(BHU) made it to the finals of the <a href="https://ctf.csaw.io/scoreboard" target="_blank">Cyber Security Awareness Week (CSAW).</a>
+  date:
+    detail: Oct. 2021
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
     detail: LFX Mentorship Program
     i18n: company_a
   desc:
