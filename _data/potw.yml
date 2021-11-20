@@ -9,8 +9,8 @@
 
 - name: Standard Template Library
   tutorial:
-    -title: Standard Template Library (Video)
-     links:
+    - title: Standard Template Library (Video)
+      links:
         - label: Youtube
           url: https://www.youtube.com/watch?v=PZogbfU4X5E
     - title: Standard Template Library - Part 1
