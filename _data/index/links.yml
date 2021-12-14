@@ -1,18 +1,18 @@
 # links section data
-- last_name: Nishant
-  first_name: Kumar
+- last_name: Jatin
+  first_name: Garg
   desc: Joint Secretary
   # website: #
-  email: nishantkr.ece18@itbhu.ac.in
+  email: jatin.garg.cse19@itbhu.ac.in
 
-- last_name: Nishant
-  first_name: Mittal
+- last_name: Lakshya
+  first_name: Singh
   desc: Secretary
-  website: https://www.nishantwrp.com
-  email: nishantmittal.cse18@itbhu.ac.in
+  website: https://www.manlakshya.tech
+  email: lakshya.singh.cse19@itbhu.ac.in
 
-- last_name: Mihil
-  first_name: Gupta
+- last_name: Somnath
+  first_name: Sendhilk
   desc: Joint Secretary
   # website: #
-  email: mihil.gupta.cse17@iitbhu.ac.in
+  email: somnath.sendhilk.eee19@itbhu.ac.in
