@@ -1,6 +1,40 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Google Summer of Code 2022
+    i18n: company_a
+  desc:
+    detail: 24 students from the club got accepted in one of the most prestigious open-source software development programs - Google Summer of Code.<br><br>
+            3 students were selected as mentors while 1 student is now an org admin.
+    i18n: company_a_desc
+  date:
+    detail: May. 2022
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+- name:
+    detail: Outreachy 2022
+    i18n: company_a
+  desc:
+    detail: Sanyu Daver was selected as an <a link="https://www.outreachy.org/" target="_blank" rel="noreferrer">Outreachy</a> Fellow for the summer
+    i18n: company_a_desc
+  date:
+    detail: May. 2022
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+- name:
+    detail: Summer of Bitcoin 2022
+    i18n: company_a
+  desc:
+    detail: 3 students namely Shreyansh Yadav, Ankur Patil and Prakhar Saxena were selected as mentees under <a href="https://www.summerofbitcoin.org/" target="_blank" rel="noreferrer">Summer of Bitcoin</a>
+    i18n: company_a_desc
+  date:
+    detail: April. 2022
+    i18n: company_a_date
+- name:
     detail: CSAW 2021
     i18n: company_a
   desc:
