@@ -35,6 +35,19 @@
     detail: April. 2022
     i18n: company_a_date
 - name:
+    detail: 10th Inter IIT Tech Meet
+    i18n: company_a
+  desc:
+    detail: 2 teams from COPS participated and won silver medals in their respective events of Mercari Large Scale System Design Hackathon and Bosch Model Extraction Attack for Video Classification against the participating 23 IITs.
+    i18n: company_a_desc
+  date:
+    detail: March. 2021
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
     detail: CSAW 2021
     i18n: company_a
   desc:
@@ -50,7 +63,7 @@
     detail: LFX Mentorship Program
     i18n: company_a
   desc:
-    detail: Two students from the club got accepted as mentees in <a href = "https://lfx.linuxfoundation.org/tools/mentorship/" target="_blank">LFX Mentorship</a>.
+    detail: Two students from the club got accepted as mentees in <a href = "https://lfx.linuxfoundation.org/tools/mentorship/" target="_blank">LFX Mentorship Fall 2021</a>.
     i18n: company_a_desc
   date:
     detail: Sept. 2021
