@@ -1,18 +1,16 @@
 # links section data
-- last_name: Jatin
-  first_name: Garg
+- last_name: Eshwar
+  first_name: S
   desc: Joint Secretary
-  # website: #
-  email: jatin.garg.cse19@itbhu.ac.in
+  website: esharkythegreat.github.io
+  email: eshwar.s.che20@itbhu.ac.in
 
-- last_name: Lakshya
-  first_name: Singh
+- last_name: Shubhangi
+  first_name: Choudhary
   desc: Secretary
-  website: https://www.manlakshya.tech
-  email: lakshya.singh.cse19@itbhu.ac.in
+  email: shubhangi.student.eee20@itbhu.ac.in
 
-- last_name: Somnath
-  first_name: Sendhilk
+- last_name: Niyati
+  first_name: Srivastava
   desc: Joint Secretary
-  # website: #
-  email: somnath.sendhilk.eee19@itbhu.ac.in
+  email: nitayi.srivastava.mec20@itbhu.ac.in
