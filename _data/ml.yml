@@ -1,3 +1,46 @@
+- name: CSOC 2023
+  resources:
+    - title: Week 0
+      tags:
+        - cops
+        - csoc
+        - ml
+      links:
+        - label: Resources
+          url: https://www.notion.so/CSOC-ML-Week-0-Your-Machine-Learning-Journey-Begins-Here-d321253132004127bca1c0a43f085a8a
+    - title: Week 1
+      tags:
+        - cops
+        - csoc
+        - ml
+      links:
+        - label: Resources
+          url: https://peach-cause-3dc.notion.site/CSOC-ML-Week-1-Diving-Deeper-with-Neural-Networks-11f53c1d932c48f39de56f36af0fc756?pvs=4
+    - title: Week 2
+      tags:
+        - cops
+        - csoc
+        - ml
+      links:
+        - label: Resources
+          url: https://www.notion.so/CSOC-ML-Week-2-Enter-the-TensorFlow-Realm-85b927c360a8460ea9dced8366578448?pvs=4
+    - title: Week 3
+      tags:
+        - cops
+        - csoc
+        - ml
+      links:
+        - label: Resources
+          url: https://peach-cause-3dc.notion.site/CSOC-Week-3-Choose-Your-Own-Adventure-1068bf09b30347b484a2cd0a984ee612?pvs=4
+    - title: Week 4
+      tags:
+        - cops
+        - csoc
+        - ml
+      links:
+        - label: Resources
+          url: https://www.notion.so/CSOC-Week-4-Choose-Your-Own-Adventure-Part-2-ec7e4771fab54b0ba1c63b5e7aad338c
+
 - name: CSOC 2021
   resources:
     - title: Week 0
@@ -97,23 +140,20 @@
         - label: Neural Nets
           url: https://medium.com/analytics-vidhya/machine-learning-for-unbalanced-datasets-using-neural-networks-b0fc28ef6261
     - title: Principal Component Analysis
-      tags:
-        pca
+      tags: pca
         ml
         components
       links:
         - label: Blog
           url: https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html
     - title: Categorical Data
-      tags:
-        data
+      tags: data
         categorized
       links:
         - label: Medium Blog
           url: https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159
     - title: Decision Tree
-      tags:
-        algorithm
+      tags: algorithm
         ml
         trees
       links:
@@ -135,10 +175,10 @@
   resources:
     - title: Basics of NLP
     - tags:
-      - GPT2
-      - RNN
-      - Basics
-      - LSTM
+        - GPT2
+        - RNN
+        - Basics
+        - LSTM
       links:
         - label: Basics
           url: https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66
@@ -146,8 +186,8 @@
           url: https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8
     - title: Word Embedding
     - tags:
-      - Word
-      - Embedding
+        - Word
+        - Embedding
       links:
         - label: Part 1
           url: https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f
@@ -159,16 +199,15 @@
           url: https://towardsdatascience.com/beyond-word-embeddings-part-4-introducing-semantic-structure-to-neural-nlp-96cf8a2723fb
     - title: Projects for DS
     - tags:
-      - Projects
-      - Data Science
+        - Projects
+        - Data Science
       links:
         - label: Boost DS
           url: https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
 - name: Time Series
   resources:
     - title: Arima Model
-      tags:
-        Arima
+      tags: Arima
         Tuning
         Time
       links:
@@ -179,15 +218,13 @@
 - name: NLP in Data Science
   resources:
     - title: Bag of Words
-      tags:
-        bag
+      tags: bag
         words
       links:
         - label: Kaggle
           url: https://www.kaggle.com/c/word2vec-nlp-tutorial
     - title: RNN
-      tags:
-        recurrent
+      tags: recurrent
         python
         neural
       links:
@@ -196,8 +233,7 @@
         - label: Example
           url: https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470
     - title: Modules
-      tags:
-        Module
+      tags: Module
         NLTK
         Keras
       links:
@@ -208,8 +244,7 @@
         - label: Reshaping Pandas
           url: https://hackingandslacking.com/reshaping-pandas-dataframes-6aceb55c8c27?source=email-69b1486a509b-1559950862500-digest.reader------1-58------------------391e6b44_1b27_47b6_a72f_e91f29128775-1&sectionName=top
     - title: HyperParameter
-      tags:
-        Tuning
+      tags: Tuning
         Grid
       links:
         - label: Tuning
@@ -217,10 +252,9 @@
         - label: Optimization
           url: https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f
     - title: Algoritms
-      tags:
-       Forest
-       Gradient
-       MulitClass
+      tags: Forest
+        Gradient
+        MulitClass
       links:
         - label: MulitClass
           url: https://medium.com/free-code-camp/multi-class-classification-with-sci-kit-learn-xgboost-a-case-study-using-brainwave-data-363d7fca5f69
@@ -229,8 +263,7 @@
         - label: Decide Algo
           url: https://medium.com/gradientcrescent/the-right-tool-for-the-job-a-novice-guide-to-selecting-the-correct-machine-learning-algorithm-for-60613c7f7b0b
     - title: Text and Embedding
-      tags:
-        Embedding
+      tags: Embedding
         Classification
         linguistics
       links:
@@ -243,32 +276,28 @@
         - label: Imbalance Data
           url: https://medium.com/ai-ml-at-symantec/ai-ml-security-pro-tips-class-imbalance-and-missing-labels-764fd18b7bf8
     - title: Tensorflow
-      tags:
-        Keras
+      tags: Keras
         Tensorflow
         Neural
       links:
         - label: MultiLayer
           url: https://towardsdatascience.com/introduction-to-multilayer-neural-networks-with-tensorflows-keras-api-abf4f813959
     - title: LSTMs
-      tags:
-        recurrent
+      tags: recurrent
         networds
         Neural
       links:
         - label: Core Idea
           url: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
     - title: CNN
-      tags:
-        convolutional
+      tags: convolutional
         networkds
         eagerAPI
       links:
         - label: Training CNN
           url: https://towardsdatascience.com/convolutional-neural-networks-an-introduction-tensorflow-eager-api-7e99614a2879
     - title: Baysian Optimization
-      tags:
-        hyperopt
+      tags: hyperopt
         Baysian
         Optimize
       links:
@@ -277,8 +306,7 @@
 - name: Courses
   resources:
     - title: Stanford
-      tags:
-        CNN
+      tags: CNN
         Stanford
         NLP
       links:

@@ -1,3 +1,46 @@
+- name: CSOC 2023
+  resources:
+    - title: Implementation and Greedy Algorithm
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/t1mC3K67lU/blog/entry/7692
+    - title: Binary Search and Bitwise Operator
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/v2w3Yre5BZ/blog/entry/11575
+    - title: Math, Number theory, Probability, Combinatorics and Strings
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/v2w3Yre5BZ/blog/entry/11608
+    - title: Basic Dynamic Programming and Basic Graph
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/v2w3Yre5BZ/blog/entry/11713
+    - title: Advanced Dynamic Programming and Data Structures
+      tags:
+        - cops
+        - coding
+        - cp
+      links:
+        - label: Blog
+          url: https://codeforces.com/group/v2w3Yre5BZ/blog/entry/11745
+
 - name: CSOC 2021
   resources:
     - title: STL and Implementation, Greedy and Binary Search

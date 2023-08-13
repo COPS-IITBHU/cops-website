@@ -1,3 +1,46 @@
+- name: CSOC 2023
+  resources:
+    - title: Week 0
+      tags:
+        - cops
+        - csoc
+        - infosec
+      links:
+        - label: link
+          url: https://hissing-pancake-c2f.notion.site/Week-0-c71fc459d544418b83796d7a79c8e30c
+    - title: Week 1
+      tags:
+        - cops
+        - csoc
+        - infosec
+      links:
+        - label: Resources
+          url: https://hissing-pancake-c2f.notion.site/0d98b2b7e19349109920e2a2ebfda40e
+    - title: Week 2
+      tags:
+        - cops
+        - csoc
+        - infosec
+      links:
+        - label: Resources
+          url:  https://hissing-pancake-c2f.notion.site/Week-2-1da3b0ab46e54098ad76518d388c8bb8?pvs=4
+    - title: Week 3
+      tags:
+        - cops
+        - csoc
+        - infosec
+      links:
+        - label: Resources
+          url: https://hissing-pancake-c2f.notion.site/Week-3-fc5647b9135d4d63840f0dcfc2811ae9?pvs=4
+    - title: Week 4
+      tags:
+        - cops
+        - csoc
+        - infosec
+      links:
+        - label: Resources
+          url: https://hissing-pancake-c2f.notion.site/Week-4-8db74f9c6f5549a9964cf8ce9ecbbc8a
+
 - name: CSOC 2021
   resources:
     - title: Resources
