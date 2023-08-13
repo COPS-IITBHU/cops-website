@@ -1,16 +1,16 @@
 # links section data
-- last_name: Eshwar
-  first_name: S
+- last_name: Singla
+  first_name: Anshiv
   desc: Joint Secretary
-  website: esharkythegreat.github.io
-  email: eshwar.s.che20@itbhu.ac.in
+  email: anshiv.singla.cse21@itbhu.ac.in
 
-- last_name: Shubhangi
-  first_name: Choudhary
+- last_name: Aggarwal
+  first_name: Eshaan
   desc: Secretary
-  email: shubhangi.student.eee20@itbhu.ac.in
+  website: eshaanagg.netlify.app
+  email: eshaan.aggarwal.cse21@itbhu.ac.in
 
-- last_name: Niyati
-  first_name: Srivastava
+- last_name: Sharma
+  first_name: Aakash
   desc: Joint Secretary
-  email: nitayi.srivastava.mec20@itbhu.ac.in
+  email: aakash.student.phy21@itbhu.ac.in
