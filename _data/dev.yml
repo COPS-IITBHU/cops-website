@@ -6,8 +6,9 @@
         - csoc
         - dev
         - frontend
+        - backend
       links:
-        - label: Week 0
+        - label: Resources
           url: https://cops-sdg.notion.site/cops-sdg/CSOC-23-Web-b73ab317d53744f8b00b21887c4ae1ab
     - title: App Dev Track
       tags:
