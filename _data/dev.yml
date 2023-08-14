@@ -1,3 +1,58 @@
+- name: CSOC 2023
+  resources:
+    - title: Web Track
+      tags:
+        - cops
+        - csoc
+        - dev
+        - frontend
+      links:
+        - label: Week 0
+          url: https://cops-sdg.notion.site/cops-sdg/CSOC-23-Web-b73ab317d53744f8b00b21887c4ae1ab
+    - title: App Dev Track
+      tags:
+        - cops
+        - csoc
+        - dev
+        - app
+      links:
+        - label: Resources
+          url: https://sagittariusa11.notion.site/CSOC-23-App-Dev-b874014ac84247bd932e815bc04cf65a
+    - title: System Dev Track
+      tags:
+        - cops
+        - csoc
+        - dev
+        - app
+      links:
+        - label: Resources
+          url: https://harsh-raj.notion.site/CSOC-23-Systems-28a46b306e864f88a706eceff9c7248f
+    - title: Game Dev track
+      tags:
+        - cops
+        - csoc
+        - dev
+        - game
+      links:
+        - label: Resources
+          url: https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-0
+        - label: Resources
+          url: https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-1
+        - label: Resources
+          url: https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-2
+        - label: Resources
+          url: https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3
+        - label: Resources
+          url: https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-4
+    - title: Web3 Dev Track
+      tags:
+        - cops
+        - csoc
+        - dev
+        - web3
+      links:
+        - label: Resources
+          url: https://vaibhav-1508.notion.site/CSOC-23-Web3-66e3550c6bed49fba5ef0f738348f3e4
 - name: CSOC 2021
   resources:
     - title: Frontend Tasks
