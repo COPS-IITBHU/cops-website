@@ -34,11 +34,14 @@
                     {% if site.author.slack_username %}
                     <li style="padding: 2%"><a title="Slack" href="https://{{ site.author.slack_username }}.slack.com/" target="blank"><i class="fa fa-slack"></i></a></li>
                     {% endif %}
-                    {% if site.author.googlegroup_username %}
-                    <li style="padding: 2%"><a title="Google Group" href="https://groups.google.com/forum/#!forum/copsiitbhu" target="blank"><i class="fa fa-google"></i></a></li>
-                    {% endif %}
                     {% if site.author.twitter_username %}
                     <li style="padding: 2%"><a title="Twitter" href="https://twitter.com/{{ site.author.twitter_username }}" target="blank"><i class="fa fa-twitter"></i></a></li>
+                    {% endif %}
+                    <!-- {% if site.author.hashnode_username %}
+                    <li style="padding: 2%"><a title="Blogs" href="http://blogs.copsiitbhu.co.in/" target="blank"><i class="fa-brands fa-hashnode" style="color: #ffffff;"></i></a></li>
+                    {% endif %} -->
+                    {% if site.author.googlegroup_username %}
+                    <li style="padding: 2%"><a title="Google Group" href="https://groups.google.com/forum/#!forum/copsiitbhu" target="blank"><i class="fa fa-google"></i></a></li>
                     {% endif %}
                     {% if site.author.email %}
                     <li style="padding: 2%"><a Title="Mail" href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
