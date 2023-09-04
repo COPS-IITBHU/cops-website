@@ -2634,7 +2634,7 @@ body {
         }
         &:focus {
           background: inherit;
-          color: var(--white);
+          color: white;
         }
       }
       .active > a:focus {
