@@ -1,6 +1,71 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Summer of Bitcoin 2023
+    i18n: company_a
+  desc:
+    detail: 3 students namely Prakhar Agarwal, Aditya Sharma and Lakshya Singh were selected as mentees under <a href="https://www.summerofbitcoin.org/" target="_blank" rel="noreferrer">Summer of Bitcoin</a>
+    i18n: company_a_desc
+  date:
+    detail: May. 2023
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
+    detail: Summer of Reproducibility 2023
+    i18n: company_a
+  desc:
+    detail: 2 students namely Srishti Jaiswal and Krishna Madhwani were selected as mentees under <a href="https://ucsc-ospo.github.io/sor/#:~:text=The%20Summer%20of%20Reproducibility%20(SoR,Cruz%20and%20the%20REPETO%20project." target="_blank" rel="noreferrer">Summer of Reproducibility</a>
+    i18n: company_a_desc
+  date:
+    detail: May. 2023
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
+    detail: Google Summer of Code 2023
+    i18n: company_a
+  desc:
+    detail: 16 students from the club got accepted in one of the most prestigious open-source software development programs - Google Summer of Code.<br><br>
+    i18n: company_a_desc
+  date:
+    detail: May. 2023
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
+    detail: XR Open Source Fellowship
+    i18n: company_a
+  desc:
+    detail: One student from our club Paarth Agarwal got accepted in the very first <a href="https://www.summerofbitcoin.org/" target="_blank" rel="noreferrer">XROS Fellowship</a>
+    i18n: company_a_desc
+  date:
+    detail: May. 2023
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
+    detail: LFX Mentorship Program 2023 Spring
+    i18n: company_a
+  desc:
+    detail: Two students from the club (Ankur Patil, Paarth Agarwal and Yash Raj) got accepted as mentees in <a href = "https://lfx.linuxfoundation.org/tools/mentorship/" target="_blank">LFX Mentorship Spring 2023</a>.
+    i18n: company_a_desc
+  date:
+    detail: March. 2023
+    i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
+- name:
     detail: LFX Mentorship Program
     i18n: company_a
   desc:
@@ -12,12 +77,12 @@
   job:
     detail: Achievement
     i18n: company_a_job
+  icon: fa-trophy
 - name:
     detail: Google Summer of Code 2022
     i18n: company_a
   desc:
-    detail: 24 students from the club got accepted in one of the most prestigious open-source software development programs - Google Summer of Code.<br><br>
-            3 students were selected as mentors while 1 student is now an org admin.
+    detail: 24 students from the club got accepted in one of the most prestigious open-source software development programs - Google Summer of Code.<br><br> 3 students were selected as mentors while 1 student is now an org admin.
     i18n: company_a_desc
   date:
     detail: May. 2022
@@ -25,6 +90,7 @@
   job:
     detail: Achievement
     i18n: company_a_job
+  icon: fa-trophy
 - name:
     detail: Outreachy 2022
     i18n: company_a
@@ -37,6 +103,7 @@
   job:
     detail: Achievement
     i18n: company_a_job
+  icon: fa-trophy
 - name:
     detail: Summer of Bitcoin 2022
     i18n: company_a
@@ -46,6 +113,10 @@
   date:
     detail: April. 2022
     i18n: company_a_date
+  job:
+    detail: Achievement
+    i18n: company_a_job
+  icon: fa-trophy
 - name:
     detail: 10th Inter IIT Tech Meet
     i18n: company_a
@@ -88,8 +159,7 @@
     detail: ACM ICPC 2020
     i18n: company_a
   desc:
-    detail: Team rng(weed) (Jatin Garg, Anshu Garg, Yash Goyal) topped Kanpur-Mathura Regionals and have chance to Represent IIT BHU in World Finals. <br><br>
-            23 Teams from the College qualified for ICPC Amritapuri Regionals.
+    detail: Team rng(weed) (Jatin Garg, Anshu Garg, Yash Goyal) topped Kanpur-Mathura Regionals and have chance to Represent IIT BHU in World Finals. <br><br> 23 Teams from the College qualified for ICPC Amritapuri Regionals.
     i18n: company_a_desc
   date:
     detail: Aug. 2021
@@ -102,8 +172,7 @@
     detail: Google Summer of Code 2021
     i18n: company_a
   desc:
-    detail: 23 students from the club got accepted in one of the most prestigious open-source software development programs - Google Summer of Code.<br><br>
-            IIT (BHU) is the institute with second highest GSoC selections in the world in 2021.
+    detail: 23 students from the club got accepted in one of the most prestigious open-source software development programs - Google Summer of Code.<br><br> IIT (BHU) is the institute with second highest GSoC selections in the world in 2021.
     i18n: company_a_desc
   date:
     detail: Summer. 2021
@@ -142,8 +211,7 @@
     detail: Google Summer of Code 2020
     i18n: company_a
   desc:
-    detail: Ten students from the club successfully completed a project in one of the most prestigious open-source software development programs - Google Summer of Code. <br><br>
-            IIT (BHU) is one of top 10 institutes in the world with most number of GSoC selections in 2020.
+    detail: Ten students from the club successfully completed a project in one of the most prestigious open-source software development programs - Google Summer of Code. <br><br> IIT (BHU) is one of top 10 institutes in the world with most number of GSoC selections in 2020.
     i18n: company_a_desc
   date:
     detail: Summer. 2020
