@@ -30,7 +30,7 @@
     detail: Google Summer of Code 2023
     i18n: company_a
   desc:
-    detail: 16 students from the club got accepted in one of the most prestigious open-source software development programs - Google Summer of Code.<br><br>
+    detail: 16 students from the club got accepted in one of the most prestigious open-source software development programs - Google Summer of Code.<br>
     i18n: company_a_desc
   date:
     detail: May. 2023
@@ -43,10 +43,10 @@
     detail: XR Open Source Fellowship
     i18n: company_a
   desc:
-    detail: One student from our club Paarth Agarwal got accepted in the very first <a href="https://xrosfellowship.ficci.in/" target="_blank" rel="noreferrer">XROS Fellowship</a>
+    detail: One student from our club Paarth Agarwal got accepted in the very first <a href="https://www.summerofbitcoin.org/" target="_blank" rel="noreferrer">XROS Fellowship</a>
     i18n: company_a_desc
   date:
-    detail: May. 2023
+    detail: March. 2023
     i18n: company_a_date
   job:
     detail: Achievement
@@ -56,7 +56,7 @@
     detail: LFX Mentorship Program 2023 Spring
     i18n: company_a
   desc:
-    detail: Two students from the club Ankur Patil, Paarth Agarwal and Yash Raj got accepted as mentees in <a href = "https://lfx.linuxfoundation.org/tools/mentorship/" target="_blank">LFX Mentorship Spring 2023</a>.
+    detail: Two students from the club (Ankur Patil, Paarth Agarwal and Yash Raj) got accepted as mentees in <a href = "https://lfx.linuxfoundation.org/tools/mentorship/" target="_blank">LFX Mentorship Spring 2023</a>.
     i18n: company_a_desc
   date:
     detail: March. 2023
